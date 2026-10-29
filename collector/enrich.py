@@ -26,7 +26,8 @@ SIGNALS = {
     "sales_ended": r"sales? (?:have |has )?ended|no longer (?:on sale|available)|event (?:has )?ended|this event has passed",
     "not_on_sale": r"(?:tickets?|registration) (?:go|goes|will go) on sale|on sale (?:on|starting|beginning)|registration opens|coming soon",
     "cancelled": r"cancell?ed|postponed",
-    "registration_required": r"registration required|reservations? required|rsvp required|advance (?:registration|reservation)|must register",
+    "registration_required": r"(?:registration|reservations?|rsvp|tickets?) (?:is |are )?required|advance (?:registration|reservation)|must register",
+    "deadline": r"(?:registration|reservations?|sign[\s-]?ups?|enrollment)[^|\n]{0,120}?\bclos(?:e|es|ing)\b[^|\n]{0,40}|deadline[^|\n]{0,60}|register by[^|\n]{0,40}",
     "age_limit": r"ages? \d+\s?(?:\+|and up|or older|-\s?\d+)|\d+\s?\+ only|adults only|18\+|21\+",
 }
 PRICE = r"\$\s?\d+(?:\.\d{2})?|\bfree\b"
@@ -56,6 +57,8 @@ def main():
         for ev in picks:
             page = fetch(ev["url"], ev.get("mode", "auto"), browser)
             text = page.text
+            if page.status == "thin" and len(text) >= 300:
+                page.status = "ok"  # single event pages are short; that's fine here
             results[ev["key"]] = {
                 "url": ev["url"], "final_url": page.final_url, "status": page.status,
                 "method": page.method, "attempts": page.attempts, "http": page.http_status,

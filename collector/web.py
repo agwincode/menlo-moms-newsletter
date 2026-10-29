@@ -78,6 +78,8 @@ def parse_html(html: str, base_url: str) -> dict:
         return ""
 
     og_image = meta("og:image", "og:image:url", "twitter:image", "twitter:image:src")
+    if re.search(r"(blank|spacer|pixel)\.(gif|png)", og_image, re.I):
+        og_image = ""
     og_title = soup.find("meta", attrs={"property": "og:title"})
     title = (og_title.get("content") if og_title else "") or \
         (soup.title.string.strip() if soup.title and soup.title.string else "")
@@ -90,7 +92,7 @@ def parse_html(html: str, base_url: str) -> dict:
     images = []
     for img in root.find_all("img"):
         src = img.get("src") or img.get("data-src") or ""
-        if not src or src.startswith("data:") or re.search(r"(logo|icon|sprite|avatar|pixel)", src, re.I):
+        if not src or src.startswith("data:") or re.search(r"(logo|icon|sprite|avatar|pixel|blank\.gif|spacer)", src, re.I):
             continue
         images.append(urljoin(base_url, src))
         if len(images) >= 5:
