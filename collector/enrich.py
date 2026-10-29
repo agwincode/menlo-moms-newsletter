@@ -1,6 +1,7 @@
 """Check every event the editor picked, on the organizer's own page.
 
-Input:  runs/<friday>/picks.json   {"events": [{"key": "pumpkin-drop", "url": "https://..."}]}
+Input:  runs/<friday>/picks.json   {"events": [{"key": "pumpkin-drop", "url": "https://...", "photos": true}]}
+        ("photos": true for lineup candidates: saves up to 4 photo options to runs/<friday>/images/<key>/)
 Output: runs/<friday>/enrich.json  per key: page status, share image, price/date/ticket clues
 
 The editor reads enrich.json to confirm each card (dates incl. multi-day, price,
@@ -15,7 +16,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from web import Browser, fetch  # noqa: E402
+from web import Browser, capture_photos, fetch  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -68,8 +69,14 @@ def main():
                 "dates": list(dict.fromkeys(m.group(0).strip() for m in re.finditer(DATE, text, re.I)))[:15],
                 "text": text[:15000],
                 "error": page.error,
+                "photos": [],
             }
-            print(f"{page.status:7} {page.method:7} img={'y' if page.og_image else 'n'}  {ev['key']}")
+            if ev.get("photos") and page.status != "blocked":
+                shots = capture_photos(browser, page.final_url or ev["url"], run / "images" / ev["key"], page.og_image)
+                for s in shots:  # store paths relative to the run folder
+                    s["file"] = str(Path(s["file"]).relative_to(run))
+                results[ev["key"]]["photos"] = shots
+            print(f"{page.status:7} {page.method:7} photos={len(results[ev['key']]['photos'])}  {ev['key']}")
 
     (run / "enrich.json").write_text(json.dumps(results, indent=1, ensure_ascii=False))
     ok = sum(r["status"] == "ok" for r in results.values())

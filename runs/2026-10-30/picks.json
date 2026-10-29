@@ -1,0 +1,33 @@
+{
+ "events": [
+  {
+   "key": "halloween-concert",
+   "url": "https://events.stanford.edu/event/2026-halloween-concert",
+   "photos": true
+  },
+  {
+   "key": "pumpkin-drop",
+   "url": "https://www.hiller.org/event/pumpkin-drop/",
+   "photos": true
+  },
+  {
+   "key": "canopy-tree-planting",
+   "url": "https://canopy.org/get-involved/volunteer-signup/",
+   "photos": true
+  },
+  {
+   "key": "filoli-winter-cleanup",
+   "url": "https://filoli.org/whats-on/events/service-learning-winter-clean-up/",
+   "photos": true
+  },
+  {
+   "key": "moah-halloween",
+   "url": "https://www.moah.org/moahevents/halloween-night-at-the-museum-1",
+   "photos": true
+  },
+  {
+   "key": "hiking-hounds",
+   "url": "https://www.openspace.org/events/guided-activities/halloween-hiking-hounds"
+  }
+ ]
+}

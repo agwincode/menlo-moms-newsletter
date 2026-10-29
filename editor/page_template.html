@@ -1,0 +1,235 @@
+<title>Menlo Moms Draft</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap">
+<style>
+/* Layout: a working desk. Left rail = Sunday checklist; right = the issue at email width. Stacks on phones. */
+:root {
+  --bg: #f2f4f1;          /* morning fog over the Peninsula */
+  --paper: #ffffff;
+  --ink: #18221d;
+  --muted: #5d6a63;
+  --line: #d9dfd9;
+  --accent: #2f6b4f;      /* park green */
+  --accent-ink: #ffffff;
+  --check: #9a5b00;       /* needs a look */
+  --check-bg: #fff3dc;
+  --ok: #2f6b4f;
+  --font-ui: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-issue: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --issue-w: 640px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111613; --paper: #1a211d; --ink: #e5ebe7; --muted: #9aa8a0; --line: #2c3631;
+    --accent: #7cc3a0; --accent-ink: #0d1411; --check: #f0b860; --check-bg: #33280f; --ok: #7cc3a0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111613; --paper: #1a211d; --ink: #e5ebe7; --muted: #9aa8a0; --line: #2c3631;
+  --accent: #7cc3a0; --accent-ink: #0d1411; --check: #f0b860; --check-bg: #33280f; --ok: #7cc3a0;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font: 15px/1.5 var(--font-ui);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 48px;
+}
+a { color: var(--accent); }
+button { font: inherit; cursor: pointer; }
+button:focus-visible, a:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.top { max-width: 1180px; margin: 0 auto 20px; display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: end; justify-content: space-between; }
+.top h1 { margin: 0; font: 700 1.6rem/1.15 var(--font-ui); letter-spacing: -0.01em; text-wrap: balance; }
+.top .sub { color: var(--muted); font-size: 0.9rem; margin-top: 4px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { font-size: 0.8rem; font-weight: 600; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--paper); font-variant-numeric: tabular-nums; }
+.chip.warn { background: var(--check-bg); color: var(--check); border-color: transparent; }
+
+.desk { max-width: 1180px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr); gap: 24px; align-items: start; }
+@media (max-width: 900px) { .desk { grid-template-columns: minmax(0, 1fr); } }
+
+.rail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 12px); display: grid; gap: 16px; min-width: 0; }
+@media (max-width: 900px) { .rail { position: static; } }
+.panel { background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: 16px; min-width: 0; }
+.panel h2 { margin: 0 0 10px; font: 700 0.95rem/1.3 var(--font-ui); }
+.copyline { display: grid; gap: 4px; margin-bottom: 12px; }
+.copyline .lbl { font-size: 0.75rem; font-weight: 600; color: var(--muted); letter-spacing: 0.02em; }
+.copyline .row { display: flex; gap: 8px; align-items: start; }
+.copyline .val { flex: 1; min-width: 0; font-size: 0.9rem; overflow-wrap: anywhere; }
+.btn { border: 1px solid var(--line); background: var(--paper); color: var(--ink); border-radius: 8px; padding: 6px 12px; font-size: 0.85rem; font-weight: 600; white-space: nowrap; }
+.btn:hover { border-color: var(--accent); }
+.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); width: 100%; padding: 10px 12px; font-size: 0.95rem; }
+.hint { color: var(--muted); font-size: 0.8rem; margin: 8px 0 0; }
+
+.review h3 { margin: 14px 0 6px; font: 700 0.8rem/1.3 var(--font-ui); color: var(--muted); letter-spacing: 0.03em; }
+.review h3:first-child { margin-top: 0; }
+.review ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.review li { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 8px; font-size: 0.88rem; align-items: start; }
+.review li input { margin-top: 3px; accent-color: var(--accent); }
+.review li.done span { color: var(--muted); text-decoration: line-through; }
+.review .must li span { color: var(--ink); }
+.review .must { background: var(--check-bg); border-radius: 8px; padding: 10px; }
+.review .must h3 { color: var(--check); }
+.review p { margin: 0 0 8px; font-size: 0.88rem; }
+
+.issue { background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: 28px clamp(16px, 4vw, 40px); min-width: 0; }
+.issue .inner { max-width: var(--issue-w); margin: 0 auto; font: 17px/1.6 var(--font-issue); }
+.issue h2 { font: 700 1.35rem/1.25 var(--font-issue); margin: 1.6em 0 0.6em; text-wrap: balance; }
+.issue h3 { font: 700 0.95rem/1.3 var(--font-ui); letter-spacing: 0.04em; margin: 1.4em 0 0.4em; color: var(--accent); }
+.issue hr { border: 0; border-top: 1px solid var(--line); margin: 1.4em 0; }
+.issue p { margin: 0 0 0.8em; }
+.issue ul { padding-left: 1.2em; }
+.issue li { margin-bottom: 0.5em; }
+.issue em { color: var(--muted); }
+.issue .weather { background: var(--bg); border-radius: 8px; padding: 10px 14px; font: 500 0.95rem/1.45 var(--font-ui); }
+
+figure.photo { margin: 0.6em 0 1em; display: grid; gap: 8px; }
+figure.photo .main { width: 100%; max-width: 100%; height: auto; border-radius: 6px; display: block; background: var(--bg); }
+.opts { display: flex; flex-wrap: wrap; gap: 8px; }
+.opt { padding: 0; border: 2px solid transparent; border-radius: 6px; background: none; line-height: 0; }
+.opt img { width: 84px; height: 56px; object-fit: cover; border-radius: 4px; display: block; }
+.opt[aria-pressed="true"] { border-color: var(--accent); }
+figure.photo figcaption { display: flex; flex-wrap: wrap; gap: 6px 12px; align-items: center; font: 0.8rem/1.3 var(--font-ui); color: var(--muted); }
+figure.photo figcaption .btn { padding: 4px 10px; font-size: 0.8rem; }
+.nophoto { font: 0.85rem/1.4 var(--font-ui); color: var(--check); background: var(--check-bg); border-radius: 6px; padding: 8px 10px; margin: 0.5em 0 1em; }
+
+.toast { position: fixed; left: 50%; bottom: calc(20px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--paper); padding: 8px 14px; border-radius: 8px; font-size: 0.88rem; max-width: calc(100% - 32px); }
+@media (prefers-reduced-motion: no-preference) { .toast { transition: opacity .2s; } }
+</style>
+
+<header class="top">
+  <div>
+    <h1>Weekend of __WEEKEND__</h1>
+    <div class="sub">Draft built __BUILT_AT__ · sends Thursday</div>
+  </div>
+  <div class="chips">
+    <span class="chip __CHECK_CLASS__">__CHECK_COUNT__</span>
+    <span class="chip">__CARD_COUNT__</span>
+    <span class="chip">Forecast as of __FORECAST_ASOF__</span>
+  </div>
+</header>
+
+<main class="desk">
+  <aside class="rail">
+    <section class="panel">
+      <h2>Schedule in Substack</h2>
+      <div class="copyline">
+        <span class="lbl">Subject line</span>
+        <div class="row"><span class="val" id="subj">__SUBJECT__</span><button class="btn" data-copy="subj" type="button">Copy</button></div>
+      </div>
+      <div class="copyline">
+        <span class="lbl">Preview text</span>
+        <div class="row"><span class="val" id="prev">__PREVIEW__</span><button class="btn" data-copy="prev" type="button">Copy</button></div>
+      </div>
+      <button class="btn primary" id="copyIssue" type="button">Copy issue with chosen photos</button>
+      <p class="hint">Pick a photo under each card first. If photos don't come through when you paste, use "Copy photo" on each card.</p>
+    </section>
+    <section class="panel review" id="review">
+      <h2>Before you schedule</h2>
+      __REVIEW_HTML__
+    </section>
+  </aside>
+
+  <article class="issue"><div class="inner" id="issue">
+__ISSUE_HTML__
+  </div></article>
+</main>
+
+<div class="toast" id="toast" hidden></div>
+
+<script>
+(function () {
+  const WEEK = "__FRIDAY__";
+  const store = {
+    get(k) { try { return JSON.parse(localStorage.getItem("mm:" + WEEK + ":" + k)); } catch (e) { return null; } },
+    set(k, v) { try { localStorage.setItem("mm:" + WEEK + ":" + k, JSON.stringify(v)); } catch (e) {} }
+  };
+  const toastEl = document.getElementById("toast");
+  let toastTimer;
+  function toast(msg) {
+    toastEl.textContent = msg; toastEl.hidden = false;
+    clearTimeout(toastTimer); toastTimer = setTimeout(() => { toastEl.hidden = true; }, 2600);
+  }
+
+  // Photo choice per card (remembered in this browser)
+  const picks = store.get("photos") || {};
+  document.querySelectorAll("figure.photo").forEach(fig => {
+    const key = fig.dataset.key, main = fig.querySelector(".main"), cap = fig.querySelector(".kind");
+    const opts = [...fig.querySelectorAll(".opt")];
+    function choose(i, save) {
+      opts.forEach((o, j) => o.setAttribute("aria-pressed", String(j === i)));
+      const o = opts[i]; if (!o) return;
+      main.src = o.querySelector("img").src;
+      if (cap) cap.textContent = o.dataset.kind;
+      const src = fig.querySelector(".src"); if (src) src.href = o.dataset.source;
+      if (save) { picks[key] = i; store.set("photos", picks); }
+    }
+    opts.forEach((o, i) => o.addEventListener("click", () => choose(i, true)));
+    if (Number.isInteger(picks[key]) && picks[key] < opts.length) choose(picks[key], false);
+    fig.querySelector(".copy-photo")?.addEventListener("click", () => copyImage(main));
+  });
+
+  async function copyImage(img) {
+    try {
+      const c = document.createElement("canvas");
+      c.width = img.naturalWidth; c.height = img.naturalHeight;
+      c.getContext("2d").drawImage(img, 0, 0);
+      const blob = await new Promise(r => c.toBlob(r, "image/png"));
+      await navigator.clipboard.write([new ClipboardItem({ "image/png": blob })]);
+      toast("Photo copied. Paste it into the card in Substack.");
+    } catch (e) {
+      toast("Couldn't copy here. Right-click the photo and choose Copy Image.");
+    }
+  }
+
+  // Copy subject / preview
+  document.querySelectorAll("[data-copy]").forEach(b => b.addEventListener("click", async () => {
+    const text = document.getElementById(b.dataset.copy).textContent.trim();
+    try { await navigator.clipboard.writeText(text); toast("Copied."); }
+    catch (e) { selectNode(document.getElementById(b.dataset.copy)); toast("Selected. Press Cmd+C to copy."); }
+  }));
+
+  function selectNode(node) {
+    const r = document.createRange(); r.selectNodeContents(node);
+    const s = getSelection(); s.removeAllRanges(); s.addRange(r);
+  }
+
+  // Copy the whole issue as rich text, with each card's chosen photo
+  document.getElementById("copyIssue").addEventListener("click", async () => {
+    const clone = document.getElementById("issue").cloneNode(true);
+    clone.querySelectorAll("figure.photo").forEach(fig => {
+      const img = document.createElement("img");
+      img.src = fig.querySelector(".main").src; img.alt = "";
+      const p = document.createElement("p"); p.appendChild(img);
+      fig.replaceWith(p);
+    });
+    clone.querySelectorAll(".nophoto").forEach(n => n.remove());
+    const html = clone.innerHTML, text = clone.innerText;
+    try {
+      await navigator.clipboard.write([new ClipboardItem({
+        "text/html": new Blob([html], { type: "text/html" }),
+        "text/plain": new Blob([text], { type: "text/plain" })
+      })]);
+      toast("Issue copied. Paste it into a new Substack post.");
+    } catch (e) {
+      selectNode(document.getElementById("issue"));
+      toast("Selected the issue. Press Cmd+C to copy.");
+    }
+  });
+
+  // Checklist ticks (this browser only)
+  const done = store.get("done") || {};
+  document.querySelectorAll("#review input[type=checkbox]").forEach(cb => {
+    const li = cb.closest("li");
+    if (done[cb.id]) { cb.checked = true; li.classList.add("done"); }
+    cb.addEventListener("change", () => {
+      done[cb.id] = cb.checked; li.classList.toggle("done", cb.checked); store.set("done", done);
+    });
+  });
+})();
+</script>

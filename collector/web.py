@@ -203,6 +203,109 @@ class Browser:
         return page
 
 
+LARGEST_IMAGES_JS = """
+() => {
+  const out = [];
+  const seen = new Set();
+  for (const el of document.querySelectorAll('img, picture, [style*="background-image"]')) {
+    const r = el.getBoundingClientRect();
+    if (r.width < 280 || r.height < 160) continue;
+    const top = r.top + window.scrollY;
+    if (top > 2600) continue;
+    const src = el.currentSrc || el.src || getComputedStyle(el).backgroundImage || '';
+    if (/logo|icon|sprite|avatar/i.test(src)) continue;
+    const key = Math.round(r.left) + ':' + Math.round(top);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push({i: out.length, area: r.width * r.height, top, src: src.slice(0, 500)});
+    el.setAttribute('data-mm-photo', String(out.length - 1));
+  }
+  return out.sort((a, b) => b.area - a.area).slice(0, 3);
+}
+"""
+
+
+def _save_jpeg(data: bytes, path, max_side: int = 1200) -> dict | None:
+    """Normalize any image bytes to a reasonably sized JPEG. Returns size info or None."""
+    import io
+    from PIL import Image
+    try:
+        im = Image.open(io.BytesIO(data))
+        im.load()
+    except Exception:
+        return None
+    if im.width < 250 or im.height < 140:
+        return None  # too small to use as a card photo
+    if im.mode not in ("RGB", "L"):
+        bg = Image.new("RGB", im.size, (255, 255, 255))
+        im = im.convert("RGBA")
+        bg.paste(im, mask=im.split()[-1])
+        im = bg
+    im = im.convert("RGB")
+    im.thumbnail((max_side, max_side))
+    path.parent.mkdir(parents=True, exist_ok=True)
+    im.save(path, "JPEG", quality=80, optimize=True, progressive=True)
+    return {"w": im.width, "h": im.height}
+
+
+def capture_photos(browser: "Browser", url: str, outdir, og_image: str = "") -> list:
+    """Up to 4 photo options for an event card, like the ones Angela picks by hand:
+    the page's share image, its biggest images/flyers, and a screenshot of the top of the page."""
+    from pathlib import Path
+    outdir = Path(outdir)
+    photos, n = [], 0
+
+    def add(data, kind, source):
+        nonlocal n
+        n += 1
+        f = outdir / f"{n}.jpg"
+        info = _save_jpeg(data, f)
+        if info:
+            photos.append({"file": f.as_posix(), "kind": kind, "source": source, **info})
+        else:
+            n -= 1
+
+    tab = browser._ctx.new_page()
+    try:
+        try:
+            tab.goto(url, wait_until="domcontentloaded", timeout=60000)
+        except Exception:
+            tab.goto(url, wait_until="commit", timeout=45000)
+        try:
+            tab.wait_for_load_state("networkidle", timeout=15000)
+        except Exception:
+            pass
+        tab.wait_for_timeout(2500)
+        if og_image:
+            try:
+                r = tab.request.get(og_image, timeout=20000)
+                if r.ok:
+                    add(r.body(), "share image", og_image)
+            except Exception:
+                pass
+        try:
+            for item in tab.evaluate(LARGEST_IMAGES_JS):
+                el = tab.query_selector(f'[data-mm-photo="{item["i"]}"]')
+                if el:
+                    try:
+                        add(el.screenshot(timeout=10000), "image on page", item["src"][:300] if item["src"].startswith("http") else url)
+                    except Exception:
+                        pass
+                if len(photos) >= 3:
+                    break
+        except Exception:
+            pass
+        try:
+            add(tab.screenshot(clip={"x": 0, "y": 0, "width": 1440, "height": 900}), "top of page", url)
+        except Exception:
+            pass
+    except Exception:
+        pass
+    finally:
+        tab.close()
+    return photos
+
+
 def fetch(url: str, mode: str = "auto", browser: Browser | None = None) -> Page:
     """mode: auto | browser. Returns the best result, with every attempt recorded."""
     rank = {"ok": 3, "thin": 2, "blocked": 1, "error": 0}
