@@ -3,6 +3,10 @@ name: Smoke test all sources
 # One-off: load every source (including retired ones) from GitHub's servers.
 on:
   workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma-separated source ids (blank = all)"
+        required: false
 
 permissions:
   contents: write
@@ -23,6 +27,6 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python -m playwright install --with-deps chromium
-      - run: python collector/collect.py --smoke
+      - run: python collector/collect.py --smoke ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
       - if: always()
         run: collector/commit_and_push.sh "Smoke test" runs

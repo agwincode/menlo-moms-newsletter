@@ -67,12 +67,17 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--friday")
     ap.add_argument("--smoke", action="store_true")
+    ap.add_argument("--only", help="comma-separated source ids (testing)")
     args = ap.parse_args()
 
     cfg = yaml.safe_load((ROOT / "sources.yaml").read_text())
     sources = list(cfg["sources"])
+    if args.only:
+        want = set(args.only.split(","))
+        sources = [s for s in sources + cfg.get("retired", []) if s["id"] in want]
     if args.smoke:
-        sources += [dict(s, retired=True) for s in cfg.get("retired", [])]
+        if not args.only:
+            sources += [dict(s, retired=True) for s in cfg.get("retired", [])]
         out = ROOT / "runs" / f"_smoke-{datetime.now():%Y%m%d-%H%M}"
         friday = target_friday(date.today())
     else:

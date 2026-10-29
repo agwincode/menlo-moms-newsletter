@@ -12,6 +12,8 @@
 # paloalto.gov), Almanac calendar (403 every run), Portola Valley town events
 # (Access Denied every run, and lists months, not dates). The editor's web sweep
 # covers PV Palooza / Town Picnic.
+# Removed 2026-10-29: DoTheBay (city page now 404s; also a past source of ICC leaks).
+# Hiller blocks GitHub's servers (403); the editor retries it in the browser.
 
 sources:
   # City calendars
@@ -35,7 +37,7 @@ sources:
   - id: gamble-garden
     url: https://www.gamblegarden.org/events/
   - id: hidden-villa
-    url: https://www.hiddenvilla.org/events/
+    url: https://www.hiddenvilla.org/calendar/upcoming/
   - id: keplers
     url: https://www.keplers.org/youth-events
   - id: palo-alto-zoo
@@ -51,6 +53,8 @@ sources:
     mode: browser
   - id: stanford-live-family
     url: https://live.stanford.edu/events/categories/family
+    mode: browser
+    note: plain fetch gets an 'update your browser' page
 
   # Museums and outdoors
   - id: computer-history-museum
@@ -63,8 +67,6 @@ sources:
   # Private venues and aggregators
   - id: springline
     url: https://springline.com/lifestyle/
-  - id: dothebay
-    url: https://dothebay.com/cities/menlo-park
   - id: macaroni-kid
     url: https://paloalto.macaronikid.com/events
     mode: browser
@@ -116,6 +118,8 @@ sources:
 
 # Kept only for the one-time smoke test, to confirm the removals.
 retired:
+  - id: dothebay
+    url: https://dothebay.com/cities/menlo-park
   - id: magical-bridge
     url: https://www.magicalbridge.org/paloaltoevents
   - id: almanac-calendar
