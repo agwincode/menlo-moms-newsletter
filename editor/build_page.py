@@ -123,8 +123,7 @@ def main():
         cards += 1
         return photo_block(m.group(1), int(m.group(2) or 1), enrich, run)
     body = re.sub(r"<!--\s*photos:([\w-]+)(?::(\d+))?\s*-->", photos_sub, body)
-    issue = markdown.markdown(body, extensions=["extra", "sane_lists"])
-    issue = issue.replace('<p class="weather">', '<p class="weather">')
+    issue = markdown.markdown(body, extensions=["extra", "sane_lists", "nl2br"])
 
     rev, checks = review_html(review_md)
     asof = wx.get("fetched")
