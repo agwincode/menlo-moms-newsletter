@@ -1,0 +1,22 @@
+{
+ "id": "hiller",
+ "watchlist": false,
+ "retired": false,
+ "note": "",
+ "collected_at": "2026-10-29T21:13:05",
+ "url": "https://www.hiller.org/calendar/",
+ "final_url": "https://www.hiller.org/calendar/",
+ "method": "browser",
+ "status": "blocked",
+ "http_status": 403,
+ "title": "403 Forbidden",
+ "og_image": "",
+ "image_candidates": [],
+ "text": "403 Forbidden\nnginx",
+ "links": [],
+ "error": "",
+ "attempts": [
+  "direct:blocked:403",
+  "browser:blocked:403"
+ ]
+}

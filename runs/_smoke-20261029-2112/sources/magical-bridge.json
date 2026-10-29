@@ -1,0 +1,27 @@
+{
+ "id": "magical-bridge",
+ "watchlist": false,
+ "retired": true,
+ "note": "",
+ "collected_at": "2026-10-29T21:14:12",
+ "url": "https://www.magicalbridge.org/paloaltoevents",
+ "final_url": "https://www.magicalbridge.org/paloaltoevents",
+ "method": "browser",
+ "status": "error",
+ "http_status": 404,
+ "title": "404 Error: Page Not Found",
+ "og_image": "",
+ "image_candidates": [],
+ "text": "ERROR: PAGE NOT FOUND\n404\nThis page isn’t available.\nGo to Homepage",
+ "links": [
+  {
+   "text": "Go to Homepage",
+   "href": "https://www.magicalbridge.org"
+  }
+ ],
+ "error": "",
+ "attempts": [
+  "direct:error:404",
+  "browser:error:404"
+ ]
+}
