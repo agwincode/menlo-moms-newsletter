@@ -1,0 +1,49 @@
+name: Enrich picks
+
+# Runs when the editor pushes runs/<friday>/picks.json (or by hand).
+on:
+  push:
+    paths:
+      - "runs/*/picks.json"
+  workflow_dispatch:
+    inputs:
+      friday:
+        description: "Run folder (YYYY-MM-DD)"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - name: Find run folder
+        id: run
+        run: |
+          if [ -n "${{ inputs.friday }}" ]; then
+            echo "friday=${{ inputs.friday }}" >> "$GITHUB_OUTPUT"
+          else
+            f=$(git diff --name-only HEAD~1 HEAD | grep -E '^runs/[0-9-]+/picks.json$' | head -1 | cut -d/ -f2)
+            echo "friday=$f" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Check each picked event page
+        if: steps.run.outputs.friday != ''
+        run: python collector/enrich.py "${{ steps.run.outputs.friday }}"
+      - name: Save results
+        if: always() && steps.run.outputs.friday != ''
+        run: collector/commit_and_push.sh "Enrich picks" runs

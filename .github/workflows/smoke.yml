@@ -1,0 +1,28 @@
+name: Smoke test all sources
+
+# One-off: load every source (including retired ones) from GitHub's servers.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - run: python collector/collect.py --smoke
+      - if: always()
+        run: collector/commit_and_push.sh "Smoke test" runs

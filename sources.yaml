@@ -1,0 +1,124 @@
+# Menlo Moms sources, pulled every Friday morning by collector/collect.py.
+#
+# mode:
+#   auto    – plain page fetch; falls back to a headless browser if the page is
+#             blocked or too thin (default, and right for most sites)
+#   browser – always use the headless browser (page builds its listings with JavaScript)
+#   rss     – RSS/Atom feed
+# watchlist: true – annual-festival page, checked for on-sale/lineup news only
+#
+# To add a source: add an entry, push, and check the next run's summary.md.
+# Removed 2026-10-29: Magical Bridge (never returned usable text; its events are on
+# paloalto.gov), Almanac calendar (403 every run), Portola Valley town events
+# (Access Denied every run, and lists months, not dates). The editor's web sweep
+# covers PV Palooza / Town Picnic.
+
+sources:
+  # City calendars
+  - id: menlo-park-events
+    url: https://www.menlopark.gov/Events
+  - id: palo-alto-events
+    url: https://www.paloalto.gov/Events-Directory
+  - id: funcheap-redwood-city
+    url: https://sf.funcheap.com/region/redwood-city/
+    note: Redwood City substitute (redwoodcity.org blocks scrapers)
+  - id: downtown-menlo
+    url: https://downtownmenlo.com/explore/events
+    note: Fourth Fridays and downtown programming
+
+  # Local institutions
+  - id: filoli
+    url: https://filoli.org/events/
+  - id: filoli-autumn-days
+    url: https://filoli.org/whats-on/events/autumn-days/
+    note: seasonal sub-page; swap for the current season's page
+  - id: gamble-garden
+    url: https://www.gamblegarden.org/events/
+  - id: hidden-villa
+    url: https://www.hiddenvilla.org/events/
+  - id: keplers
+    url: https://www.keplers.org/youth-events
+  - id: palo-alto-zoo
+    url: https://www.paloaltozoo.org/visit
+  - id: guild-theatre
+    url: https://www.guildtheatre.com/calendar
+  - id: canopy
+    url: https://canopy.org/events/
+
+  # Stanford
+  - id: stanford-athletics
+    url: https://gostanford.com/calendar
+    mode: browser
+  - id: stanford-live-family
+    url: https://live.stanford.edu/events/categories/family
+
+  # Museums and outdoors
+  - id: computer-history-museum
+    url: https://computerhistory.org/events/
+  - id: hiller
+    url: https://www.hiller.org/calendar/
+  - id: midpen
+    url: https://www.openspace.org/events
+
+  # Private venues and aggregators
+  - id: springline
+    url: https://springline.com/lifestyle/
+  - id: dothebay
+    url: https://dothebay.com/cities/menlo-park
+  - id: macaroni-kid
+    url: https://paloalto.macaronikid.com/events
+    mode: browser
+  - id: funcheap-peninsula
+    url: https://sf.funcheap.com/region/peninsula/
+  - id: mommy-poppins
+    url: https://mommypoppins.com/san-francisco-bay-area
+  - id: pact
+    url: https://pact.showare.com/
+    mode: browser
+    note: Palo Alto Children's Theatre; dates and availability load via JavaScript
+  - id: smc-library
+    url: https://smcl.bibliocommons.com/v2/events?content_type=EVENTS
+    mode: browser
+
+  # Menlo Park Rec enrollment (Don't Miss signups)
+  - id: mp-gymnastics
+    url: https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Recreation-and-sports/Gymnastics
+  - id: mp-activity-guide
+    url: https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Activity-guide
+  - id: mp-registration
+    url: https://cityofmenlopark.perfectmind.com/26116/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406
+    mode: browser
+
+  # Feeds
+  - id: inmenlo
+    url: https://inmenlo.com/feed/
+    mode: rss
+
+  # Annual festival watchlist
+  - id: bottlerock
+    url: https://www.bottlerocknapavalley.com/
+    watchlist: true
+  - id: outside-lands
+    url: https://www.sfoutsidelands.com/
+    watchlist: true
+  - id: maker-faire
+    url: https://makerfaire.com/bay-area/
+    watchlist: true
+  - id: hmb-pumpkin-fest
+    url: https://hmbpumpkinfest.com/
+    watchlist: true
+  - id: stern-grove
+    url: https://www.sterngrove.org/
+    watchlist: true
+  - id: la-honda-fair
+    url: https://www.visithalfmoonbay.org/events/la-honda-art-music-fair/
+    watchlist: true
+
+# Kept only for the one-time smoke test, to confirm the removals.
+retired:
+  - id: magical-bridge
+    url: https://www.magicalbridge.org/paloaltoevents
+  - id: almanac-calendar
+    url: https://www.almanacnews.com/calendar/
+  - id: portola-valley-events
+    url: https://www.portolavalley.net/community/town-sponsored-events
