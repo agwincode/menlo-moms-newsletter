@@ -1,0 +1,325 @@
+{
+ "halloween-concert": {
+  "url": "https://events.stanford.edu/event/2026-halloween-concert",
+  "final_url": "https://events.stanford.edu/event/2026-halloween-concert",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "2026 Halloween Concert",
+  "og_image": "https://localist-images.azureedge.net/photos/54003212361339/huge/4991dc7fed4cc6056a9446b88497f33a0a376264.jpg",
+  "image_candidates": [
+   "https://localist-images.azureedge.net/photos/54003212361339/square_300@2x/4991dc7fed4cc6056a9446b88497f33a0a376264.jpg"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$27",
+   "$32",
+   "$4",
+   "free"
+  ],
+  "dates": [
+   "Friday, October 30, 2026"
+  ],
+  "text": "Close modal\nPerformance\n2026 Halloween Concert\nSponsored by\nDepartment of Music\nFriday, October 30, 2026\n7:30pm to 9pm PT\nAdd to calendar:\nDinkelspiel Auditorium\n471 Lagunita Drive, Stanford, CA 94305\nView map\nThis event is open to:\nEveryone\nGeneral Public\nRequest disability accommodations and access info\n$27 – $32\n Buy Tickets\n Share: \nShare 2026 Halloween Concert\nShare 2026 Halloween Concert on Facebook\nShare 2026 Halloween Concert on X\nShare 2026 Halloween Concert on LinkedIn\nEvent Details:\nThe \nStanford Symphony Orchestra \nand \nStanford Wind Symphony\n team up to present the annual Halloween Concert in Dinkelspiel Auditorium with a dramatic program of repertoire appropriate for the season.\nDon't forget to wear your costume! Following the second half of the program, there will be a contest with the winner taking the stage to conduct the evening's final selection.\nThis event is always well attended, so plan to get your ticket in advance!\nStanford Symphony Orchestra\nRichard Strauss – \nAlso sprach Zarathustra (opening)\nGustav Holst – \n\"Mars\" and \"Jupiter\" from \nThe Planets\nJohn Williams –\nStar Wars: The Empire Strikes Back\nJerry Goldsmith – \nStar Trek\n Through the Years\nStanford Wind Symphony\nDmitri Shostakovich\n – Prelude, Op. 34, no. 14\nGolden from \nKPop Demon Hunters\nFrançois Borne\n – Fantaisie brillante sur \nCarmen\nErica Wang, flute soloist\nAndrew Lloyd Webber\n – Selections from \nThe Phantom of the Opera\nJohn Philip Sousa\n – The Washington Post March\nAdmission Information\nGeneral\n – $32 | \nSeniors (65+) and Non-Stanford Students\n – $27\nPrice shown reflects total cost including $4 online/phone per-ticket fee.\nFREE\n admission for Stanford University students. One ticket per ID, available beginning one hour prior to curtain at the venue.\nPerformance\nMusic\nArts/Media\nHumanities\nLocation:\nHide map\nShow map\nPublic transport\nCar\nWalking",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/halloween-concert/1.jpg",
+    "kind": "share image",
+    "source": "https://localist-images.azureedge.net/photos/54003212361339/huge/4991dc7fed4cc6056a9446b88497f33a0a376264.jpg",
+    "w": 643,
+    "h": 360
+   },
+   {
+    "file": "images/halloween-concert/2.jpg",
+    "kind": "image on page",
+    "source": "https://localist-images.azureedge.net/photos/54003212361339/square_300@2x/4991dc7fed4cc6056a9446b88497f33a0a376264.jpg",
+    "w": 385,
+    "h": 385
+   },
+   {
+    "file": "images/halloween-concert/3.jpg",
+    "kind": "top of page",
+    "source": "https://events.stanford.edu/event/2026-halloween-concert",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "pumpkin-drop": {
+  "url": "https://www.hiller.org/event/pumpkin-drop/",
+  "final_url": "https://www.hiller.org/event/pumpkin-drop/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Pumpkin Drop - Hiller Aviation Museum",
+  "og_image": "https://www.hiller.org/wp-content/uploads/pumpkin-drop-Lauren-web-1.jpg",
+  "image_candidates": [
+   "https://www.hiller.org/wp-content/uploads/300-stacked-rev-2.png",
+   "https://www.hiller.org/wp-content/uploads/300-stacked-rev-2.png",
+   "https://www.hiller.org/wp-content/uploads/2023_Tam-DSCF1819_XP2-scaled.jpg",
+   "https://www.hiller.org/wp-content/uploads/Haunted-weekend-main-small_v2.jpg",
+   "https://www.hiller.org/wp-content/uploads/Hiller-Trunk-2-sq.jpg"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Saturday Oct 31",
+   "October 31, 2026",
+   "Oct 23 - 31, 2026",
+   "October 29, 2026",
+   "November 1, 2026"
+  ],
+  "text": "Shop\n | \nDonate\n | \nContact\nU\nU\nFollow\nFollow\nFollow\nFollow\nVisit\nGeneral Information\nCalendar\nShopping\nBuy Tickets\nVisitors Guide\nVirtual Tour\nMuseum\nAircraft on Display\nCollection\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nEducation\nAviation Camp\nField Trips\nFlight Scholarship\nGirl Scouts\nGroup Visits\nScouting America\nEducator Resources\nHiller At Home\nAviation Camp\nAviation Camp Main Page\nSummer Camps\n Elementary \n(Grades K-5) \nAir & Space\nExtreme Flight\nLand, Sea, & Air\nSTEM Explorers\n Middle School \n(Grades 5-7) \nSpaceflight Tech\nSchool Year Camps \n1-Day Camps\nFall Break (October)\nWinter Break (December)\nSki Week (February)\nSpring Break (March/April)\nCamp Details\nCamp Calendar & Availability\nPrices & Cancellation Policy\nA Day in Camp\nRegistration\nCamp FAQs\nCamp Registration\nPrivate Events\nPackages & Pricing\nMuseum Venue Options\nPreferred Vendors\nEnhancements & Add-ons\nBirthday Parties\nJoin & Support\nBecome a Member\nDonate Online\nMatching Gifts\nDonate Vehicle\nDonate Artifacts\nBusiness Circle\nCorporate Giving\nLegacy and Planned Giving\nFlight 650\nSpecial Events\nVolunteer\nCalendar\nb\n Buy Tickets\nVisit\nGeneral Information\nCalendar\nShopping\nBuy Tickets\nVisitors Guide\nVirtual Tour\nMuseum\nAircraft on Display\nCollection\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nEducation\nAviation Camp\nField Trips\nFlight Scholarship\nGirl Scouts\nGroup Visits\nScouting America\nEducator Resources\nHiller At Home\nAviation Camp\nAviation Camp Main Page\nSummer Camps\n Elementary \n(Grades K-5) \nAir & Space\nExtreme Flight\nLand, Sea, & Air\nSTEM Explorers\n Middle School \n(Grades 5-7) \nSpaceflight Tech\nSchool Year Camps \n1-Day Camps\nFall Break (October)\nWinter Break (December)\nSki Week (February)\nSpring Break (March/April)\nCamp Details\nCamp Calendar & Availability\nPrices & Cancellation Policy\nA Day in Camp\nRegistration\nCamp FAQs\nCamp Registration\nPrivate Events\nPackages & Pricing\nMuseum Venue Options\nPreferred Vendors\nEnhancements & Add-ons\nBirthday Parties\nJoin & Support\nBecome a Member\nDonate Online\nMatching Gifts\nDonate Vehicle\nDonate Artifacts\nBusiness Circle\nCorporate Giving\nLegacy and Planned Giving\nFlight 650\nSpecial Events\nVolunteer\nCalendar\nb\n Buy Tickets\nVisit\nGeneral Information\nCalendar\nShopping\nBuy Tickets\nVisitors Guide\nVirtual Tour\nMuseum\nAircraft on Display\nCollection\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nEducation\nAviation Camp\nField Trips\nFlight Scholarship\nGirl Scouts\nGroup Visits\nScouting America\nEducator Resources\nHiller At Home\nAviation Camp\nAviation Camp Main Page\nSummer Camps\n Elementary \n(Grades K-5) \nAir & Space\nExtreme Flight\nLand, Sea, & Air\nSTEM Explorers\n Middle School \n(Grades 5-7) \nSpaceflight Tech\nSchool Year Camps \n1-Day Camps\nFall Break (October)\nWinter Break (December)\nSki Week (February)\nSpring Break (March/April)\nCamp Details\nCamp Calendar & Availability\nPrices & Cancellation Policy\nA Day in Camp\nRegistration\nCamp FAQs\nCamp Registration\nPrivate Events\nPackages & Pricing\nMuseum Venue Options\nPreferred Vendors\nEnhancements & Add-ons\nBirthday Parties\nJoin & Support\nBecome a Member\nDonate Online\nMatching Gifts\nDonate Vehicle\nDonate Artifacts\nBusiness Circle\nCorporate Giving\nLegacy and Planned Giving\nFlight 650\nSpecial Events\nVolunteer\nCalendar\nHelicopter Pumpkin Drop & Kids Halloween Festival ​\nJoin a unique celebration of Halloween excitement as the Hiller Aviation Museum’s witch drops her doomed pumpkin from a high-flying helicopter!  This Family event is from 10 AM – 12 PM Saturday Oct 31.\nCarnival Games, Model Trains and a Haunted Hangar featuring the Great Pumpkin Hunt. The pumpkin drops when the bell tolls noon!\nThe event included with Museum admission.\nGet your tickets now\nHaunted Hangar Display\n is included with museum admission.\nMuseum Members are Free\n. Just show your membership at the door.\nGet Tickets\nDate: \n October 31, 2026\nTime: \n10:00 am - 12:00 pm\nVenue: \nHiller Aviation Museum\nLocation: \n601 Skyway Rd., San Carlos \nVenue Google Map Link: \n+ Google Map\nAdd To Calendar\nGoogle Calendar\nApple Calendar\nExport .ics file\nOutlook Live\nOutlook 360\nAdditional Events\n23\nOctober\nHalloween Haunted Hangar\nDate \nOct 23 - 31, 2026\nTime \n10:00 am - 5:00 pm\nCome in costume and see the Gallery decked out in its spooky Halloween decorations and the \"Great Pumpkin\" Scavenger Hunt.\nMore Info\n29\nOctober\nTrunk or Treat\nDate \nOctober 29, 2026\nTime \n5:00 pm - 7:00 pm\nGet ready for a spooktacular evening at the Hiller Aviation Museum's Trunk or Treat, part of our annual Halloween Haunted Hangar celebration! With aviation-themed fun, festive decorations, and plenty of candy, it's a Halloween experience you won't find anywhere else!\nMore Info\n01\nNovember\nStraw Rocket Workshop\nDate \nNovember 1, 2026\nTime \n11:00 am - 12:00 pm\nDiscover the world of rockets! Use a variety of common craft materials to convert a bottle into a high performance rocket vehicle.\nMore Info\nSee More Events\nFollow\nFollow\nFollow\nFollow\nHours\nOpen 10 am – 5:00 pm\n7 days a week*\nPlan a Visit\nGeneral Info\nCalendar of Events\nThings to Do\nShopping\nWeather\nMuseum\nAircraft on Display\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nShop\nEducation\nSchool Programs\nAviation Camp\nScouts BSA\nGirl Scouts\nGroup Visits\nEducation Resources\nJoin\nMembership\nDonate\nMatching Gifts\nSpecial Events\nVolunteer\nRental\nPackages & Pricing\nVenue Options\nPreferred Vendors\nEnhancements\nBirthday Parties\nAbout\nAbout Us\nStaff\nBoard of Directors\nJobs\nPress\nContact\nContact Us\n601 Skyway Rd. \nSan Carlos, CA 94070\nDirections\n(650) 654-0200\n*Closed Easter Sunday, Thanksgiving Day, and Christmas Day.\nCopyright © 2026 \nHiller Aviation Museum.\nPrivacy and Terms of Use\n×\nSearch for:\nManage Consent\nTo provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.\nFunctional\nFunctional\n Always active \nThe technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.\nPreferences\nPreferences\nThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.\nStatistics\nStatistics\nThe technical storage or access that is used exclusively for statistical purposes.\nThe technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.\nMarketing\nMarketing\nThe technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.\nManage options\nManage services\nManage {vendor_count} vendors\nRead more about these purposes\nAccept\nDeny\nView preferences\nSave preferences\nView preferences\n{title}\n{title}\n{title}\nManage consent\nVisit\nGeneral Information\nCalendar\nShopping\nBuy Tickets\nVisitors Guide\nVirtual Tour\nMuseum\nAircraft on Display\nCollection\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nEducation\nAviation Camp\nField Trips\nFlight Scholarship\nGirl Scouts\nGroup Visits\nScouting America\nEducator Resources\nHiller At Home\nAviation Camp\nCamps\nCamp Calendar\nRegistration\nPrices & Cancellation Policy\nA Day in Camp\nCamp FAQs\nPrivate Events\nPackages & Pricing\nMuseum Venue Options\nPreferred Vendors\nEnhancements & Add-ons\nBirthday Parties\nJoin & Support\nBecome a Member\nDonate Online\nMatching Gifts\nDonate Vehicle\nDonate Artifacts\nBusiness Circle\nCorporate Giving\nLegacy and Planned Giving\nSpecial Events\nVolunteer\nCalendar\nSearch",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/pumpkin-drop/1.jpg",
+    "kind": "share image",
+    "source": "https://www.hiller.org/wp-content/uploads/pumpkin-drop-Lauren-web-1.jpg",
+    "w": 600,
+    "h": 450
+   },
+   {
+    "file": "images/pumpkin-drop/2.jpg",
+    "kind": "image on page",
+    "source": "https://www.hiller.org/event/pumpkin-drop/",
+    "w": 441,
+    "h": 249
+   },
+   {
+    "file": "images/pumpkin-drop/3.jpg",
+    "kind": "top of page",
+    "source": "https://www.hiller.org/event/pumpkin-drop/",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "canopy-tree-planting": {
+  "url": "https://canopy.org/get-involved/volunteer-signup/",
+  "final_url": "https://canopy.org/get-involved/volunteer-signup/",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Volunteer Sign-Up - Canopy",
+  "og_image": "https://canopy.org/wp-content/uploads/get-involved-webpage-mask.jpg",
+  "image_candidates": [
+   "https://canopy.org/wp-content/uploads/great-nonprofits-badge.png",
+   "https://widgets.guidestar.org/gximage2?o=6847746&l=v4",
+   "https://canopy.org/wp-content/uploads/bay-area-green-business.png",
+   "https://canopy.org/wp-content/uploads/sv-water-conservation-awards.jpg",
+   "https://canopy.org/wp-content/uploads/palo-alto-tall-tree-award.jpg"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "June 20"
+  ],
+  "text": "Menu\n Donate\n Calendar\n Volunteer\nAbout Us\nWho We Are\nBoard of Directors\nStaff\nAdvisors\nWho We Are\nImpact\nDiversity, Equity, and Inclusion\nPublications\nRecent E-News\nNewsletter Archives\nPublications\nJobs\nAbout Us\nOur Work\nTree Planting\nBranching Out: East Palo Alto, North Fair Oaks, Belle Haven\nMountain View Tree Plantings\nSouth Palo Alto Tree Initiative\nTree Planting\nTree Care\nEast Palo Alto Young Tree Care\nGreat Oak Count\nPalo Alto Young Tree Care Survey\nTree Care\nTrees of Life Program\nEducation\nK-12 Lesson Plans\nTeen Urban Foresters\nCommunity Forestry School\nMore Trees Please Workshops & Webinars\nEducation\nTree Plotter\nTree Walks\nSpecial Events\nCalifornia Arbor Week\nCanopy Tree Awards\nAdvocacy\nOur Work\nResources\nBenefits of Trees\nUrban Trees and Climate Change\nBenefits of Trees\nExplore Tree Species\nCanopy Tree Library\nAbout the Tree Library\nCanopy Tree Library\nCanopy Tree Library\nExplore Tree Species\nHire an Arborist\nArborist List\nArborist Single Record\nHire an Arborist\nPlanting Trees\nCaring for Trees\nRequest Tree Care\nCaring for Young Trees\nTrees and Water\nSave our Water and our Trees\nWatering Guidelines\nBugs, Diseases, Etc.\nSudden Oak Death Syndrome\nSOD Research Findings\nProtecting Trees from Freeze\nCaring for Potted Fruit Trees\nCaring for Trees\nTrees in Palo Alto\nTree Protection Ordinance\nCity Trees Q&A\nTrees in Palo Alto\nTrees in Mountain View\nMountain View Tree Regulations\nTrees in Mountain View\nNeighbor Tree Issues\nOther Resources\nResources\nGet Involved\nJoin Our Mailing List\nVolunteer\nGroup Volunteering\nCorporate Team Building\nMonthly Tree Walks\nFree Tree Signup\nGet Involved\nBlog\nSupport Us\nDonate Online\nMonthly Giving\nTree Gifts and Dedications\nDonor Advised Funds\nCorporate Sponsorships\nCorporate Matches & Gifts\nStock Gifts\nIRA Rollovers\nPlanned Giving\nCar Donations\nSupport Canopy\n×\nAbout Us\nWho We Are\nBoard of Directors\nStaff\nAdvisors\nWho We Are\nImpact\nDiversity, Equity, and Inclusion\nPublications\nRecent E-News\nNewsletter Archives\nPublications\nJobs\nAbout Us\nOur Work\nTree Planting\nBranching Out: East Palo Alto, North Fair Oaks, Belle Haven\nMountain View Tree Plantings\nSouth Palo Alto Tree Initiative\nTree Planting\nTree Care\nEast Palo Alto Young Tree Care\nGreat Oak Count\nPalo Alto Young Tree Care Survey\nTree Care\nTrees of Life Program\nEducation\nK-12 Lesson Plans\nTeen Urban Foresters\nCommunity Forestry School\nMore Trees Please Workshops & Webinars\nEducation\nTree Plotter\nTree Walks\nSpecial Events\nCalifornia Arbor Week\nCanopy Tree Awards\nAdvocacy\nOur Work\nResources\nBenefits of Trees\nUrban Trees and Climate Change\nBenefits of Trees\nExplore Tree Species\nCanopy Tree Library\nAbout the Tree Library\nCanopy Tree Library\nCanopy Tree Library\nExplore Tree Species\nHire an Arborist\nArborist List\nArborist Single Record\nHire an Arborist\nPlanting Trees\nCaring for Trees\nRequest Tree Care\nCaring for Young Trees\nTrees and Water\nSave our Water and our Trees\nWatering Guidelines\nBugs, Diseases, Etc.\nSudden Oak Death Syndrome\nSOD Research Findings\nProtecting Trees from Freeze\nCaring for Potted Fruit Trees\nCaring for Trees\nTrees in Palo Alto\nTree Protection Ordinance\nCity Trees Q&A\nTrees in Palo Alto\nTrees in Mountain View\nMountain View Tree Regulations\nTrees in Mountain View\nNeighbor Tree Issues\nOther Resources\nResources\nGet Involved\nJoin Our Mailing List\nVolunteer\nGroup Volunteering\nCorporate Team Building\nMonthly Tree Walks\nFree Tree Signup\nGet Involved\nBlog\nSupport Us\nDonate Online\nMonthly Giving\nTree Gifts and Dedications\nDonor Advised Funds\nCorporate Sponsorships\nCorporate Matches & Gifts\nStock Gifts\nIRA Rollovers\nPlanned Giving\nCar Donations\nSupport Canopy\nVolunteering with Canopy\nAt Canopy, our volunteers are pivotal to the work we do and everything we accomplish. We would not be able to fulfill our mission without you.\nCanopy needs your help, as a volunteer, advisor, committee member, educator, or supporter. Whether in neighborhoods planting trees, in the classroom inspiring the next generation, lending your voice and expertise on one of our committees, or representing us at events, we need your help in growing our community.\nPlease use the form below to sign up to volunteer with Canopy.\nCheck out our Events Calendar\n for event descriptions and \nsubscribe to our Volunteer Wire newsletter\n to be notified when new volunteering opportunities become available! If you have questions, please contact \nvolunteer@canopy.org\n.\nIn celebration of Canopy’s 30th Anniversary, we also invite you to join the \nAct Together: 30 for 30 Pledge\n to complete 30 volunteer hours by June 2027!\nCanopy Volunteer Sign-up / Registro de voluntarios\n\"\n*\n\" indicates required fields\nX/Twitter\nThis field is for validation purposes and should be left unchanged.\nVolunteer Opportunities / Oportunidades de voluntariado\nPreferred language? / ¿Idioma preferido?\nEnglish / inglés\nSpanish / español\nOther / otra\nPreferred Language (other)\nPlease share your preferred language\nAre you registering for a specific event? Select below\n10/31/2026 – Halloween Tree Planting in Palo Alto\n11/6/2026 – Weekday Planting in Palo Alto\n11/7/2026 – Palo Alto Neighborhood Tree Planting\n11/13/2026 – Weekday Planting in Santa Clara County\n11/20/2026 – Weekday Planting in Santa Clara County\n¿Le gustaría registrarse para un evento específico? Seleccione.\n10/31/2026 – Plantación de árboles de Halloween en Palo Alto\n11/6/2026 – Plantación de árboles en Palo Alto\n11/7/2026 – Plantación de árboles en un barrio de Palo Alto\n11/13/2026 – Plantación de árboles en Palo Alto o Mountain View\n11/20/2026 – Plantación de árboles en Palo Alto o Mountain View\nView complete event details on \nCanopy’s calendar\n.\nVer detalles completos en el \ncalendario de eventos\n.\nAre you interested in ongoing volunteer opportunities? Select below.\nFieldwork (tree planting and tree care)\nEducation & outreach\nJoin a committee\nProvide skills and expertise\nSee full list of\n ongoing volunteer opportunities with Canopy\n.\n¿Le interesan estas oportunidades para ser un voluntario en general? Seleccione todo lo que corresponda.\nTrabajo al aire libre (plantación y cuidado de árboles)\nEducación y alcance comuniatrio\nÚnete a un comité\nProporcionar habilidades y experiencia\nConsulte la lista de \noportunidades para ser un voluntario en general\n.\nPlease specify which volunteer roles or tasks interest you / Por favor, especifique qué funciones o tareas de voluntariado le interesan.\nYour Information / Su información personal\nYour name / nombre\n*\nFirst / Nombre\nLast / Apellido\nYour email / correo electrónico\n*\nYour phone / número de teléfono\nAge (if under 18) / edad (si es menor de 18 años)\nPlease complete these fields if you are under 18 / Complete estos campos si es menor de 18 años.\nFirst name of parent/guardian / Nombre de padre/tutor\nLast name of parent/guardian / Apellido de padre/tutor\nEmail of parent or guardian\nEmail of parent or guardian / correo electrónico de padre/tutor\nPhone of parent or guardian\nPhone of parent or guardian / teléfono de padre/tutor\nHome Address / Dirección de casa\nStreet / Calle\nCity / Ciudad\nAlabama\nAlaska\nAmerican Samoa\nArizona\nArkansas\nCalifornia\nColorado\nConnecticut\nDelaware\nDistrict of Columbia\nFlorida\nGeorgia\nGuam\nHawaii\nIdaho\nIllinois\nIndiana\nIowa\nKansas\nKentucky\nLouisiana\nMaine\nMaryland\nMassachusetts\nMichigan\nMinnesota\nMississippi\nMissouri\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Jersey\nNew Mexico\nNew York\nNorth Carolina\nNorth Dakota\nNorthern Mariana Islands\nOhio\nOklahoma\nOregon\nPennsylvania\nPuerto Rico\nRhode Island\nSouth Carolina\nSouth Dakota\nTennessee\nTexas\nUtah\nU.S. Virgin Islands\nVermont\nVirginia\nWashington\nWest Virginia\nWisconsin\nWyoming\nArmed Forces Americas\nArmed Forces Europe\nArmed Forces Pacific\nState / Estado\nZip code / Código postal\nAdditional Details / Información adicional\nAdditional youth volunteers / Jóvenes voluntarias adicionales\nPlease list the names and ages of any youth (under 18) volunteers who will join you. / Enumere los nombres y las edades de cualquier otro joven voluntario (menor de 18 años) que participará.\nAdditional adult volunteers / Voluntarios adultos adicionales\nPlease list the names and emails of any additional adult volunteers who will join you. / Enumere los nombres y correos electrónicos de cualquier otro voluntario adulto que participará.\nHow did you hear about these Canopy events? / ¿Cómo supiste de nosotros?\nExamples: newsletter, flyer, Instagram, Facebook, friend, promotora, etc.\nE-news sign-up\nDo you wish to receive Canopy’s monthly email newsletters with volunteer opportunities and events?\nYes, please subscribe me to Canopy’s newsletter!\nNo thanks, please do not subscribe me\nSuscripción al boletín de correo electrónico\n¿Desea recibir los boletines mensuales de Canopy por correo electrónico? Los correos electrónicos están mayoritariamente en inglés por ahora, pero estamos trabajando en versiones en español / bilingües.\nSí, quiero suscribirme\nNo, gracias\nThanks for subscribing! You will soon begin receiving Canopy’s monthly Tree News and Volunteer Wire. You may unsubscribe at any time.\n ¡Gracias por suscribirse! Pronto comenzará a recibir las noticias mensuales de Canopy por correo electrónico. Puede cancelar su suscripción en cualquier momento.\nThanks for sharing your preference; we will not add you to Canopy’s e-news. You will still receive email confirmations and reminders related to the specific event(s) or opportunities you signed up for. You can subscribe to Canopy newsletters in the future at \nhttps://canopy.org/get-involved/join-our-mailing-list/\n.\nGracias por compartir su preferencia; no lo agregaremos a las noticias electrónicas de Canopy. Seguirá recibiendo mensajes por correo electrónico sobre los eventos y oportunidades específicos para los que se registró. Puede suscribirse a los boletines de Canopy en el futuro en \nhttps://canopy.org/get-involved/join -our-mailing-list/\nQuestions or comments? / ¿Preguntas o comentarios?\nSubmit / Entregar\nCalendar\nAbout Us\nContact Us\nBoard Portal\nCanopy\n3921 East Bayshore Road\nPalo Alto, CA 94303\n650-964-6110  \ninfo@canopy.org\nTax ID\n 01-0565752\nFacebook\nInstagram\nYoutube\nFlickr\nNotifications",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/canopy-tree-planting/1.jpg",
+    "kind": "share image",
+    "source": "https://canopy.org/wp-content/uploads/get-involved-webpage-mask.jpg",
+    "w": 900,
+    "h": 1200
+   },
+   {
+    "file": "images/canopy-tree-planting/2.jpg",
+    "kind": "top of page",
+    "source": "https://canopy.org/get-involved/volunteer-signup/",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "filoli-winter-cleanup": {
+  "url": "https://filoli.org/whats-on/events/service-learning-winter-clean-up/",
+  "final_url": "https://filoli.org/whats-on/events/service-learning-winter-clean-up/",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:thin:200",
+   "browser:thin:200"
+  ],
+  "http": 200,
+  "title": "Service Learning: Winter Clean Up | Filoli",
+  "og_image": "",
+  "image_candidates": [
+   "https://filoli.org/media/wvnlmn0c/bulbs-service-learning_2_krishna_fs.jpg?anchor=center&rmode=crop&width=320&height=240&quality=80"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "Winter Clean Up Service Learning: Winter Clean Up Oct 31st 2026 9am - 12pm Tickets: Free; reservation required. Participants receive free admission to Filoli on the day of the program. Reserve Tickets"
+   ],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Oct 31"
+  ],
+  "text": "Home\nWhat's On\nEvents\nService Learning: Winter Clean Up\nService Learning: Winter Clean Up\nOct 31st 2026\n9am - 12pm\nTickets: Free; reservation required.\nParticipants receive free admission to Filoli on the day of the program.\nReserve Tickets\nJoin the Horticulture Team to help keep Filoli beautiful by mulching, weeding, maintaining pathways, picking up sticks and debris, cleaning brick surfaces, and assisting with general grounds beautification. Let’s welcome the spring season together!\nStay Connected to Filoli!\nFirst Name\nLast Name\nEmail\nBy clicking the checkbox below, you agree to receive emails about Filoli events, seasonal experiences, and special offers. You can unsubscribe at any time. View our \nPrivacy Policy\n.\nOpt-In Box\nYes, keep me in the loop!\nSubscribe",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/filoli-winter-cleanup/1.jpg",
+    "kind": "image on page",
+    "source": "https://filoli.org/whats-on/events/service-learning-winter-clean-up/",
+    "w": 1200,
+    "h": 500
+   },
+   {
+    "file": "images/filoli-winter-cleanup/2.jpg",
+    "kind": "top of page",
+    "source": "https://filoli.org/whats-on/events/service-learning-winter-clean-up/",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "moah-halloween": {
+  "url": "https://www.moah.org/moahevents/halloween-night-at-the-museum-1",
+  "final_url": "https://www.moah.org/moahevents/halloween-night-at-the-museum-1",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:thin:200",
+   "browser:thin:200"
+  ],
+  "http": 200,
+  "title": "Halloween Night at the Museum — Museum of American Heritage",
+  "og_image": "http://static1.squarespace.com/static/6585c8452396d55e5a7b989d/67d5234d42eb7719a168e3ea/6abefa72181f8e06d10dd273/1792085073552/stereoscopic-ghost-photo.webp?format=1500w",
+  "image_candidates": [],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Saturday, October 31, 2026",
+   "October 10",
+   "November 6"
+  ],
+  "text": "Back to All Events\nHalloween Night at the Museum\nSaturday, October 31, 2026\n5:00 PM\n9:00 PM\nMuseum of American Heritage\n351 Homer Avenue\nPalo Alto, CA, 94301\nUnited States\n(map)\nGoogle Calendar\nICS\nA spooky night of \nFREE\n family fun!\nRSVP here\nDon your costumes and enjoy…\nHalloween candy\nFlashlight ghost hunt\nWeird history & artifacts\nMad scientist demo\nTarot readings\nAnd more!\nPrevious\nPrevious\nOctober 10\nScare Faire\nNext\nNext\nNovember 6\nCollage Capsules: Build a Mini Bookshelf or Exhibit",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/moah-halloween/1.jpg",
+    "kind": "share image",
+    "source": "http://static1.squarespace.com/static/6585c8452396d55e5a7b989d/67d5234d42eb7719a168e3ea/6abefa72181f8e06d10dd273/1792085073552/stereoscopic-ghost-photo.webp?format=1500w",
+    "w": 1123,
+    "h": 1200
+   },
+   {
+    "file": "images/moah-halloween/2.jpg",
+    "kind": "top of page",
+    "source": "https://www.moah.org/moahevents/halloween-night-at-the-museum-1",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "hiking-hounds": {
+  "url": "https://www.openspace.org/events/guided-activities/halloween-hiking-hounds",
+  "final_url": "https://www.openspace.org/events/guided-activities/halloween-hiking-hounds",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Halloween & Hiking Hounds",
+  "og_image": "",
+  "image_candidates": [
+   "https://www.openspace.org/sites/default/files/styles/16x9_1600w/public/Lanette%20Otvos_RR_Docent%20hikes.jpg?h=638819c0&itok=M0DQXuhz"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "es are optional. Trick or treat? Dog treats will be provided! All dogs must be on leash. Reservations are required and will be accepted on or after October 17 12:00 p.m. (Noon) and close October 30 at 2:0"
+   ],
+   "deadline": [
+    "es are optional. Trick or treat? Dog treats will be provided! All dogs must be on leash. Reservations are required and will be accepted on or after October 17 12:00 p.m. (Noon) and close October 30 at 2:00 p.m. Where to Meet Meet at the Pulgas Ridge Parking Area on Edmonds Rd. From I-280, exit Ed"
+   ],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [
+   "Saturday, October 31, 2026",
+   "October 17",
+   "October 30"
+  ],
+  "text": "Halloween & Hiking Hounds\n Home \n  \n Events & Activities \n  \n Docent-Led Activities \n  \n Halloween & Hiking Hounds \nSaturday, October 31, 2026\n10:30 am - 12:00 pm\n Pulgas Ridge Preserve\nApproximate Total Miles\n 2.5\nImage\n Dogs\nCelebrate Halloween with your canine companion on a moderately-paced hike in this dog-friendly preserve. The dogs will enjoy the scents along the Blue Oak, Hassler, Polly Geraci, and Cordilleras trails while their humans learn about the natural surroundings from Docent Naturalists Susan Bernhard and Minh Pham. Costumes are optional. Trick or treat? Dog treats will be provided! All dogs must be on leash. \nReservations are required and will be accepted on or after October 17 12:00 p.m. (Noon) and close October 30 at 2:00 p.m.\n Where to Meet\nMeet at the \nPulgas Ridge Parking Area\n on Edmonds Rd. From I-280, exit Edgewood Road.  Drive 0.75 miles on Edgewood Rd. toward San Carlos/Redwood City. Turn left (north) on Crestview Drive, then immediately turn left on Edmonds Road. Follow Edmonds Rd. to the preserve parking lot entrance on the right.\n Link to Google Map \nRegister on Eventbrite\nTo ensure your experience on a docent naturalist outing is enjoyable \nplease review these activity guidelines\n.\nFor more information about trail characteristics for this event, check out the Midpen \nTrail Explorer app\n. To learn more about ADA accommodations for events, or make an inquiry with the ADA coordinator, visit our \nAccessibility page\n.\nIf your activity requires registration, please be sure to cancel your reservation (from your confirmation email) if you are no longer able to attend so others can participate.\nAfter your participation on a guided activity \nplease share your feedback\n — your input is meaningful to our volunteers and program staff – thank you!",
+  "error": "",
+  "photos": []
+ }
+}
