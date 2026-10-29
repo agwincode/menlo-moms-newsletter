@@ -4,7 +4,9 @@ set -euo pipefail
 msg="$1"; shift
 git config user.name "menlo-moms-bot"
 git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-git add -A "$@"
+paths=(); for p in "$@"; do [ -e "$p" ] && paths+=("$p"); done
+[ ${#paths[@]} -eq 0 ] && { echo "Nothing to commit"; exit 0; }
+git add -A "${paths[@]}"
 if git diff --cached --quiet; then echo "Nothing to commit"; exit 0; fi
 git commit -q -m "$msg"
 for i in 1 2 3 4 5; do
