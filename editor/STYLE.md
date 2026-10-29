@@ -47,13 +47,15 @@ Woodside, San Carlos). Sends Thursday morning.
 
 **Event Name** <age emojis>
 
-![<what the photo shows>](<og_image url>)
+<!-- photos:<pick-key> -->
 
 **When:** 7:30 PM - 9:00 PM
 **Where:** Venue, street, City
 **Cost:** $32 general, kids free · or Free · or Free with admission; reservation required
 
-<2–4 sentences: what's happening, why we'd go, a sourced pro move if one exists.>
+<2–4 sentences: what's happening, why we'd go.>
+
+**Pro move:** <one sourced tip, only if one exists>   (or **Heads up:** <one sourced caution>)
 
 [Get tickets](<organizer URL>)
 
@@ -87,10 +89,25 @@ Rules for the template:
 - Lineup = the best in-weekend items (usually 4–8). Everything else that clears the bar
   goes in ⚡ This Weekend.
 - Every card has When, Where, Cost and a link to the organizer's own page.
+- Every card has a photo marker `<!-- photos:<pick-key> -->` (`<!-- photos:<pick-key>:2 -->` to
+  lead with option 2). The review page fills in the photo options. See EDITOR.md step 8.
 - Day headers show only days with cards. A multi-day event gets its card under its first day,
   plus one line under each later day's header: *Still on today: **Belmont Greek Festival** (see Saturday).*
 - Age emojis: 🍼 toddlers/preschool, 🧒 elementary, 🤘 teens, 👨‍👩‍👧‍👦 whole family.
 - Clean Markdown that pastes straight into Substack.
+
+## Optional sections
+
+```
+## 📅 Mark Your Calendar
+- **Trunk-or-Treat** 👨‍👩‍👧‍👦: Wed, Oct 28, 4:30 – 6:00 PM, Belle Haven Community Campus. 🎃 Free. [Details](<url>)
+
+## 👀 Next Weekend
+The HMB Art & Pumpkin Festival is Oct 17-18, 9-5 both days. The Palo Alto Art Center's Fall Family Day is Sunday, Oct 18, 2-4:15 PM (free).
+
+## 💡 Editorial Shoutout
+<2–3 sentences on a new kid-friendly local spot.>
+```
 
 ## Sunday Standbys block (use verbatim when RULES.md calls for it)
 
