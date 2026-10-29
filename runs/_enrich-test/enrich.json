@@ -1,0 +1,203 @@
+{
+ "pumpkin-drop": {
+  "url": "https://www.hiller.org/event/pumpkin-drop/",
+  "final_url": "https://www.hiller.org/event/pumpkin-drop/",
+  "status": "blocked",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:blocked:403"
+  ],
+  "http": 403,
+  "title": "403 Forbidden",
+  "og_image": "",
+  "image_candidates": [],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [],
+  "text": "403 Forbidden\nnginx",
+  "error": ""
+ },
+ "filoli-winter-cleanup": {
+  "url": "https://filoli.org/whats-on/events/service-learning-winter-clean-up/",
+  "final_url": "https://filoli.org/whats-on/events/service-learning-winter-clean-up/",
+  "status": "thin",
+  "method": "browser",
+  "attempts": [
+   "direct:thin:200",
+   "browser:thin:200"
+  ],
+  "http": 200,
+  "title": "Service Learning: Winter Clean Up | Filoli",
+  "og_image": "",
+  "image_candidates": [
+   "https://filoli.org/media/wvnlmn0c/bulbs-service-learning_2_krishna_fs.jpg?anchor=center&rmode=crop&width=320&height=240&quality=80"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "Winter Clean Up Service Learning: Winter Clean Up Oct 31st 2026 9am - 12pm Tickets: Free; reservation required. Participants receive free admission to Filoli on the day of the program. Reserve Tickets"
+   ],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Oct 31"
+  ],
+  "text": "Home\nWhat's On\nEvents\nService Learning: Winter Clean Up\nService Learning: Winter Clean Up\nOct 31st 2026\n9am - 12pm\nTickets: Free; reservation required.\nParticipants receive free admission to Filoli on the day of the program.\nReserve Tickets\nJoin the Horticulture Team to help keep Filoli beautiful by mulching, weeding, maintaining pathways, picking up sticks and debris, cleaning brick surfaces, and assisting with general grounds beautification. Let’s welcome the spring season together!\nStay Connected to Filoli!\nFirst Name\nLast Name\nEmail\nBy clicking the checkbox below, you agree to receive emails about Filoli events, seasonal experiences, and special offers. You can unsubscribe at any time. View our \nPrivacy Policy\n.\nOpt-In Box\nYes, keep me in the loop!\nSubscribe",
+  "error": ""
+ },
+ "little-red-riding-hood": {
+  "url": "https://pact.showare.com/eventperformances.asp?evt=9",
+  "final_url": "https://pact.showare.com/eventperformances.asp?evt=9",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Tickets | Playhouse Series: Little Red Riding Hood | Palo Alto Childrens Theatre",
+  "og_image": "https://pact.showare.com/uplimage/Blank.gif",
+  "image_candidates": [],
+  "signals": {
+   "sold_out": [
+    "14 Saturday 15 Sunday 16 Monday 17 Tuesday 18 Wednesday 19 Thursday 20 Friday 21 Saturday sold out 22 Sunday Selling Quickly $20.55 23 Monday 24 Tuesday 25 Wednesday 26 Thursday 27 Friday"
+   ],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$20.55"
+  ],
+  "dates": [
+   "November 21-22, 2026",
+   "Month\nNovember 20"
+  ],
+  "text": "Playhouse Series: Little Red Riding Hood\nMore Info\nLittle Red Riding Hood | November 21-22, 2026\nBased on the story by Hans Christian Andersen \nWith very simple sets, costumes, and lots of opportunities to get up and wiggle, this story-teller style theatre is perfect for young audience members, suggested ages two to six years old and their families.\nPerformances are approximately 55 minutes in length, Saturdays and Sundays at 10 a.m. and noon. Performances are held indoors. All attendees of all ages must have a ticket.\nGot It!\nSelect Date\nFilter Dates\nPrevious Month\nNovember 2026\nNext Month\nSu\nMo\nTu\nWe\nTh\nFr\nSa\n1\nSunday\n2\nMonday\n3\nTuesday\n4\nWednesday\n5\nThursday\n6\nFriday\n7\nSaturday\n8\nSunday\n9\nMonday\n10\nTuesday\n11\nWednesday\n12\nThursday\n13\nFriday\n14\nSaturday\n15\nSunday\n16\nMonday\n17\nTuesday\n18\nWednesday\n19\nThursday\n20\nFriday\n21\nSaturday\nsold out\n22\nSunday\nSelling Quickly\n$20.55\n23\nMonday\n24\nTuesday\n25\nWednesday\n26\nThursday\n27\nFriday\n28\nSaturday\n29\nSunday\n30\nMonday\nGo to previous month\nGo to next month\nLoading...\n!\n - Selling Quickly\nAll Attendees - All Ages - Kids & Adults",
+  "error": ""
+ },
+ "stanford-halloween-concert": {
+  "url": "https://events.stanford.edu/event/2026-halloween-concert",
+  "final_url": "https://events.stanford.edu/event/2026-halloween-concert",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "2026 Halloween Concert",
+  "og_image": "https://localist-images.azureedge.net/photos/54003212361339/huge/4991dc7fed4cc6056a9446b88497f33a0a376264.jpg",
+  "image_candidates": [
+   "https://localist-images.azureedge.net/photos/54003212361339/square_300@2x/4991dc7fed4cc6056a9446b88497f33a0a376264.jpg"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$27",
+   "$32",
+   "$4",
+   "free"
+  ],
+  "dates": [
+   "Friday, October 30, 2026"
+  ],
+  "text": "Close modal\nPerformance\n2026 Halloween Concert\nSponsored by\nDepartment of Music\nFriday, October 30, 2026\n7:30pm to 9pm PT\nAdd to calendar:\nDinkelspiel Auditorium\n471 Lagunita Drive, Stanford, CA 94305\nView map\nThis event is open to:\nEveryone\nGeneral Public\nRequest disability accommodations and access info\n$27 – $32\n Buy Tickets\n Share: \nShare 2026 Halloween Concert\nShare 2026 Halloween Concert on Facebook\nShare 2026 Halloween Concert on X\nShare 2026 Halloween Concert on LinkedIn\nEvent Details:\nThe \nStanford Symphony Orchestra \nand \nStanford Wind Symphony\n team up to present the annual Halloween Concert in Dinkelspiel Auditorium with a dramatic program of repertoire appropriate for the season.\nDon't forget to wear your costume! Following the second half of the program, there will be a contest with the winner taking the stage to conduct the evening's final selection.\nThis event is always well attended, so plan to get your ticket in advance!\nStanford Symphony Orchestra\nRichard Strauss – \nAlso sprach Zarathustra (opening)\nGustav Holst – \n\"Mars\" and \"Jupiter\" from \nThe Planets\nJohn Williams –\nStar Wars: The Empire Strikes Back\nJerry Goldsmith – \nStar Trek\n Through the Years\nStanford Wind Symphony\nDmitri Shostakovich\n – Prelude, Op. 34, no. 14\nGolden from \nKPop Demon Hunters\nFrançois Borne\n – Fantaisie brillante sur \nCarmen\nErica Wang, flute soloist\nAndrew Lloyd Webber\n – Selections from \nThe Phantom of the Opera\nJohn Philip Sousa\n – The Washington Post March\nAdmission Information\nGeneral\n – $32 | \nSeniors (65+) and Non-Stanford Students\n – $27\nPrice shown reflects total cost including $4 online/phone per-ticket fee.\nFREE\n admission for Stanford University students. One ticket per ID, available beginning one hour prior to curtain at the venue.\nPerformance\nMusic\nArts/Media\nHumanities\nLocation:\nHide map\nShow map\nPublic transport\nCar\nWalking",
+  "error": ""
+ },
+ "moah-halloween": {
+  "url": "https://www.moah.org/moahevents/halloween-night-at-the-museum-1",
+  "final_url": "https://www.moah.org/moahevents/halloween-night-at-the-museum-1",
+  "status": "thin",
+  "method": "browser",
+  "attempts": [
+   "direct:thin:200",
+   "browser:thin:200"
+  ],
+  "http": 200,
+  "title": "Halloween Night at the Museum — Museum of American Heritage",
+  "og_image": "http://static1.squarespace.com/static/6585c8452396d55e5a7b989d/67d5234d42eb7719a168e3ea/6abefa72181f8e06d10dd273/1792085073552/stereoscopic-ghost-photo.webp?format=1500w",
+  "image_candidates": [],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Saturday, October 31, 2026",
+   "October 10",
+   "November 6"
+  ],
+  "text": "Back to All Events\nHalloween Night at the Museum\nSaturday, October 31, 2026\n5:00 PM\n9:00 PM\nMuseum of American Heritage\n351 Homer Avenue\nPalo Alto, CA, 94301\nUnited States\n(map)\nGoogle Calendar\nICS\nA spooky night of \nFREE\n family fun!\nRSVP here\nDon your costumes and enjoy…\nHalloween candy\nFlashlight ghost hunt\nWeird history & artifacts\nMad scientist demo\nTarot readings\nAnd more!\nPrevious\nPrevious\nOctober 10\nScare Faire\nNext\nNext\nNovember 6\nCollage Capsules: Build a Mini Bookshelf or Exhibit",
+  "error": ""
+ },
+ "midpen-hiking-hounds": {
+  "url": "https://www.openspace.org/events/guided-activities/halloween-hiking-hounds",
+  "final_url": "https://www.openspace.org/events/guided-activities/halloween-hiking-hounds",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Halloween & Hiking Hounds",
+  "og_image": "",
+  "image_candidates": [
+   "https://www.openspace.org/sites/default/files/styles/16x9_1600w/public/Lanette%20Otvos_RR_Docent%20hikes.jpg?h=638819c0&itok=M0DQXuhz"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [
+   "Saturday, October 31, 2026",
+   "October 17",
+   "October 30"
+  ],
+  "text": "Halloween & Hiking Hounds\n Home \n  \n Events & Activities \n  \n Docent-Led Activities \n  \n Halloween & Hiking Hounds \nSaturday, October 31, 2026\n10:30 am - 12:00 pm\n Pulgas Ridge Preserve\nApproximate Total Miles\n 2.5\nImage\n Dogs\nCelebrate Halloween with your canine companion on a moderately-paced hike in this dog-friendly preserve. The dogs will enjoy the scents along the Blue Oak, Hassler, Polly Geraci, and Cordilleras trails while their humans learn about the natural surroundings from Docent Naturalists Susan Bernhard and Minh Pham. Costumes are optional. Trick or treat? Dog treats will be provided! All dogs must be on leash. \nReservations are required and will be accepted on or after October 17 12:00 p.m. (Noon) and close October 30 at 2:00 p.m.\n Where to Meet\nMeet at the \nPulgas Ridge Parking Area\n on Edmonds Rd. From I-280, exit Edgewood Road.  Drive 0.75 miles on Edgewood Rd. toward San Carlos/Redwood City. Turn left (north) on Crestview Drive, then immediately turn left on Edmonds Road. Follow Edmonds Rd. to the preserve parking lot entrance on the right.\n Link to Google Map \nRegister on Eventbrite\nTo ensure your experience on a docent naturalist outing is enjoyable \nplease review these activity guidelines\n.\nFor more information about trail characteristics for this event, check out the Midpen \nTrail Explorer app\n. To learn more about ADA accommodations for events, or make an inquiry with the ADA coordinator, visit our \nAccessibility page\n.\nIf your activity requires registration, please be sure to cancel your reservation (from your confirmation email) if you are no longer able to attend so others can participate.\nAfter your participation on a guided activity \nplease share your feedback\n — your input is meaningful to our volunteers and program staff – thank you!",
+  "error": ""
+ }
+}
