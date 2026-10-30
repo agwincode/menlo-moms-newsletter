@@ -1,0 +1,26 @@
+{
+ "id": "mp-registration",
+ "watchlist": false,
+ "retired": false,
+ "note": "",
+ "collected_at": "2026-10-30T18:48:38",
+ "url": "https://cityofmenlopark.perfectmind.com/26116/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+ "final_url": "https://cityofmenlopark.perfectmind.com/26116/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+ "method": "browser",
+ "status": "ok",
+ "http_status": 200,
+ "title": "Activity Registration Start Page",
+ "og_image": "",
+ "image_candidates": [],
+ "text": "City of Menlo Park\nFilter\nSorry your filters have returned no results. Please adjust your filtering criteria.\nAdult Activities\nAdult and older adult recreational classes\nDrop-In\nBanner rental\nDowntown banner reservations\nDrop-In\nCamps\nYouth Camps\nDrop-In\nCommunity Events\nPhotos with Santa on Dec. 12 - Advance registration required\nDrop-In\nDrop-In\nDrop-in Activities\nDrop-In\nDrop-in basketball\nDrop-In\nDrop-in Volleyball\nDrop-In\nFacility Booking (Indoor)\nArrillaga Family Gymnasium Rentals\nDrop-In\nArrillaga Family Recreation Center Rentals\nDrop-In\nBelle Haven Community Campus Rentals\nDrop-In\nFree library events\nFree Library Events\nDrop-In\nGymnastics\nGymnastics classes\nDrop-In\nOutdoor Spaces & Rentals\nAthletic field rentals\nDrop-In\nPark rentals\nDrop-In\nPicnic rentals\nDrop-In\nTennis and pickleball court rentals\nDrop-In\nYouth Activities\nYouth recreational classes\nDrop-In",
+ "links": [
+  {
+   "text": "Login",
+   "href": "https://cityofmenlopark.perfectmind.com/26116/MemberRegistration/MemberSignIn?returnUrl=https%3a%2f%2fcityofmenlopark.perfectmind.com%2f26116%2fClients%2fBookMe4%3fwidgetId%3d15f6af07-39c5-473e-b053-96653f77a406"
+  }
+ ],
+ "error": "",
+ "attempts": [
+  "browser:ok:200"
+ ]
+}
