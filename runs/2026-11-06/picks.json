@@ -1,0 +1,13 @@
+{
+ "events": [
+  {"key": "dia-de-los-muertos-rwc", "url": "https://casacirculocultural.org/adult-initiative/dia-de-los-muertos/", "photos": true},
+  {"key": "history-in-motion", "url": "https://historysmc.org/event/history-in-motion/", "photos": true},
+  {"key": "hillview-drama", "url": "https://hillviewdrama.ludus.com", "photos": true},
+  {"key": "canopy-palo-alto-planting", "url": "https://canopy.org/events/", "photos": true},
+  {"key": "photos-with-santa", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Community-events/Photos-with-Santa"},
+  {"key": "gamble-winter-festival", "url": "https://www.gamblegarden.org/events/category/holidays/winter-festival-2026/"},
+  {"key": "pa-diwali", "url": "https://www.paloalto.gov/Events-Directory/Library/Festival-of-Lights-A-Diwali-Celebration"},
+  {"key": "mp-book-sale", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Events-for-adults/20261113-14-FOL-Book-Sale"},
+  {"key": "rahiti-dance", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Events-for-adults/20261107-Rahiti-Polynesian-Dance"}
+ ]
+}
