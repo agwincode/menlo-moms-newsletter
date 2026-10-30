@@ -1,7 +1,7 @@
 {
  "friday": "2026-11-06",
- "run_at": "2026-10-30T18:48:47",
- "ok": 32,
+ "run_at": "2026-10-30T19:58:25",
+ "ok": 33,
  "total": 33,
  "sources": [
   {
@@ -28,7 +28,7 @@
    "http": 200,
    "chars": 4205,
    "links": 300,
-   "secs": 6,
+   "secs": 5,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -148,7 +148,7 @@
    "method": "browser",
    "http": 200,
    "chars": 5265,
-   "links": 95,
+   "links": 93,
    "secs": 5,
    "attempts": [
     "direct:blocked:403",
@@ -196,7 +196,7 @@
    "http": 200,
    "chars": 40000,
    "links": 300,
-   "secs": 8,
+   "secs": 7,
    "attempts": [
     "browser:ok:200"
    ],
@@ -236,15 +236,14 @@
   {
    "id": "hiller",
    "url": "https://www.hiller.org/calendar/",
-   "status": "blocked",
-   "method": "browser",
-   "http": 403,
-   "chars": 19,
-   "links": 0,
-   "secs": 4,
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 8352,
+   "links": 75,
+   "secs": 0,
    "attempts": [
-    "direct:blocked:403",
-    "browser:blocked:403"
+    "direct:ok:200"
    ],
    "error": "",
    "retired": false
@@ -285,9 +284,9 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 38252,
+   "chars": 38016,
    "links": 300,
-   "secs": 21,
+   "secs": 10,
    "attempts": [
     "browser:ok:200"
    ],
@@ -302,7 +301,7 @@
    "http": 200,
    "chars": 15904,
    "links": 111,
-   "secs": 0,
+   "secs": 1,
    "attempts": [
     "direct:ok:200"
    ],
@@ -317,7 +316,7 @@
    "http": 200,
    "chars": 6545,
    "links": 124,
-   "secs": 0,
+   "secs": 1,
    "attempts": [
     "direct:ok:200"
    ],
@@ -330,8 +329,8 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 4126,
-   "links": 51,
+   "chars": 4118,
+   "links": 50,
    "secs": 4,
    "attempts": [
     "browser:ok:200"
@@ -345,9 +344,9 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 15190,
-   "links": 154,
-   "secs": 6,
+   "chars": 14784,
+   "links": 156,
+   "secs": 5,
    "attempts": [
     "browser:ok:200"
    ],
@@ -378,7 +377,7 @@
    "http": 200,
    "chars": 4350,
    "links": 251,
-   "secs": 8,
+   "secs": 9,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -407,7 +406,7 @@
    "status": "ok",
    "method": "rss",
    "http": 200,
-   "chars": 6940,
+   "chars": 6994,
    "links": 10,
    "secs": 0,
    "attempts": [],

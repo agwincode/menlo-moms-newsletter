@@ -3,7 +3,7 @@
  "watchlist": false,
  "retired": false,
  "note": "",
- "collected_at": "2026-10-30T18:47:21",
+ "collected_at": "2026-10-30T19:57:13",
  "url": "https://www.paloaltozoo.org/visit",
  "final_url": "https://www.paloaltozoo.org/Visit",
  "method": "browser",
@@ -43,14 +43,6 @@
   {
    "text": "English (United States) Select this as your preferred language",
    "href": "https://www.paloaltozoo.org/Visit?oc_lang=en-US"
-  },
-  {
-   "text": "Spanish Select this as your preferred language",
-   "href": "https://www.paloaltozoo.org/Visit?oc_lang=es"
-  },
-  {
-   "text": "Chinese (Simplified) Select this as your preferred language",
-   "href": "https://www.paloaltozoo.org/Visit?oc_lang=zh-CN"
   },
   {
    "text": "Visit",
