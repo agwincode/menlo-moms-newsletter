@@ -39,3 +39,16 @@ standing rule, move it into RULES.md or STYLE.md.
   Springline Oktoberfest). When the organizer has nothing usable: a news or Wikipedia photo
   (Almanac, InMenlo, a bald eagle), and once a generic seasonal illustration.
 - No headshots of named people. Book covers are fine.
+
+## 2026-10-30 issue (sent Oct 29) vs. drafts/2026-10-30.md
+- The whole draft ran: all 5 lineup cards, all 6 This Weekend lines and all 3 On the Horizon items,
+  in the same order. A Halloween weekend built from organizer pages plus InMenlo traditions needed no cuts.
+- She folded the forecast into the hook as prose ("Sunny Friday (69°F), mostly cloudy Saturday with
+  a slight chance of light rain (65°F), and sunny Sunday (67°F).") instead of a separate
+  "Forecast: Friday sunny (…)" line. Write the weather line in that day-first, conversational shape.
+- Cost stayed inside the card prose (no separate **Cost:** line) on every card, and nobody added one.
+- She kept a far-off save-the-date (Pacific Coast Dream Machines, April 2027) in On the Horizon.
+  Not a reason to add more of them, but a local one-day spectacle is treated differently from the
+  big 2027 music festivals she always cuts.
+- Kept Halloween & Hiking Hounds even though its registration closed the day after the Thursday send:
+  a deadline one day after the issue lands is fine; flag it, don't cut it.
