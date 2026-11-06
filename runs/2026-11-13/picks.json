@@ -1,0 +1,19 @@
+{
+ "events": [
+  {"key": "san-mateo-on-ice", "url": "https://www.cityofsanmateo.org/Calendar/Home/SingleEvent?eventID=8086", "photos": true},
+  {"key": "mp-book-sale", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Events-for-adults/20261113-14-FOL-Book-Sale", "photos": true},
+  {"key": "filoli-holiday-daytime", "url": "https://filoli.org/whats-on/events/holiday-daytime/", "photos": true},
+  {"key": "illuminodyssey", "url": "https://curiodyssey.org/illuminodyssey10/", "photos": true},
+  {"key": "diwali-downtown-san-carlos", "url": "https://www.cityofsancarlos.org/business_detail_T10_R450.php", "photos": true},
+  {"key": "cubberley-open-studios", "url": "https://www.paloalto.gov/Events-Directory/Community-Services/Cubberley-Artist-Studio-Program-Open-Studios", "photos": true},
+  {"key": "stanford-bob-marley", "url": "https://live.stanford.edu/events/26-27season/studio/bob-marley/", "photos": true},
+  {"key": "filoli-holiday-lights", "url": "https://filoli.org/whats-on/events/holiday-lights/"},
+  {"key": "woodside-owl-box", "url": "https://www.woodsideca.gov/Calendar.aspx?EID=1702&month=11&year=2026&day=6&calType=0"},
+  {"key": "midpen-latino-outdoors", "url": "https://www.openspace.org/events/latino-outdoors-take-hike-day-0"},
+  {"key": "midpen-giving-thanks", "url": "https://www.openspace.org/events/guided-activities/giving-thanks"},
+  {"key": "msi-november-camp", "url": "https://www.sfbaymsi.org/november-break-camp"},
+  {"key": "dickens-fair", "url": "https://dickensfair.com/tickets/"},
+  {"key": "gamble-winter-festival", "url": "https://www.gamblegarden.org/events/category/holidays/winter-festival-2026/"},
+  {"key": "pa-diwali", "url": "https://www.paloalto.gov/Events-Directory/Library/Festival-of-Lights-A-Diwali-Celebration"}
+ ]
+}
