@@ -1,6 +1,6 @@
 {
  "friday": "2026-11-13",
- "run_at": "2026-11-06T19:47:48",
+ "run_at": "2026-11-06T20:56:39",
  "ok": 32,
  "total": 33,
  "sources": [
@@ -28,7 +28,7 @@
    "http": 200,
    "chars": 4434,
    "links": 300,
-   "secs": 5,
+   "secs": 6,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -119,7 +119,7 @@
    "http": 200,
    "chars": 12622,
    "links": 106,
-   "secs": 1,
+   "secs": 0,
    "attempts": [
     "direct:ok:200"
    ],
@@ -180,7 +180,7 @@
    "http": 200,
    "chars": 9853,
    "links": 101,
-   "secs": 5,
+   "secs": 4,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -285,9 +285,9 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 27695,
-   "links": 283,
-   "secs": 6,
+   "chars": 27395,
+   "links": 277,
+   "secs": 13,
    "attempts": [
     "browser:ok:200"
    ],
@@ -317,7 +317,7 @@
    "http": 200,
    "chars": 6580,
    "links": 122,
-   "secs": 1,
+   "secs": 0,
    "attempts": [
     "direct:ok:200"
    ],
@@ -345,9 +345,9 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 14819,
-   "links": 155,
-   "secs": 5,
+   "chars": 14772,
+   "links": 157,
+   "secs": 4,
    "attempts": [
     "browser:ok:200"
    ],
@@ -362,7 +362,7 @@
    "http": 200,
    "chars": 3518,
    "links": 242,
-   "secs": 5,
+   "secs": 4,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -378,7 +378,7 @@
    "http": 200,
    "chars": 4350,
    "links": 250,
-   "secs": 8,
+   "secs": 5,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -480,7 +480,7 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 803,
+   "chars": 806,
    "links": 32,
    "secs": 6,
    "attempts": [
@@ -498,7 +498,7 @@
    "http": 200,
    "chars": 5772,
    "links": 84,
-   "secs": 1,
+   "secs": 0,
    "attempts": [
     "direct:ok:200"
    ],

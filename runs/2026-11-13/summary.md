@@ -22,11 +22,11 @@
 | [hiller](https://www.hiller.org/calendar/) | blocked | browser | 19 | direct:blocked:403 / browser:blocked:403 |
 | [midpen](https://www.openspace.org/events) | ok | direct | 3009 | direct:ok:200 |
 | [springline](https://springline.com/lifestyle/) | ok | direct | 6384 | direct:ok:200 |
-| [macaroni-kid](https://paloalto.macaronikid.com/events) | ok | browser | 27695 | browser:ok:200 |
+| [macaroni-kid](https://paloalto.macaronikid.com/events) | ok | browser | 27395 | browser:ok:200 |
 | [funcheap-peninsula](https://sf.funcheap.com/region/peninsula/) | ok | direct | 15552 | direct:ok:200 |
 | [mommy-poppins](https://mommypoppins.com/san-francisco-bay-area) | ok | direct | 6580 | direct:ok:200 |
 | [pact](https://pact.showare.com/) | ok | browser | 4065 | browser:ok:200 |
-| [smc-library](https://smcl.bibliocommons.com/v2/events?content_type=EVENTS) | ok | browser | 14819 | browser:ok:200 |
+| [smc-library](https://smcl.bibliocommons.com/v2/events?content_type=EVENTS) | ok | browser | 14772 | browser:ok:200 |
 | [mp-gymnastics](https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Recreation-and-sports/Gymnastics) | ok | browser | 3518 | direct:blocked:403 / browser:ok:200 |
 | [mp-activity-guide](https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Activity-guide) | ok | browser | 4350 | direct:blocked:403 / browser:ok:200 |
 | [mp-registration](https://cityofmenlopark.perfectmind.com/26116/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406) | ok | browser | 876 | browser:ok:200 |
@@ -35,5 +35,5 @@
 | [outside-lands](https://www.sfoutsidelands.com/) | ok | direct | 1030 | direct:ok:200 |
 | [maker-faire](https://makerfaire.com/bay-area/) | ok | direct | 8234 | direct:ok:200 |
 | [hmb-pumpkin-fest](https://hmbpumpkinfest.com/) | ok | direct | 3348 | direct:ok:200 |
-| [stern-grove](https://www.sterngrove.org/) | ok | browser | 803 | direct:thin:200 / browser:ok:200 |
+| [stern-grove](https://www.sterngrove.org/) | ok | browser | 806 | direct:thin:200 / browser:ok:200 |
 | [la-honda-fair](https://www.visithalfmoonbay.org/events/la-honda-art-music-fair/) | ok | direct | 5772 | direct:ok:200 |
