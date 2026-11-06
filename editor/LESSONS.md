@@ -52,3 +52,17 @@ standing rule, move it into RULES.md or STYLE.md.
   big 2027 music festivals she always cuts.
 - Kept Halloween & Hiking Hounds even though its registration closed the day after the Thursday send:
   a deadline one day after the issue lands is fine; flag it, don't cut it.
+
+## 2026-11-06 issue (sent Nov 5) vs. drafts/2026-11-06.md
+- She replaced the drafted hook with a civic note: thanks to everyone who ran for local office and voted, and to the
+  local leaders and staff behind the events. When the week has a civic or community moment (election, a holiday),
+  open with a warm line about it before the weekend itself.
+- She rewrote the preview text as a sentence tied to the moment ("With Halloween and Election Day behind us, we have
+  Día de los Muertos…, a History Museum grand opening and holiday prep!") rather than a list of items.
+- Unconfirmed costs: she deleted both `**Cost:** TK` lines rather than filling them. When a price can't be confirmed,
+  leave the Cost line out of the card and flag it in the review file; never put TK in the draft.
+- Unconfirmed time: she filled Día de los Muertos' `When: TK` with the aggregator time we gave in the review note
+  (3:00-8:30 PM). Keep giving the aggregator's figure in "Check before sending" when the organizer is silent.
+- She kept the forecast as its own "Forecast: …" line this time (refreshed numbers), so keep the weather marker line
+  as is; the Oct 30 fold-into-hook was a one-off.
+- A 2-card lineup plus Sunday Standbys, Don't Miss and Next Weekend ran verbatim: a thin weekend stays thin.
