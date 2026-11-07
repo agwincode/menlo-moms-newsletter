@@ -1,31 +1,31 @@
 {
  "friday": "2026-11-13",
- "fetched": "2026-11-06",
+ "fetched": "2026-11-07",
  "days": [
   {
    "label": "Friday",
    "date": "2026-11-13",
-   "source": "open-meteo (early)",
-   "high": 65,
-   "low": 53,
-   "condition": "light drizzle"
+   "source": "nws",
+   "high": 70,
+   "condition": "Chance Light Rain",
+   "low": 52
   },
   {
    "label": "Saturday",
    "date": "2026-11-14",
    "source": "open-meteo (early)",
-   "high": 69,
-   "low": 56,
-   "condition": "showers"
+   "high": 78,
+   "low": 55,
+   "condition": "cloudy"
   },
   {
    "label": "Sunday",
    "date": "2026-11-15",
    "source": "open-meteo (early)",
-   "high": 67,
-   "low": 56,
+   "high": 58,
+   "low": 50,
    "condition": "showers"
   }
  ],
- "line": "Forecast: Friday light drizzle (65\u00b0F), Saturday showers (69\u00b0F), Sunday showers (67\u00b0F)."
+ "line": "Forecast: Friday chance of light rain (70\u00b0F), Saturday cloudy (78\u00b0F), Sunday showers (58\u00b0F)."
 }
