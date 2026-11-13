@@ -1,0 +1,18 @@
+{
+ "events": [
+  {"key": "dickens-fair", "url": "https://dickensfair.com/tickets/", "photos": true},
+  {"key": "pa-diwali", "url": "https://www.paloalto.gov/Events-Directory/Library/Festival-of-Lights-A-Diwali-Celebration", "photos": true},
+  {"key": "pact-little-red", "url": "https://www.paloalto.gov/Events-Directory/Community-Services/Playhouse-Series-Little-Red-Riding-Hood", "photos": true},
+  {"key": "santas-tree-farm", "url": "https://www.santastreefarm.com/", "photos": true},
+  {"key": "lego-holiday-workshop", "url": "https://lego-holiday-workshop-san-mateo-ca.appointedd.com/booking-widget/6ad7721720359d8ff4cdbf2b", "photos": true},
+  {"key": "pa-friendsgiving", "url": "https://www.paloalto.gov/Events-Directory/Community-Services/Friendsgiving", "photos": true},
+  {"key": "pact-little-red-sat-noon", "url": "https://pact.showare.com/orderticketsarea.asp?p=367&a=2&src=default"},
+  {"key": "pact-little-red-sun-noon", "url": "https://pact.showare.com/orderticketsarea.asp?p=369&a=2&src=default"},
+  {"key": "big-game", "url": "https://gostanford.com/news/2026/11/09/kickoff-time-revealed-for-129th-big-game"},
+  {"key": "pact-frog-toad", "url": "https://pact.showare.com/eventperformances.asp?evt=49"},
+  {"key": "mp-photos-with-santa", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Community-events/Photos-with-Santa"},
+  {"key": "gamble-once-upon-a-garden", "url": "https://www.gamblegarden.org/event/once-upon-a-garden/"},
+  {"key": "mp-light-up-the-season", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Community-events/Shop-local-Light-Up-the-Season"},
+  {"key": "mp-tellabration", "url": "https://www.meetup.com/menloparklibrary/events/316611277"}
+ ]
+}
