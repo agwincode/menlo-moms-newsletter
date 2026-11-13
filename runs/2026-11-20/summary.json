@@ -1,0 +1,510 @@
+{
+ "friday": "2026-11-20",
+ "run_at": "2026-11-13T19:47:21",
+ "ok": 32,
+ "total": 33,
+ "sources": [
+  {
+   "id": "menlo-park-events",
+   "url": "https://www.menlopark.gov/Events",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 2985,
+   "links": 252,
+   "secs": 5,
+   "attempts": [
+    "direct:blocked:403",
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "palo-alto-events",
+   "url": "https://www.paloalto.gov/Events-Directory",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 4493,
+   "links": 300,
+   "secs": 6,
+   "attempts": [
+    "direct:blocked:403",
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "funcheap-redwood-city",
+   "url": "https://sf.funcheap.com/region/redwood-city/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 4263,
+   "links": 75,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "downtown-menlo",
+   "url": "https://downtownmenlo.com/explore/events",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 7887,
+   "links": 21,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "filoli",
+   "url": "https://filoli.org/events/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 3546,
+   "links": 63,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "filoli-autumn-days",
+   "url": "https://filoli.org/whats-on/events/autumn-days/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 1851,
+   "links": 56,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "gamble-garden",
+   "url": "https://www.gamblegarden.org/events/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 3210,
+   "links": 47,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "hidden-villa",
+   "url": "https://www.hiddenvilla.org/calendar/upcoming/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 11959,
+   "links": 101,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "keplers",
+   "url": "https://www.keplers.org/youth-events",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 15327,
+   "links": 56,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "palo-alto-zoo",
+   "url": "https://www.paloaltozoo.org/visit",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 5235,
+   "links": 94,
+   "secs": 5,
+   "attempts": [
+    "direct:blocked:403",
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "guild-theatre",
+   "url": "https://www.guildtheatre.com/calendar",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 20651,
+   "links": 156,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "canopy",
+   "url": "https://canopy.org/events/",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 9627,
+   "links": 102,
+   "secs": 7,
+   "attempts": [
+    "direct:blocked:403",
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "stanford-athletics",
+   "url": "https://gostanford.com/calendar",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 40000,
+   "links": 300,
+   "secs": 5,
+   "attempts": [
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "stanford-live-family",
+   "url": "https://live.stanford.edu/events/categories/family",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 12044,
+   "links": 116,
+   "secs": 4,
+   "attempts": [
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "computer-history-museum",
+   "url": "https://computerhistory.org/events/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 1721,
+   "links": 60,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "hiller",
+   "url": "https://www.hiller.org/calendar/",
+   "status": "blocked",
+   "method": "browser",
+   "http": 403,
+   "chars": 19,
+   "links": 0,
+   "secs": 4,
+   "attempts": [
+    "direct:blocked:403",
+    "browser:blocked:403"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "midpen",
+   "url": "https://www.openspace.org/events",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 3049,
+   "links": 112,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "springline",
+   "url": "https://springline.com/lifestyle/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 6334,
+   "links": 97,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "macaroni-kid",
+   "url": "https://paloalto.macaronikid.com/events",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 25559,
+   "links": 300,
+   "secs": 6,
+   "attempts": [
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "funcheap-peninsula",
+   "url": "https://sf.funcheap.com/region/peninsula/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 14927,
+   "links": 111,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "mommy-poppins",
+   "url": "https://mommypoppins.com/san-francisco-bay-area",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 6756,
+   "links": 122,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "pact",
+   "url": "https://pact.showare.com/",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 4038,
+   "links": 44,
+   "secs": 4,
+   "attempts": [
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "smc-library",
+   "url": "https://smcl.bibliocommons.com/v2/events?content_type=EVENTS",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 14280,
+   "links": 152,
+   "secs": 12,
+   "attempts": [
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "mp-gymnastics",
+   "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Recreation-and-sports/Gymnastics",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 3851,
+   "links": 243,
+   "secs": 4,
+   "attempts": [
+    "direct:blocked:403",
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "mp-activity-guide",
+   "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Activity-guide",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 4875,
+   "links": 251,
+   "secs": 9,
+   "attempts": [
+    "direct:blocked:403",
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "mp-registration",
+   "url": "https://cityofmenlopark.perfectmind.com/26116/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 876,
+   "links": 1,
+   "secs": 4,
+   "attempts": [
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "inmenlo",
+   "url": "https://inmenlo.com/feed/",
+   "status": "ok",
+   "method": "rss",
+   "http": 200,
+   "chars": 7698,
+   "links": 10,
+   "secs": 0,
+   "attempts": [],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "bottlerock",
+   "url": "https://www.bottlerocknapavalley.com/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 7501,
+   "links": 32,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "outside-lands",
+   "url": "https://www.sfoutsidelands.com/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 1000,
+   "links": 20,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "maker-faire",
+   "url": "https://makerfaire.com/bay-area/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 8237,
+   "links": 68,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "hmb-pumpkin-fest",
+   "url": "https://hmbpumpkinfest.com/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 3348,
+   "links": 87,
+   "secs": 1,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "stern-grove",
+   "url": "https://www.sterngrove.org/",
+   "status": "ok",
+   "method": "browser",
+   "http": 200,
+   "chars": 805,
+   "links": 32,
+   "secs": 19,
+   "attempts": [
+    "direct:thin:200",
+    "browser:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  },
+  {
+   "id": "la-honda-fair",
+   "url": "https://www.visithalfmoonbay.org/events/la-honda-art-music-fair/",
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 5772,
+   "links": 84,
+   "secs": 0,
+   "attempts": [
+    "direct:ok:200"
+   ],
+   "error": "",
+   "retired": false
+  }
+ ],
+ "weather": "Forecast: Friday cloudy (58\u00b0F), Saturday cloudy (65\u00b0F), Sunday cloudy (67\u00b0F)."
+}
