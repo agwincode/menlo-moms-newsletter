@@ -1,7 +1,7 @@
 {
  "friday": "2026-11-20",
- "run_at": "2026-11-13T19:47:21",
- "ok": 32,
+ "run_at": "2026-11-13T21:27:46",
+ "ok": 33,
  "total": 33,
  "sources": [
   {
@@ -28,7 +28,7 @@
    "http": 200,
    "chars": 4493,
    "links": 300,
-   "secs": 6,
+   "secs": 5,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -119,7 +119,7 @@
    "http": 200,
    "chars": 11959,
    "links": 101,
-   "secs": 0,
+   "secs": 1,
    "attempts": [
     "direct:ok:200"
    ],
@@ -149,7 +149,7 @@
    "http": 200,
    "chars": 5235,
    "links": 94,
-   "secs": 5,
+   "secs": 4,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -180,7 +180,7 @@
    "http": 200,
    "chars": 9627,
    "links": 102,
-   "secs": 7,
+   "secs": 5,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -196,7 +196,7 @@
    "http": 200,
    "chars": 40000,
    "links": 300,
-   "secs": 5,
+   "secs": 6,
    "attempts": [
     "browser:ok:200"
    ],
@@ -211,7 +211,7 @@
    "http": 200,
    "chars": 12044,
    "links": 116,
-   "secs": 4,
+   "secs": 5,
    "attempts": [
     "browser:ok:200"
    ],
@@ -224,8 +224,8 @@
    "status": "ok",
    "method": "direct",
    "http": 200,
-   "chars": 1721,
-   "links": 60,
+   "chars": 1663,
+   "links": 59,
    "secs": 0,
    "attempts": [
     "direct:ok:200"
@@ -236,15 +236,14 @@
   {
    "id": "hiller",
    "url": "https://www.hiller.org/calendar/",
-   "status": "blocked",
-   "method": "browser",
-   "http": 403,
-   "chars": 19,
-   "links": 0,
-   "secs": 4,
+   "status": "ok",
+   "method": "direct",
+   "http": 200,
+   "chars": 8179,
+   "links": 72,
+   "secs": 0,
    "attempts": [
-    "direct:blocked:403",
-    "browser:blocked:403"
+    "direct:ok:200"
    ],
    "error": "",
    "retired": false
@@ -255,7 +254,7 @@
    "status": "ok",
    "method": "direct",
    "http": 200,
-   "chars": 3049,
+   "chars": 3073,
    "links": 112,
    "secs": 0,
    "attempts": [
@@ -285,9 +284,9 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 25559,
+   "chars": 25450,
    "links": 300,
-   "secs": 6,
+   "secs": 14,
    "attempts": [
     "browser:ok:200"
    ],
@@ -316,7 +315,7 @@
    "method": "direct",
    "http": 200,
    "chars": 6756,
-   "links": 122,
+   "links": 124,
    "secs": 0,
    "attempts": [
     "direct:ok:200"
@@ -332,7 +331,7 @@
    "http": 200,
    "chars": 4038,
    "links": 44,
-   "secs": 4,
+   "secs": 5,
    "attempts": [
     "browser:ok:200"
    ],
@@ -345,9 +344,9 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 14280,
-   "links": 152,
-   "secs": 12,
+   "chars": 14872,
+   "links": 158,
+   "secs": 4,
    "attempts": [
     "browser:ok:200"
    ],
@@ -362,7 +361,7 @@
    "http": 200,
    "chars": 3851,
    "links": 243,
-   "secs": 4,
+   "secs": 5,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -378,7 +377,7 @@
    "http": 200,
    "chars": 4875,
    "links": 251,
-   "secs": 9,
+   "secs": 10,
    "attempts": [
     "direct:blocked:403",
     "browser:ok:200"
@@ -480,9 +479,9 @@
    "status": "ok",
    "method": "browser",
    "http": 200,
-   "chars": 805,
+   "chars": 804,
    "links": 32,
-   "secs": 19,
+   "secs": 6,
    "attempts": [
     "direct:thin:200",
     "browser:ok:200"

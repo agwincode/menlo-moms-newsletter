@@ -3,7 +3,7 @@
  "watchlist": false,
  "retired": false,
  "note": "",
- "collected_at": "2026-11-13T19:46:22",
+ "collected_at": "2026-11-13T21:27:06",
  "url": "https://mommypoppins.com/san-francisco-bay-area",
  "final_url": "https://mommypoppins.com/san-francisco-bay-area",
  "method": "direct",
@@ -370,7 +370,7 @@
   },
   {
    "text": "3 Days in San Francisco with Kids: Ultimate Itinerary by a Local Mom",
-   "href": "https://mommypoppins.com/index%2ephp/san-francisco-bay-area-kids/visitors-guide/visiting-san-francisco-with-kids-itinerary"
+   "href": "https://mommypoppins.com/san-francisco-bay-area-kids/visitors-guide/visiting-san-francisco-with-kids-itinerary"
   },
   {
    "text": "Fisherman's Wharf with Kids in San Francisco: 25 Best Things To Do",
@@ -422,7 +422,7 @@
   },
   {
    "text": "40 Classic Outdoor Games for Kids (Easy Backyard & Playground Games)",
-   "href": "https://mommypoppins.com/kids/outdoors/35-backyard-games-for-kids-to-play-outside"
+   "href": "https://mommypoppins.com/index%2ephp/kids/outdoors/35-backyard-games-for-kids-to-play-outside"
   },
   {
    "text": "Holiday Gift Guide 2026: Best Gifts for Kids, from Babies to Teens",
@@ -454,15 +454,15 @@
   },
   {
    "text": "Activities",
-   "href": "https://mommypoppins.com/events"
+   "href": "https://mommypoppins.com/index%2ephp/events"
   },
   {
    "text": "Providers",
-   "href": "https://mommypoppins.com/directory"
+   "href": "https://mommypoppins.com/index%2ephp/directory"
   },
   {
    "text": "Family Travel",
-   "href": "https://mommypoppins.com/family-neighborhood-guide/all-regions"
+   "href": "https://mommypoppins.com/index%2ephp/family-neighborhood-guide/all-regions"
   },
   {
    "text": "Newsletter Subscribe",
@@ -470,23 +470,23 @@
   },
   {
    "text": "Contact",
-   "href": "https://mommypoppins.com/content/contact"
+   "href": "https://mommypoppins.com/index%2ephp/content/contact"
   },
   {
    "text": "About",
-   "href": "https://mommypoppins.com/about-mommy-poppins"
+   "href": "https://mommypoppins.com/index%2ephp/about-mommy-poppins"
   },
   {
    "text": "Submit an Activity",
-   "href": "https://mommypoppins.com/node/add/event"
+   "href": "https://mommypoppins.com/index%2ephp/node/add/event"
   },
   {
    "text": "List Your Business",
-   "href": "https://mommypoppins.com/mommy-poppins-business-listings-details"
+   "href": "https://mommypoppins.com/index%2ephp/mommy-poppins-business-listings-details"
   },
   {
    "text": "Advertise with Us",
-   "href": "https://mommypoppins.com/content/advertise-on-mommy-poppins"
+   "href": "https://mommypoppins.com/index%2ephp/content/advertise-on-mommy-poppins"
   },
   {
    "text": "Privacy Policy",
@@ -499,6 +499,14 @@
   {
    "text": "Terms of Use.",
    "href": "https://mommypoppins.com/kids/terms-of-use"
+  },
+  {
+   "text": "Calendar",
+   "href": "https://mommypoppins.com/events"
+  },
+  {
+   "text": "Directory",
+   "href": "https://mommypoppins.com/directory"
   },
   {
    "text": "Travel",
