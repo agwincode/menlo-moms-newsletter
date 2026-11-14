@@ -1,31 +1,25 @@
 {
  "friday": "2026-11-20",
- "fetched": "2026-11-13",
+ "fetched": "2026-11-14",
  "days": [
   {
    "label": "Friday",
    "date": "2026-11-20",
-   "source": "open-meteo (early)",
-   "high": 58,
-   "low": 47,
-   "condition": "cloudy"
+   "source": "nws",
+   "high": 61,
+   "condition": "Sunny",
+   "low": 41
   },
   {
    "label": "Saturday",
    "date": "2026-11-21",
-   "source": "open-meteo (early)",
-   "high": 65,
-   "low": 46,
-   "condition": "cloudy"
+   "source": "unavailable"
   },
   {
    "label": "Sunday",
    "date": "2026-11-22",
-   "source": "open-meteo (early)",
-   "high": 67,
-   "low": 52,
-   "condition": "cloudy"
+   "source": "unavailable"
   }
  ],
- "line": "Forecast: Friday cloudy (58\u00b0F), Saturday cloudy (65\u00b0F), Sunday cloudy (67\u00b0F)."
+ "line": "Forecast: Friday sunny (61\u00b0F). **[Saturday and Sunday forecast not out yet.]**"
 }
