@@ -74,9 +74,9 @@
   "image_candidates": [
    "https://www.paloalto.gov/files/assets/public/v/1/library/events/diwali2023_890x445.png?dimension=pageimagefullwidth&w=1140",
    "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
-   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2633!3i6353!4i256!2m3!1e0!2sm!3i803569618!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=40886",
    "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2634!3i6353!4i256!2m3!1e0!2sm!3i803569618!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=98328",
-   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2633!3i6352!4i256!2m3!1e0!2sm!3i803569546!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=50732"
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2633!3i6352!4i256!2m3!1e0!2sm!3i803569546!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=50732",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2633!3i6353!4i256!2m3!1e0!2sm!3i803569618!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=40886"
   ],
   "signals": {
    "sold_out": [],
@@ -131,7 +131,7 @@
    "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
    "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2633!3i6352!4i256!2m3!1e0!2sm!3i803569546!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=50732",
    "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2634!3i6352!4i256!2m3!1e0!2sm!3i803569546!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=108174",
-   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6352!4i256!2m3!1e0!2sm!3i803569564!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=13943"
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6351!4i256!2m3!1e0!2sm!3i803569618!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=19555"
   ],
   "signals": {
    "sold_out": [],
@@ -272,7 +272,7 @@
   },
   "prices": [],
   "dates": [],
-  "text": "San Mateo, CA",
+  "text": "",
   "error": "",
   "photos": [
    {
@@ -307,8 +307,8 @@
    "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
    "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2633!3i6352!4i256!2m3!1e0!2sm!3i803569546!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=50732",
    "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6352!4i256!2m3!1e0!2sm!3i803569564!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=13943",
-   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2634!3i6352!4i256!2m3!1e0!2sm!3i803569546!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=108174",
-   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6351!4i256!2m3!1e0!2sm!3i803569618!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=19555"
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6351!4i256!2m3!1e0!2sm!3i803569618!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=19555",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2633!3i6351!4i256!2m3!1e0!2sm!3i803569618!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=76997"
   ],
   "signals": {
    "sold_out": [],
@@ -374,18 +374,20 @@
  },
  "pact-little-red-sun-noon": {
   "url": "https://pact.showare.com/orderticketsarea.asp?p=369&a=2&src=default",
-  "final_url": "https://pact.showare.com/orderticketsarea.asp?p=369&a=2&src=default&_ga=GA1.1.1131552405.1794609784&_gl=",
+  "final_url": "https://pact.showare.com/eventperformances.asp?evt=9",
   "status": "ok",
   "method": "browser",
   "attempts": [
-   "browser:thin:200"
+   "browser:ok:200"
   ],
   "http": 200,
-  "title": "Tickets | Playhouse Series: Little Red Riding Hood at Palo Alto Childrens Theatre, Palo Alto, CA on 11/22/2026 12:00 pm | Palo Alto Childrens Theatre",
+  "title": "Tickets | Playhouse Series: Little Red Riding Hood | Palo Alto Childrens Theatre",
   "og_image": "",
   "image_candidates": [],
   "signals": {
-   "sold_out": [],
+   "sold_out": [
+    "7 Tuesday 18 Wednesday 19 Thursday 20 Friday 21 Saturday Selling Quickly $20.55 22 Sunday sold out 23 Monday 24 Tuesday 25 Wednesday 26 Thursday 27 Friday 28 Saturday 29 Sunday 30 Monday G"
+   ],
    "waitlist": [],
    "registration_closed": [],
    "sales_ended": [],
@@ -399,9 +401,10 @@
    "$20.55"
   ],
   "dates": [
-   "Sunday, November 22, 2026"
+   "November 21-22, 2026",
+   "Month\nNovember 20"
   ],
-  "text": "Playhouse Series: Little Red Riding Hood\n Sunday, November 22, 2026\n , 12:00 pm PST\n  at   \nPalo Alto Childrens Theatre\nSee Description\nAll Attendees - All Ages - Kids & Adults \n$20.55\n-\n+\nADA - GA Seating \n$20.55\n-\n+\nAttention!\n You must click \n Reserve Selected Tickets \n button in order to reserve tickets.\nPlease note:\n Tickets will be reserved for \n9\n minutes while you complete your purchase",
+  "text": "Playhouse Series: Little Red Riding Hood\nMore Info\nLittle Red Riding Hood | November 21-22, 2026\nBased on the story by Hans Christian Andersen \nWith very simple sets, costumes, and lots of opportunities to get up and wiggle, this story-teller style theatre is perfect for young audience members, suggested ages two to six years old and their families.\nPerformances are approximately 55 minutes in length, Saturdays and Sundays at 10 a.m. and noon. Performances are held indoors. All attendees of all ages must have a ticket.\nGot It!\nSelect Date\nFilter Dates\nPrevious Month\nNovember 2026\nNext Month\nSu\nMo\nTu\nWe\nTh\nFr\nSa\n1\nSunday\n2\nMonday\n3\nTuesday\n4\nWednesday\n5\nThursday\n6\nFriday\n7\nSaturday\n8\nSunday\n9\nMonday\n10\nTuesday\n11\nWednesday\n12\nThursday\n13\nFriday\n14\nSaturday\n15\nSunday\n16\nMonday\n17\nTuesday\n18\nWednesday\n19\nThursday\n20\nFriday\n21\nSaturday\nSelling Quickly\n$20.55\n22\nSunday\nsold out\n23\nMonday\n24\nTuesday\n25\nWednesday\n26\nThursday\n27\nFriday\n28\nSaturday\n29\nSunday\n30\nMonday\nGo to previous month\nGo to next month\nLoading...\n!\n - Selling Quickly\nAll Attendees - All Ages - Kids & Adults",
   "error": "",
   "photos": []
  },
@@ -584,7 +587,7 @@
   },
   "prices": [],
   "dates": [],
-  "text": "Access Denied\nYou don't have permission to access \"http://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Community-events/Shop-local-Light-Up-the-Season\" on this server.\nReference #18.4d85d817.1794609824.6879fd8\nhttps://errors.edgesuite.net/18.4d85d817.1794609824.6879fd8",
+  "text": "Access Denied\nYou don't have permission to access \"http://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Community-events/Shop-local-Light-Up-the-Season\" on this server.\nReference #18.b025c017.1794672194.66576d89\nhttps://errors.edgesuite.net/18.b025c017.1794672194.66576d89",
   "error": "",
   "photos": []
  },
@@ -632,6 +635,118 @@
    "Saturday, Nov. 21, 2026"
   ],
   "text": "Tellabration! ™\nHosted by \nJohn W.\nSuper Organizer\n@ Menlo Park Library\nSaturday, Nov 21\n · \n 1:00 PM to 3:00 PM\nPST\nMenlo Park Library\n800 Alma St, Menlo Park, CA 94025, USA · Menlo Park, CA\nTellabration! ™\nHosted by \nJohn W.\nSuper Organizer\n@ Menlo Park Library\nDetails\nOur Storytelling Festival concludes with a whole lot of tale-spinning!\nTellers from the South Bay Storytellers and Listeners will be joining us to share their 35th annual Tellabration™ event. Join us to listen, or perhaps to contribute a tale, yourself!\nThis storytelling event targets adults, but school-age children accompanied by an adult are welcome.\nTellabration\n™ is worldwide event of storytelling created in 1988 by Connecticut storyteller J.G. Pinkerton. The event brings people together and shares the power and joy of storytelling.\nSouth Bay Storytellers and Listeners are a network of people in Silicon Valley dedicated to making storytelling a vital part of the community. The group hosts the monthly Silicon Valley Storytelling Meetup, now taking place on the 4th Tuesday evening of each month at Menlo Park Library!\nThis is one of nine events in the \n11th Annual Menlo Park Storytelling Festival\n. Join us for one event, or the whole series!\nSun. Sept. 27 | \nClara Kamunde: Afri-Crafty Tales\n | Belle Haven Library | All ages |\nSat. Oct. 3 | \nRoopa Mohan presents Kasturba Gandhi\n | Menlo Park Library | Adults & teens |\nSun. Oct. 18 | \nHana Baba: Folktales from Sudan\n | Belle Haven Library | 6-Adult |\nTues. Oct. 27 | \nStorytelling Meetup\n | Menlo Park Library | Adults & families |\nThurs. Nov. 5 | \nJohn Weaver: Pumpkin Tales\n | Menlo Park Library | 4-Adult |\nThurs. Nov. 12 | \nStoryFest!\n | Zoom | 6-Adult |\nSun. Nov.15 | \nStorytelling Workshop\n | Menlo Park Library | 10-Adult |\nMon. Nov. 16 | \nJeff Gere: True Supernatural Tales of Hawaii\n | Menlo Park Library | 9-Adult |\nSat. Nov. 21 | \nTellabration!\n ™ | Menlo Park Library | 5-Adult |\nAbout Storytelling:\nStorytelling is telling stories--without using a book.\nIt's an ancient art form that predates libraries, and books, and writing.\nIt's not necessarily for children!\nTraditional-style storytelling creates unique images in the mind of each listener.\nAccording to the \nNational Storytelling Network\n, \"storytelling is the interactive art of using words and actions to reveal the elements and images of a story while encouraging the listener’s imagination. In storytelling, the listener imagines the story.”\nAccording to the \nStorytelling Association of California\n (an organization dedicated to promoting storytelling as a living art form), storytelling is “orally passing on adventures, wisdom, experiences, surprise, history, laughter, beliefs and imagination.”\nSaturday, Nov. 21, 2026, 1-3 p.m.\nMenlo Park Library, 800 Alma St., Menlo Park, CA\nMore free events with Menlo Park Library\nMenlo Park Library on social media:\n@menloparklibrary on \nInstagram \n& \nFacebook\n@menlolibrary on \nTwitter\n/X\nRelated topics\nEvents in Menlo Park, CA\nPublic Speaking\nLocal Activities\nSpoken Word\nStorytelling\nLibrary\nReport event\nYou may also like\nSee all",
+  "error": "",
+  "photos": []
+ },
+ "pyt-wizard-of-oz": {
+  "url": "https://pytnet.org/shows/the-wizard-of-oz/",
+  "final_url": "https://pytnet.org/shows/the-wizard-of-oz/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "The Wizard of Oz — Peninsula Youth Theatre",
+  "og_image": "https://pytnet.org/uploads/wizard.jpg",
+  "image_candidates": [],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$3",
+   "$4"
+  ],
+  "dates": [
+   "November 14-22, 2026",
+   "Sat, Nov 14",
+   "Sun, Nov 15",
+   "Sat, Nov 21",
+   "Sun, Nov 22",
+   "Thur, Nov 19",
+   "Fri, Nov 20"
+  ],
+  "text": "The Wizard of Oz\nDates\nNovember 14-22, 2026\nVenue\nMountain View Center for the Performing Arts, Main Stage\nRuntime\nAbout 90 minutes\nBuy Tickets\nSponsor This Show\nFollow the yellow brick road to join Dorothy’s adventures with her friends as they brave the Wizard in the Emerald City. This inspiration for Wicked contains the songs from the beloved MGM musical starring Judy Garland, and is a treat the whole family can enjoy.\nBy L. Frank Baum, Harold Arlen, E. Y. Harburg, Herbert Stothart, Peter Howard, Larry Wilcox, John Kane.\nThe Wizard of Oz is presented by arrangement with Concord Theatricals on behalf of Tams-Witmark LLC. www.concordtheatricals.com\nPerformances & casts\nEach performance is cast separately. Use the buttons below to\n buy tickets for the cast and date you'd like to see.\nSat, Nov 14 \n2:00PM\nEmerald\nBuy tickets\nSat, Nov 14\n7:30PM\nRuby\nBuy tickets\nSun, Nov 15\n1:00PM\nEmerald\nBuy tickets\nSat, Nov 21\n2:00PM\nRuby\nBuy tickets\nSat, Nov 21\n7:30PM\nEmerald\nBuy tickets\nSun, Nov 22 \n1:00PM\nRuby\nBuy tickets\nThur, Nov 19\n9:30AM\nStudent Matinee\nBuy tickets\nFri, Nov 20\n9:30AM\nStudent Matinee\nBuy tickets\nWhy is there a fee on my ticket? We're proud to call the Mountain View Center for the Performing Arts home. Like many venues, MVCPA adds fees to each ticket: a $3 facility fee and a $4 processing fee. These are set and collected by the venue, not PYT. We want you to know the full cost up front, so there are not surprises at checkout. Thank you for supporting our young artists! \n← Back to all shows",
+  "error": "",
+  "photos": []
+ },
+ "midpen-banana-slugs": {
+  "url": "https://www.openspace.org/events/guided-activities/counting-banana-slugs-0",
+  "final_url": "https://www.openspace.org/events/guided-activities/counting-banana-slugs-0",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Counting Banana Slugs!",
+  "og_image": "",
+  "image_candidates": [
+   "https://www.openspace.org/sites/default/files/styles/16x9_1600w/public/Lanette%20Otvos_RR_Docent%20hikes.jpg?h=638819c0&itok=M0DQXuhz"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "ese amazing creatures and where they live. Bring a light snack to enjoy along the trail. Reservations are required and will be accepted on or after November 7 at 12:00 p.m. (Noon) and close November 20 at"
+   ],
+   "deadline": [
+    "ese amazing creatures and where they live. Bring a light snack to enjoy along the trail. Reservations are required and will be accepted on or after November 7 at 12:00 p.m. (Noon) and close November 20 at 2:00 p.m. Where to Meet From the North: Accessible from Purisima Creek Road. From the Highway 92 a"
+   ],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [
+   "Saturday, November 21, 2026",
+   "November 7",
+   "November 20"
+  ],
+  "text": "Counting Banana Slugs!\n Home \n  \n Events & Activities \n  \n Docent-Led Activities \n  \n Counting Banana Slugs! \nSaturday, November 21, 2026\n9:30 am - 12:30 pm\n Purisima Creek Redwoods Preserve\nApproximate Total Miles\n 2\nImage\n Hike\nIt's that time again: The banana slug count! Join Docent Naturalists Roberta and Jaime Cavazos and Melissa Hero on this family-friendly, leisurely-paced search for everyone’s favorite local, golden gastropod. As you meander beneath the redwood canopy along the Purisima Creek Trail, you’ll count and learn about these amazing creatures and where they live. Bring a light snack to enjoy along the trail. \nReservations are required and will be accepted on or after November 7 at 12:00 p.m. (Noon) and close November 20 at 2:00 p.m.\n Where to Meet\nFrom the North: Accessible from Purisima Creek Road. From the Highway 92 and Highway 1 intersection in Half Moon Bay, travel on Highway 1 south approximately 4.3 miles. Turn left on Verde Road. After turning on to Verde Road and traveling 1/4-mile, continue straight to remain on what becomes Purisima Creek Road. (Verde Road splits off to the right.) Travel approximately 3.7 miles on Purisima Creek Road. From the South: Accessible from Purisima Creek Road. From the Highway 84 and Highway 1 intersection in San Gregorio, travel on Highway 1 north approximately 6.4 miles. Turn right on the third Verde Road intersection. After turning on to Verde Road and traveling 1/4-mile, continue straight to remain on what becomes Purisima Creek Road. (Verde Road splits off to the right.) Travel approximately 3.7 miles on Purisima Creek Road.\n Link to Google Map \nRegister on Eventbrite\nTo ensure your experience on a docent naturalist outing is enjoyable \nplease review these activity guidelines\n.\nFor more information about trail characteristics for this event, check out the Midpen \nTrail Explorer app\n. To learn more about ADA accommodations for events, or make an inquiry with the ADA coordinator, visit our \nAccessibility page\n.\nIf your activity requires registration, please be sure to cancel your reservation (from your confirmation email) if you are no longer able to attend so others can participate.\nAfter your participation on a guided activity \nplease share your feedback\n — your input is meaningful to our volunteers and program staff – thank you!",
+  "error": "",
+  "photos": []
+ },
+ "midpen-fall-winter-berries": {
+  "url": "https://www.openspace.org/events/guided-activities/fall-winter-berries",
+  "final_url": "https://www.openspace.org/events/guided-activities/fall-winter-berries",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Fall & Winter Berries",
+  "og_image": "",
+  "image_candidates": [
+   "https://www.openspace.org/sites/default/files/styles/16x9_1600w/public/Lanette%20Otvos_RR_Docent%20hikes.jpg?h=638819c0&itok=M0DQXuhz"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [
+   "Saturday, November 21, 2026"
+  ],
+  "text": "Fall & Winter Berries\n Home \n  \n Events & Activities \n  \n Docent-Led Activities \n  \n Fall & Winter Berries \nSaturday, November 21, 2026\n12:00 pm - 2:00 pm\n Windy Hill Preserve\nApproximate Total Miles\n 2\nImage\n Hike\n‘Tis the season to learn about what natural gifts late fall brings such as the berries and nuts found growing wild in the local habitats. On this leisurely-paced, family-friendly hike with Docent Naturalists Olga and Tony Bright, you’ll explore around Sausal Pond on the Spring Ridge and Betsy Crowder trails looking for these fruits and considering the various ways they’ve been used in human cultures. (Note: Foraging is prohibited on protected lands; this activity is for interest/information/fun only.)\n Where to Meet\nThe Lower Windy Hill Parking Area at the lower portion of the preserve is located on Portola Road. Please note: This parking lot fills quickly. Please do not park on Portola Road: parking is strictly enforced.\n Link to Google Map \nTo ensure your experience on a docent naturalist outing is enjoyable \nplease review these activity guidelines\n.\nFor more information about trail characteristics for this event, check out the Midpen \nTrail Explorer app\n. To learn more about ADA accommodations for events, or make an inquiry with the ADA coordinator, visit our \nAccessibility page\n.\nIf your activity requires registration, please be sure to cancel your reservation (from your confirmation email) if you are no longer able to attend so others can participate.\nAfter your participation on a guided activity \nplease share your feedback\n — your input is meaningful to our volunteers and program staff – thank you!",
   "error": "",
   "photos": []
  }
