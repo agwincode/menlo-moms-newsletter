@@ -13,13 +13,19 @@
   {
    "label": "Saturday",
    "date": "2026-11-21",
-   "source": "unavailable"
+   "source": "open-meteo (early)",
+   "high": 64,
+   "low": 50,
+   "condition": "cloudy"
   },
   {
    "label": "Sunday",
    "date": "2026-11-22",
-   "source": "unavailable"
+   "source": "open-meteo (early)",
+   "high": 61,
+   "low": 53,
+   "condition": "light drizzle"
   }
  ],
- "line": "Forecast: Friday sunny (61\u00b0F). **[Saturday and Sunday forecast not out yet.]**"
+ "line": "Forecast: Friday sunny (61\u00b0F), Saturday cloudy (64\u00b0F), Sunday light drizzle (61\u00b0F)."
 }
