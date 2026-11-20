@@ -1,0 +1,21 @@
+{
+ "events": [
+  {"key": "dickens-fair", "url": "https://dickensfair.com/tickets/", "photos": true},
+  {"key": "filoli-holidays", "url": "https://filoli.org/holidays/", "photos": true},
+  {"key": "illuminodyssey", "url": "https://curiodyssey.org/illuminodyssey10/", "photos": true},
+  {"key": "sfco-nutcracker-sweet", "url": "https://www.thesfco.org/familyconcerts", "photos": true},
+  {"key": "santas-tree-farm", "url": "https://www.santastreefarm.com/", "photos": true},
+  {"key": "christmas-in-the-park", "url": "https://christmasinthepark.com/", "photos": true},
+  {"key": "ebparks-green-friday", "url": "https://www.ebparks.org/we-celebrate/green-friday"},
+  {"key": "mp-cocoa-campus", "url": "https://www.menlopark.gov/Citywide-calendar/Community-events/20261130-Cocoa-at-the-Campus"},
+  {"key": "hiller-winter-camp", "url": "https://www.hiller.org/aviation-camp/"},
+  {"key": "hiller-camp-prices", "url": "https://www.hiller.org/aviation-camp/camp-prices"},
+  {"key": "curiodyssey-winter-camp", "url": "https://curiodyssey.org/learn-explore/school-breaks/winter-break-camps/"},
+  {"key": "caltrain-holiday-train", "url": "https://www.caltrain.com/holidaytrain"},
+  {"key": "roaring-camp-lights", "url": "https://roaringcamp.com/holiday-lights"},
+  {"key": "badm-noon-years-eve", "url": "https://bayareadiscoverymuseum.org/events/noon-years-eve/"},
+  {"key": "mp-light-up-the-season", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Community-events/Shop-local-Light-Up-the-Season"},
+  {"key": "pa-tree-lighting", "url": "https://www.paloalto.gov/Events-Directory/Community-Services/Tree-Lighting"},
+  {"key": "san-carlos-holiday-lights", "url": "https://www.cityofsancarlos.org/residents/community-events/night-of-holiday-lights"}
+ ]
+}
