@@ -1,0 +1,22 @@
+{
+ "friday": "2026-11-27",
+ "fetched": "2026-11-20",
+ "days": [
+  {
+   "label": "Friday",
+   "date": "2026-11-27",
+   "source": "unavailable"
+  },
+  {
+   "label": "Saturday",
+   "date": "2026-11-28",
+   "source": "unavailable"
+  },
+  {
+   "label": "Sunday",
+   "date": "2026-11-29",
+   "source": "unavailable"
+  }
+ ],
+ "line": "**[Weather unavailable. It refreshes every morning; check before sending.]**"
+}
