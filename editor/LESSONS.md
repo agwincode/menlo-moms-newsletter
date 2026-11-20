@@ -66,3 +66,19 @@ standing rule, move it into RULES.md or STYLE.md.
 - She kept the forecast as its own "Forecast: …" line this time (refreshed numbers), so keep the weather marker line
   as is; the Oct 30 fold-into-hook was a one-off.
 - A 2-card lineup plus Sunday Standbys, Don't Miss and Next Weekend ran verbatim: a thin weekend stays thin.
+
+## 2026-11-20 issue (sent Sat Nov 14) vs. drafts/2026-11-20.md
+- It went out on Saturday, Nov 14, six days early, matching the draft as of the Saturday-morning sweep (commit 9f26650).
+  Everything added after that (the Wednesday sweep's Nutcracker Tea Party, SSF 5K, Spartan Turkey Trot, Nutcracker
+  "Sweet", and the Sunday sold-out note on Little Red Riding Hood) never reached readers. Before any follow-up sweep or
+  refresh, search Gmail for the issue; if it has already been sent, stop editing that draft and carry anything new
+  into the next weekend's draft instead.
+- She ran every lineup card, every This Weekend line and both Don't Miss items unchanged, including the Tellabration
+  judgment call ("aimed at adults, but school-age kids welcome"). An honest age caveat in the line was enough to keep it.
+- She added a one-line personal opener above the hook ("Happy Saturday! Getting this out a little late this week…").
+  The hook itself ran verbatim, so keep writing the hook as the first paragraph; she adds timing notes herself.
+- The forecast went out with the bracketed placeholder intact: "Forecast: Friday sunny (61°F). **[Saturday and Sunday
+  forecast not out yet.]**". When `weather.json` only covers part of the weekend, put that at the top of "Check
+  before sending" so it gets refreshed or reworded before it sends.
+- No Nov 13-15 issue exists in Gmail, so that weekend's lineup (Filoli Holidays, IlluminOdyssey, San Mateo on Ice)
+  may never have reached readers. Don't treat items from an unsent issue as already covered.
