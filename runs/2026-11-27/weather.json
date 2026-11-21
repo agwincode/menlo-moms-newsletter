@@ -1,22 +1,31 @@
 {
  "friday": "2026-11-27",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-21",
  "days": [
   {
    "label": "Friday",
    "date": "2026-11-27",
-   "source": "unavailable"
+   "source": "nws",
+   "high": 66,
+   "condition": "Patchy Fog then Slight Chance Light Rain",
+   "low": 52
   },
   {
    "label": "Saturday",
    "date": "2026-11-28",
-   "source": "unavailable"
+   "source": "open-meteo (early)",
+   "high": 70,
+   "low": 51,
+   "condition": "light drizzle"
   },
   {
    "label": "Sunday",
    "date": "2026-11-29",
-   "source": "unavailable"
+   "source": "open-meteo (early)",
+   "high": 62,
+   "low": 51,
+   "condition": "light drizzle"
   }
  ],
- "line": "**[Weather unavailable. It refreshes every morning; check before sending.]**"
+ "line": "Forecast: Friday patchy fog, slight chance of light rain (66\u00b0F), Saturday light drizzle (70\u00b0F), Sunday light drizzle (62\u00b0F)."
 }
