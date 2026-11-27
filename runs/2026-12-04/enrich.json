@@ -1,0 +1,1180 @@
+{
+ "mp-light-up-the-season": {
+  "url": "https://www.menlopark.gov/Citywide-calendar/Community-events/20261204-Light-Up-the-Season",
+  "final_url": "https://www.menlopark.gov/Citywide-calendar/Community-events/20261204-Light-Up-the-Season",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Shop local! Light Up the Season",
+  "og_image": "https://www.menlopark.gov/files/sharedassets/public/v/1/calendar/images/14-dsc_0748.jpg?w=1200",
+  "image_candidates": [
+   "https://www.menlopark.gov/files/sharedassets/public/v/1/calendar/images/14-dsc_0748.jpg?dimension=pageimagefullwidth&w=1140",
+   "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2630!3i6351!4i256!2m3!1e0!2sm!3i805571634!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=8922",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6352!4i256!2m3!1e0!2sm!3i805571598!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=122089",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2631!3i6352!4i256!2m3!1e0!2sm!3i805571598!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=64647"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Friday, December 04, 2026",
+   "Friday, Dec. 4"
+  ],
+  "text": "Home\n/\nCitywide calendar\n/\nShop local! Light Up the Season\nShop local! Light Up the Season\nNext date: Friday, December 04, 2026 | 05:30 PM \n to 07:00 PM\nRing in the holiday shopping season and kick off Menlo Park's Centennial Celebration with a festive \"winter wonderland\" themed event in downtown Menlo Park!\nEnjoy free family-friendly entertainment, youth performances, centennial and winter-themed photo opportunities, hot cocoa (quantities limited) and the tree lighting.  We will be lighting our beautiful Menlo Park oak tree as we give our beloved pine tree a well deserved break.   \nShop and dine at local Menlo Park small businesses while you are downtown. All ages are welcome.\nThis event is rain or shine on Friday, Dec. 4, from 5:30-7 p.m. at Fremont Park, Santa Cruz Ave. at University Dr.\nWhen\n Friday, December 04, 2026 | 05:30 PM \n - 07:00 PM\nLocation\nFremont Park, University Drive at Santa Cruz Avenue, Menlo Park, CA, 94025, \nView map\nSkip to below map\n 37.449335299233944, -122.18634422554\n University Drive at Santa Cruz Avenue ,\n Menlo Park, CA 94025\nFremont Park\n University Drive at Santa Cruz Avenue ,\n Menlo Park, CA 94025\n Shop local! Light Up the Season\nGoogle Map instructions\nPress arrow keys to pan\nPress plus or minus keys to zoom\nShortcut keys\nPress M for roadmap view\nPress S for satellite view\nPress H for hybrid view\nPress T for terrain view\n←\nMove left\n→\nMove right\n↑\nMove up\n↓\nMove down\n+\nZoom in\n-\nZoom out\nHome\nJump left by 75%\nEnd\nJump right by 75%\nPage Up\nJump up by 75%\nPage Down\nJump down by 75%\nKeyboard shortcuts\nMap Data\nMap data ©2026 Google\nMap data ©2026 Google\n500 m \nClick to toggle between metric and imperial units\nTerms\nReport a map error\nSkip to above map\nAdd to calendar\nFields marked as 'Required' must be completed\nEmail\n*\n(Required)\nEnter your email address or your friend's email addresses all separated by commas.\nEnter emails\nMore details\n Cost\nFree\n Contact us\nJen Mosso\nRecreation Coordinator\nEmail\n650-330-2531\nTagged as:\nCommunity events\nEvents for families\nEvents for teens\nEvents for children\nEvents for adults\nShare\nFacebook\nX\nEmail\nPrint\nLinkedIn\nBack to top",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/mp-light-up-the-season/1.jpg",
+    "kind": "image on page",
+    "source": "https://www.menlopark.gov/files/sharedassets/public/v/1/calendar/images/14-dsc_0748.jpg?dimension=pageimagefullwidth&w=1140",
+    "w": 713,
+    "h": 475
+   },
+   {
+    "file": "images/mp-light-up-the-season/2.jpg",
+    "kind": "top of page",
+    "source": "https://www.menlopark.gov/Citywide-calendar/Community-events/20261204-Light-Up-the-Season",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "hmb-night-of-lights": {
+  "url": "https://www.visithalfmoonbay.org/local/night-lights",
+  "final_url": "https://www.visithalfmoonbay.org/events/night-lights",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Night of Lights - Visit Half Moon Bay",
+  "og_image": "https://www.visithalfmoonbay.org/wp-content/uploads/NoL-2026-v2-768x432-1.png",
+  "image_candidates": [
+   "https://www.visithalfmoonbay.org/wp-content/uploads/VHMB.svg",
+   "https://www.visithalfmoonbay.org/wp-content/uploads/Half-Moon-Bay-white.svg",
+   "https://www.visithalfmoonbay.org/wp-content/uploads/elementor/thumbs/077A3823-qcfe53wqyk8huqj3hmuh70t7npjxxv9zmgtdiyx422.jpg",
+   "https://www.visithalfmoonbay.org/wp-content/uploads/elementor/thumbs/DSC_0275-1024x684-1024x684-1-qhpbjb7tbrtxktfqjonuwvvqla904yn2x21spjhoei.jpg",
+   "https://www.visithalfmoonbay.org/wp-content/uploads/elementor/thumbs/coffeegrinder-qqrqf34trufv3c6i3hwmgagl3ch2nhgsdxzcxq26ru.jpeg"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "May 17, 2026",
+   "May 23, 2026",
+   "May 24, 2026",
+   "June 21, 2026",
+   "December 4, 2026",
+   "July 4, 2027",
+   "May 8, 2027",
+   "November 21, 2026",
+   "November 15, 2026",
+   "November 19, 2026",
+   "December 4 – 20"
+  ],
+  "text": "Skip to content\nis just\nmiles\n from Downtown Half Moon Bay!\nGet Directions \n›\n(opens in a new window)\nSearch\nMeeting & Event Venues\nMedia Center\nMeeting & Event Venues\nMedia Center\n60°\nDrizzle\nMon\n56°\n49°\nTue\n59°\n47°\nWed\n57°\n53°\nThu\n56°\n51°\nFri\n58°\n48°\nBook a Room\nLodging\nWhere to Stay\nWith so many beautiful hotels and boutique inns to choose from, you’re sure to love your stay in Half Moon Bay!\nAll Lodging\nAristocrat Hotel\nBytheSea Inn\nBeach House Hotel\nCypress Inn On Miramar Beach \nHalf Moon Bay Inn\nHalf Moon Bay Lodge \nHarbor View Inn\nInn at Mavericks\nMill Rose Inn \nNantucket Whale Inn\nOceano Hotel & Spa\nQuality Inn\nSan Benito House\nSeal Cove Inn \nThe Miramar Inn and Suites \nThe Ritz-Carlton, Half Moon Bay \nMake Weekdays Your New Weekend\nFood & Drink\nFood & Drink\nDining on the Half Moon Bay Coastside offers you fabulous views and a variety of fine and casual dining experiences featuring fresh seafood and produce.\nAll Dining\nAmerican\nBakeries\nBreweries\nCocktails\nCoffee/Tea\nDelicatessens\nIndian/South Asian\nItalian\nJapanese\nMediterranean\nMexican\nPeruvian\nPizza\nSeafood\nSpanish\nSweets and Desserts\nThai\nWine\nGarden Deli Cafe\nEl Granada Hardware & Cafe\nSam’s Cafe\nSpanishtown Mexican Restaurant\nSushi on Main Street\nFirewok\nCunha’s Country Store\nHalf Moon Bay Wine & Cheese Company\nBarterra Winery\nMonsoon Himalayan Cuisine\nBreakwater Barbecue\nGulino Gelato\nThings to Do\nThings to Do\nWith immense scenery and small-town charm, the Half Moon Bay Coastside offers visitors a broad range of experiences.\nWhat’s New \nArt Galleries\nBeaches\nBird Watching\nDowntown\nFamily Friendly\nGolf\nFarmstands & U-picks\nHiking & Biking Trails\nHorseback Riding\nParks\nPillar Point Harbor\nPumpkin Patches\nShopping\nSpas & Wellness\nSportfishing & Whalewatching\nTours & Sightseeing\nTide Pools\nEvents\nEvents in Half Moon Bay\nWorld class events, live music, and more.\nHalf Moon Bay Art & Pumpkin Festival\nHalf Moon Bay Wine & Jazz Festival\nPacific Coast Dream Machines\nOl’ Fashioned 4th of July Parade\nNights of Lights\nLive Music\nLive Music\nKurt Rosenwinkel Trio\nMay 17, 2026, 4:30 pm\nBach Dancing & Dynamite Society\nLive Music\nThe Keller Sisters\nMay 23, 2026, 4:30 pm\nOdd Fellows Hall\nLive Music\nTerrie Odabi\nMay 24, 2026, 4:30 pm\nBach Dancing & Dynamite Society\nLive Music\nJOHN SANTOS SEXTET\nJune 21, 2026, 4:30 pm\nBach Dancing & Dynamite Society\nNight of Lights\nWhen\nDecember 4, 2026 @ 4:00 pm - 8:00 pm\nWhere\nMac Dutra Plaza\n500 Main St\nHalf Moon Bay\n, CA \n94019\nLoading...\nNo Records Found\n Sorry, no records were found. Please adjust your search criteria and try again.\nMaps failed to load\n Sorry, unable to load the Maps API.\nKick off the holidays in Half Moon Bay at the Annual Tree Lighting & Lighted Parade with Santa Claus. The parade steps off around 6:15 PM — arrive early to claim your spot along the route. Afterward, Santa heads to Mac Dutra Plaza, where kids can share their Christmas wishes.\n4 PM — Holiday Market by Make It Main Street @ Kelly Ave.\n5 PM — Tree Lighting by the Coastside Chamber @ Mac Dutra Plaza\n5:15 PM — Holiday Karaoke by Abundant Grace @ Mac Dutra Plaza\n6:15 PM — PARADE by the Coastside Chamber on Main Street\n7:30ish PM — Santa by the Coastside Chamber @ Mac Dutra Plaza\nMore Upcoming Events\nHoliday\nOl’ Fashioned 4th of July Parade\nJuly 4, 2027, 12:00 pm\nDowntown Half Moon Bay\nFestivals\nHalf Moon Bay Wine & Jazz Festival\nMay 8, 2027, 12:00 pm\nDowntown Half Moon Bay\nFood & Drink\nCoastside Farmers’ Market\nNovember 21, 2026, 9:00 am\nShoreline Station\nLive Music\nFoot Notes Jazz Band\nNovember 15, 2026, 4:30 pm\nOdd Fellows Hall\nClasses/Workshops\nOdd Fellows Speaker Series: Food as Art – Holiday Edition\nNovember 19, 2026, 6:00 pm\nOdd Fellows Hall\nArts\nA Christmas Carol, the Musical\nDecember 4 – 20\nCoastal Repertory Theatre\n Add Your Event \nMembers of the community are invited to submit local events for our community calendar.\nAll events will be manually reviewed by our staff before they are added to the site; most events are approved within one business day. Events occurring outside of the Coastside (between Año Nuevo and Devil’s Slide) will not be approved.\nYou’ll need to log in or register a new account to submit events.\nAdd New Event\nGet Your FREE Coastside Guide!\nSign up for our email newsletter to keep up with what’s new in the Half Moon Bay area, and get your free Coastside Guide filled with activities, destinations, local events and much, much more.\n Email \nSend It\nYour form submission will be securely sent to and stored in Google Sheets to help us process your request and respond to your inquiry.\nPowered by \nGSheetConnector\nShare your epic Half Moon Bay Experience\nTag your Instagram posts with the hashtag #VisitHalfMoonBay for a chance to be featured here!\n#VisitHalfMoonBay \nFacebook\nInstagram\nX-twitter\nTiktok\nContact Us\nThe San Mateo County Coastside is made up of over 300 square miles of beautiful California countryside, with easy access to sandy beaches, redwood forests, and open spaces. The Coastside encompasses the cities of Half Moon Bay, Miramar, Montara, Moss Beach, El Granada, San Gregorio, La Honda, and Pescadero. The Visit Half Moon Bay web site is a cooperative effort of the Half Moon Bay Coastside Chamber of Commerce & Visitors’ Bureau, the Half Moon Bay Hotel Business Improvement District, and the Half Moon Bay Downtown Association.\nVisit the \nCalifornia Welcome Center\n at 508 Main Street and we’ll help you make the most of your visit to Half Moon Bay!\nMonday – Saturday: 9am to 6pm • Sunday: 9am to 3pm\nContact Us\nYou are contacting the Half Moon Bay Visitor Center\n. We’re happy to help with general visitor information, but for time-sensitive requests such as reservations, please contact businesses directly.\nThis form does not accept nor reply to solicitations.\n Name \n Email \n Your reason for contacting us: \nGeneral information about visiting Half Moon Bay\nInformation about a specific place or business\nQuestions/comments about the VisitHalfMoonBay.org web site\nOther\n What place or business are you inquiring about? \n Message \nSend\nYour form submission will be securely sent to and stored in Google Sheets to help us process your request and respond to your inquiry.\nPowered by \nGSheetConnector\nChange Location\nFind awesome listings near you!\nChange Location",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/hmb-night-of-lights/1.jpg",
+    "kind": "share image",
+    "source": "https://www.visithalfmoonbay.org/wp-content/uploads/NoL-2026-v2-768x432-1.png",
+    "w": 768,
+    "h": 432
+   },
+   {
+    "file": "images/hmb-night-of-lights/2.jpg",
+    "kind": "image on page",
+    "source": "https://www.visithalfmoonbay.org/wp-content/uploads/elementor/thumbs/NoL-2026-v2-768x432-1-rvo8xw0ay9ey7a2oe9ynht131rdy95tjr6jgderrku.png",
+    "w": 1000,
+    "h": 563
+   },
+   {
+    "file": "images/hmb-night-of-lights/3.jpg",
+    "kind": "top of page",
+    "source": "https://www.visithalfmoonbay.org/events/night-lights",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "springline-holiday": {
+  "url": "https://www.eventbrite.com/e/springlines-free-5th-annual-holiday-celebration-tickets-2004049044640",
+  "final_url": "https://www.eventbrite.com/e/springlines-free-5th-annual-holiday-celebration-tickets-2004049044640",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Springline's FREE 5th Annual Holiday Celebration!",
+  "og_image": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1196862343%252F1156329438793%252F1%252Foriginal.20261029-154520%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.664%26fp-y%3D0.48%26s%3D8f06e04a7724e063f6e988ea52db8a00&w=940&q=75",
+  "image_candidates": [
+   "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F438808439%252F1156329438793%252F1%252Foriginal.20230203-190255%3Fw%3D512%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26rect%3D944%252C0%252C4128%252C4128%26s%3Dac4613c7b7811d1837753313163a8ab0&w=128&q=75",
+   "https://www.eventbrite.com/_next/image?url=%2Feb-web-assets%2F_next%2Fstatic%2Fmedia%2Fmap.2hve6ktt4gqsr.png&w=940&q=75",
+   "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F438808439%252F1156329438793%252F1%252Foriginal.20230203-190255%3Fw%3D512%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26rect%3D944%252C0%252C4128%252C4128%26s%3Dac4613c7b7811d1837753313163a8ab0&w=128&q=75"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Saturday, December 5"
+  ],
+  "text": "Springline's FREE 5th Annual Holiday Celebration!\nTop Organizer\nBy\nSpringline Menlo Park\n1.2k followers\n78 events\n4y hosting\n43.2k total attendees\nFollow\nSpringline Menlo Park\nMenlo Park, CA\nSaturday, December 5  •  4 PM - 8 PM\nOverview\nSpringline’s Winter Wonderland is back! Join us while we celebrate the holidays in the most festive spirit.\nHERE’S WHAT TO EXPECT\n-Delicious food, beer, wine, and hot chocolate\n-Enjoy our \nREAL \nsnow playground and build a snowman!\n-Take a \ncomplimentary\n photo with Santa\n-Big Band live performance by The Freshmakers!\n-Create your own holiday cards\n-Face Painting\n-Vendor Marketplace\n-And more!\nSILENT DISCO\nLive DJ | three channels | family-friendly | tons of fun\n-The silent disco will be held in the temperature controlled tent.\nFOOD & BEVERAGE\n-\nLa Fenice Pizza\n serving personal pizzas\n-\nMi Comedor\n serving authentic Mexican cuisine\n-\nBarebottle Brewery\n serving beer and wine\n-\nAndytown Coffee Roasters\n serving coffee and hot chocolate\n-\nCauswells \nserving seasonal cocktails\n-\nBurma Love\n serving savory Burmese dishes\n-\nCurve Ball\n serving specialty burgers\nMARKETPLACE VENDORS\n-\nThe Nativity School\n selling wreaths, garlands, and other decor items\n-\nMiGi Cera Candles\nselling candles and other fragrance products\n-\nThe Paper Tree\n selling specialty gift wrap and more\n-\nDonna's Sugar Spell\n selling sweet treats, homemade jams, and more\n-\nThe Pawzitive Company\n selling merchandise for pet lovers\nMUSIC\n-Main Stage: The Freshmakers, 6:00PM - 8:00PM\n-Silent Disco Tent: Live mixing by DJ Twin Spin\nRead more\nGood to know\nHighlights\n4 hours\nIn person\nHighlights\n4 hours\nIn person\nLocation\nSpringline Menlo Park\n1300 El Camino Real\nMenlo Park, CA 94025\nHow do you want to get there?\nDriving\nPublic transport\nBiking\nWalking\nShow map\nFrequently asked questions\nIs the event free?\nWhere do I park?\nWhat happens if it rains?\nWhat are the age requirements for the snow playground?\nWill there be food and drink?\nOrganized by\nTop Organizer\nSpringline Menlo Park\nFollowers\n1165\nEvents\n78\nHosting\n4 years\nContact\nFollow\nReport this event",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/springline-holiday/1.jpg",
+    "kind": "share image",
+    "source": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1196862343%252F1156329438793%252F1%252Foriginal.20261029-154520%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.664%26fp-y%3D0.48%26s%3D8f06e04a7724e063f6e988ea52db8a00&w=940&q=75",
+    "w": 940,
+    "h": 470
+   },
+   {
+    "file": "images/springline-holiday/2.jpg",
+    "kind": "image on page",
+    "source": "https://www.eventbrite.com/e/springlines-free-5th-annual-holiday-celebration-tickets-2004049044640",
+    "w": 1200,
+    "h": 470
+   },
+   {
+    "file": "images/springline-holiday/3.jpg",
+    "kind": "image on page",
+    "source": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1196862343%252F1156329438793%252F1%252Foriginal.20261029-154520%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D1880%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.664%26fp",
+    "w": 940,
+    "h": 470
+   },
+   {
+    "file": "images/springline-holiday/4.jpg",
+    "kind": "top of page",
+    "source": "https://www.eventbrite.com/e/springlines-free-5th-annual-holiday-celebration-tickets-2004049044640",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "chabad-midpen-chanukah": {
+  "url": "https://www.chabadmidpen.com/templates/articlecco_cdo/aid/3798612/jewish/Chanukah-Festival.htm",
+  "final_url": "https://www.chabadmidpen.com/templates/articlecco_cdo/aid/3798612/jewish/Chanukah-Festival.htm",
+  "status": "blocked",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:blocked:403"
+  ],
+  "http": 403,
+  "title": "Just a moment...",
+  "og_image": "",
+  "image_candidates": [],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [],
+  "text": "www.chabadmidpen.com\nPerforming security verification\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\nVerification successful. Waiting for www.chabadmidpen.com to respond",
+  "error": "",
+  "photos": []
+ },
+ "gamble-garden-winter": {
+  "url": "http://gamblegarden.org/winter",
+  "final_url": "https://www.gamblegarden.org/winter/winter-festival-2026/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Winter Festival - Gamble Garden, Palo Alto",
+  "og_image": "",
+  "image_candidates": [
+   "https://www.gamblegarden.org/wp-content/uploads/2023/06/Winter-Festival-2022-Carriage-House-Lights.jpg",
+   "https://www.gamblegarden.org/wp-content/uploads/2026/09/Z72_1840.jpg"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "e tables for a very special holiday tea Sip tea and savor delicious sandwiches and scones Reservations required Thank you to our Business Sponsors! DIAMOND Fergus Garber Architects PLATINUM B&B Caterin"
+   ],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "December 3-5, 2026",
+   "Thursday, December 3",
+   "Friday, December 4",
+   "Saturday, December 5"
+  ],
+  "text": "Home\nVisit\nAbout\nMembership\nClasses & Events\nWeddings & Rentals\nEducation\nDonate\nToggle Language\nSearch\nGamble Garden\nToggle Navigation\n Winter Festival \nWinter Festival\nWinter Festival\nMarketplace\nOver The Garden Fence\nSilent Auction\nVolunteer\nSponsor\nPlant Sale\nDecember 3-5, 2026\nWhere Winter Blooms\nUnwrap the magic of the season at Gamble Garden's Winter Festival! We've decked the halls and strung up the lights, so come visit, shop, and enjoy the festivities!\nWinter Festival Event Series\nAll events include:\n❄️\nMarketplace\n with 30+ vendors \n❄️\nOver the Garden Fence\n vintage sale \n❄️\nPlant Sale\n❄️\nSilent Auction\n❄️\nHoliday Raffle\nOpening Night Party\nThursday, December 3rd (5:00 pm – 7:00 pm)\nSip, Stroll & Savor the Season!\n Enjoy holiday music, hors d’oeuvres, and twinkling lights as you explore Gamble Garden’s first-ever Wine & Mocktail Tasting, curated by \nThe Rendezvous\nShop, Discover & Delight!\n Have first access to shop Over the Garden Fence: *Winter Edition*\nHoliday Marketplace\nFriday, December 4th (10:00 am – 4:00 pm)\nSaturday, December 5th (10:00 am – 4:00 pm)\nEnjoy one-stop shopping for holiday gifts and decor in the festive Gamble Garden atmosphere\nComplimentary coffee\nFree admission for children ages 12 and under\nOnce Upon a Garden: Through the Looking Glass\nFriday, December 4th (5:00 pm – 7:00 pm)\nA magical holiday evening for families\nThrough the Looking Glass\n woodland garden\nPhotos with Santa and his sleigh\nStorytime and refreshments under the Big Top\nChildren’s crafts and holiday shopping\nComplimentary glass of champagne for adults\nHoliday Tea\nFriday, December 4th (11:00 am & 1:00 pm)\nSaturday, December 5th (11:00 am & 1:00 pm)\nGather at community-style tables for a very special holiday tea\nSip tea and savor delicious sandwiches and scones\nReservations required\nThank you to our Business Sponsors!\nDIAMOND\nFergus Garber Architects\nPLATINUM\nB&B Catering and Events\nAnnie Watson, Coldwell Banker Realty\nGOLD\nRenewal by Andersen\nAvenidas\nSt. Bede’s \nEpiscopal Church\nChanning House\nLyngso Garden Materials\nChristina Hood, Real Estate Advisor, KW Luxury\nColleen Foraker & Carolyn Keddington, Compass\nSILVER\nWest Coast Tree Care\nPalo Alto Community Fund\nHarrell Design + Build\n#gamblegarden\nGamble Garden\n1431 Waverley Street\nPalo Alto CA 94301\nTel: \n650-329-1356\n[email protected]\nTax ID: #77-0094213\n – Gamble Garden is a 501(c)(3) organization.\nGamble Garden is committed to Inclusivity, Diversity, Equity and Accessibility.\nSign Up for Our E-Bloom-Alert\nSign up for Gamble’s Monthly newsletter about what is happening in the garden.\nSign Up Now\n©\n Gamble Garden\nPrivacy Policy & Terms of Use\nLogin\n Site by \nPersonify",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/gamble-garden-winter/1.jpg",
+    "kind": "image on page",
+    "source": "https://www.gamblegarden.org/wp-content/uploads/2023/06/Winter-Festival-2022-Carriage-House-Lights.jpg",
+    "w": 1200,
+    "h": 584
+   },
+   {
+    "file": "images/gamble-garden-winter/2.jpg",
+    "kind": "image on page",
+    "source": "https://www.gamblegarden.org/wp-content/uploads/2026/09/Z72_1840.jpg",
+    "w": 551,
+    "h": 368
+   },
+   {
+    "file": "images/gamble-garden-winter/3.jpg",
+    "kind": "top of page",
+    "source": "https://www.gamblegarden.org/winter/winter-festival-2026/",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "pa-tree-lighting": {
+  "url": "https://www.paloalto.gov/Events-Directory/Community-Services/Holiday-Tree-Lighting",
+  "final_url": "https://www.paloalto.gov/Events-Directory/Community-Services/Holiday-Tree-Lighting",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Holiday Tree Lighting at Lytton Plaza",
+  "og_image": "https://www.paloalto.gov/files/assets/public/v/1/community-services/special-events/tree-lighting-event-2026jpg.jpg?w=1200",
+  "image_candidates": [
+   "https://www.paloalto.gov/files/assets/public/v/1/community-services/special-events/tree-lighting-event-2026jpg.jpg?dimension=pageimagefullwidth&w=1140",
+   "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6352!4i256!2m3!1e0!2sm!3i805571598!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=10327",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2631!3i6351!4i256!2m3!1e0!2sm!3i805571634!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=85673",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2630!3i6351!4i256!2m3!1e0!2sm!3i805571634!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCqyZBf2I1MOw6qEU1q85mbo02WDcNOisg&token=28231"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Friday, December 04, 2026"
+  ],
+  "text": "Home\n/\nHoliday Tree Lighting at Lytton Plaza\nHoliday Tree Lighting at Lytton Plaza\nNext date: Friday, December 04, 2026 | 05:30 PM \n to 07:00 PM\nJoin Us for for the Tree Lighting at Lytton Plaza!\nGet ready to light up the night and kick off the holiday season with our spectacular Tree Lighting event! Bring the whole family for a festive evening filled with live music and delicious winter treats.\nPerformers:\nSchool of Rock\nBoost Class Merry Holiday Dancers\nPalo Alto Chamber Orchestra\nMore TBA\nCapture the memories with friends and family, and don't forget to use our event hashtag #PaloAltoTreeLighting!\nWhen\n Friday, December 04, 2026 | 05:30 PM \n - 07:00 PM\nLocation\nAt the corner of University Ave & Emerson St\nLytton Plaza, 200 University Ave, Palo Alto, CA, 94301, \nView Map\nSkip to below map\n 37.4446388,-122.1625268\n 200 University Ave ,\n Palo Alto, CA 94301\nLytton Plaza\n 200 University Ave ,\n Palo Alto, CA 94301\n Holiday Tree Lighting at Lytton Plaza\nGoogle Map Instructions\nPress arrow keys to pan\nPress plus or minus keys to zoom\nShortcut keys\nPress M for roadmap view\nPress S for satellite view\nPress H for hybrid view\nPress T for terrain view\n←\nMove left\n→\nMove right\n↑\nMove up\n↓\nMove down\n+\nZoom in\n-\nZoom out\nHome\nJump left by 75%\nEnd\nJump right by 75%\nPage Up\nJump up by 75%\nPage Down\nJump down by 75%\nKeyboard shortcuts\nMap Data\nMap data ©2026 Google\nMap data ©2026 Google\n500 m \nClick to toggle between metric and imperial units\nTerms\nReport a map error\nSkip to above map\nAdd to Calendar\nFields marked as 'Required' must be completed\nEmail Address\n*\n(Required)\nEnter your email address or your friend's email addresses all separated by commas.\nEnter emails\nEvent Snapshot\n Cost\nFree\nContact\nCommunity Services - Recreation\n650-329-2478\nspecial.events@paloalto.gov\nSocial Media\nPalo Alto Rec\nTagged as:\nActivities & Classes \nCity Sponsored Events\nCommunity Events\nBack to top",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/pa-tree-lighting/1.jpg",
+    "kind": "image on page",
+    "source": "https://www.paloalto.gov/files/assets/public/v/1/community-services/special-events/tree-lighting-event-2026jpg.jpg?dimension=pageimagefullwidth&w=1140",
+    "w": 713,
+    "h": 929
+   },
+   {
+    "file": "images/pa-tree-lighting/2.jpg",
+    "kind": "top of page",
+    "source": "https://www.paloalto.gov/Events-Directory/Community-Services/Holiday-Tree-Lighting",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "latkepalooza": {
+  "url": "https://www.eventbrite.com/e/latkepalooza-hanukkah-in-the-village-tickets-2002763001049",
+  "final_url": "https://www.eventbrite.com/e/latkepalooza-hanukkah-in-the-village-tickets-2002763001049",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Latkepalooza: Hanukkah in the Village",
+  "og_image": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1197390093%252F306354416901%252F1%252Foriginal.20261105-231315%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D9bebb59d06128630c19f9df2049e6848&w=940&q=75",
+  "image_candidates": [
+   "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F85623255%252F306354416901%252F2%252Foriginal.jpg%3Fw%3D512%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D428f509a7dd71cc96ad5ee80db8d6705&w=128&q=75",
+   "https://www.eventbrite.com/_next/image?url=%2Feb-web-assets%2F_next%2Fstatic%2Fmedia%2Fmap.2hve6ktt4gqsr.png&w=940&q=75",
+   "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F85623255%252F306354416901%252F2%252Foriginal.jpg%3Fw%3D512%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26s%3D428f509a7dd71cc96ad5ee80db8d6705&w=128&q=75"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Sunday, December 6"
+  ],
+  "text": "Latkepalooza: Hanukkah in the Village\nBy\nPeninsula Jewish Community Center\n179 followers\n93 events\n6y hosting\n9.4k total attendees\nFollow\nPJCC - Peninsula Jewish Community Center\nFoster City, CA\nSunday, December 6  •  3 PM - 5 PM\nOverview\nStep into our village! Make art, play old-fashioned games, enjoy a magic show, dance to live klezmer music, and light Hanukah candles!\nThis year, Latkepalooza becomes \nHanukkah in the Village\n, inspired by the color, creativity, and communal life of Eastern European Jewish villages.\nSpend the afternoon wandering among village activities, sharing freshly fried latkes, Rafael’s piping hot soup, and sweet sufganiyot (Hanukkah donuts). There’s room to explore at your own pace and gather for performances, stories, and dancing.\nAt the heart of it all, a spectacular painted canopy evokes the wooden synagogues of Eastern Europe. At \n4:40 pm\n, we’ll gather beneath it for community candlelighting.\nBring your family and friends. People of all faiths and backgrounds are welcome!\nRead more\nGood to know\nHighlights\n2 hours\nall ages\nIn person\nFree parking\nRefund Policy\nRefunds up to 3 days before event\nHighlights\n2 hours\nall ages\nIn person\nFree parking\nRefund Policy\nRefunds up to 3 days before event\nLocation\nPJCC - Peninsula Jewish Community Center\n800 Foster City Boulevard\nFoster City, CA 94404\nHow do you want to get there?\nDriving\nPublic transport\nBiking\nWalking\nShow map\nFrequently asked questions\nWhat time are the big gathering moments?\nWhat other surprises do you have in store?\nOrganized by\nPeninsula Jewish Community Center\nFollowers\n179\nEvents\n93\nHosting\n6 years\nContact\nFollow\nReport this event",
+  "error": "",
+  "photos": [
+   {
+    "file": "images/latkepalooza/1.jpg",
+    "kind": "share image",
+    "source": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1197390093%252F306354416901%252F1%252Foriginal.20261105-231315%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D940%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%3D0.5%26s%3D9bebb59d06128630c19f9df2049e6848&w=940&q=75",
+    "w": 940,
+    "h": 470
+   },
+   {
+    "file": "images/latkepalooza/2.jpg",
+    "kind": "image on page",
+    "source": "https://www.eventbrite.com/e/latkepalooza-hanukkah-in-the-village-tickets-2002763001049",
+    "w": 1200,
+    "h": 470
+   },
+   {
+    "file": "images/latkepalooza/3.jpg",
+    "kind": "image on page",
+    "source": "https://www.eventbrite.com/_next/image?url=https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F1197390093%252F306354416901%252F1%252Foriginal.20261105-231315%3Fcrop%3Dfocalpoint%26fit%3Dcrop%26w%3D1880%26auto%3Dformat%252Ccompress%26q%3D75%26sharp%3D10%26fp-x%3D0.5%26fp-y%",
+    "w": 940,
+    "h": 470
+   },
+   {
+    "file": "images/latkepalooza/4.jpg",
+    "kind": "top of page",
+    "source": "https://www.eventbrite.com/e/latkepalooza-hanukkah-in-the-village-tickets-2002763001049",
+    "w": 1200,
+    "h": 750
+   }
+  ]
+ },
+ "san-carlos-holiday-lights": {
+  "url": "https://www.cityofsancarlos.org/residents/community-events/night-of-holiday-lights",
+  "final_url": "https://www.cityofsancarlos.org/business_detail_T10_R36.php",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Night of Holiday Lights",
+  "og_image": "https://cms3.revize.com/revize/sancarlos/_assets_/images/logo.png",
+  "image_candidates": [
+   "https://www.cityofsancarlos.org/revize_photo_gallery/City Hall/Department and Division/Parks And Recreation/Capital Improvement/638036912399030000.png?t=202305220811520",
+   "https://www.cityofsancarlos.org/Photos/Night of Holiday Lights 2022/_DSC0205.JPG?t=202404111405320",
+   "https://www.cityofsancarlos.org/Photos/Night of Holiday Lights 2022/DBW_8986 (1)_Holiday Lights.jpg?t=202404111410130",
+   "https://www.cityofsancarlos.org/Photos/Night of Holiday Lights 2022/Night of Holiday Lights 67.jpg?t=202511041515060",
+   "https://www.cityofsancarlos.org/revize_photo_gallery/City Hall/Department and Division/Parks And Recreation/Capital Improvement/Screenshot 2023-05-29 121315.png?t=202305290306000"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Friday, December 4, 2026",
+   "Friday, December 4",
+   "November 13",
+   "October 30 - November 20"
+  ],
+  "text": "Night of Holiday Lights\nHome\nDepartments\nParks and Recreation \nEvents\nNight of Holiday Lights\n events@cityofsancarlos.org \n16th Annual Night of Holiday Lights!\nJoin us downtown from 5:00 to 8:30 p.m. on Friday, December 4, 2026.\nFestivities will take place on Laurel Street, from San Carlos Avenue to Cherry Street, with the main stage located on Cherry Street. \nThis free community event features:\nFamily Fun and Kids’ Activities\nArts and Crafts\nBeer and Wine sales\nHot Chocolate and Holiday Goodies\nHoliday Show, Festive Lights, and Snow\nMusical performances!\nDon't miss a spectacular lineup of performers at \nNight of Holiday Lights\n this Friday, December 4, starting at 5:00 p.m.!\nEmcees \nLori & RJ\n kick off the celebration at 5:00 p.m., and \nWild Child\n will take the stage from 6:30 p.m. to 8:30 p.m.\nFollowed by...\nThe Tide Note Singers\n led by Emily Bender\nSan Carlos Children's Theater\nBroadway Babies & Kids\nCase Circulo Cultural\nPeninsula Ballet Arts\nTap Dancing Christmas Trees\nWith special appearances from \nSanta Claus and the Snow Queen!\nYouth Vendors\nCalling all youth entrepreneurs (grades 4-12 & at least 9 years old)! Interested in applying to be a youth vendor at Night of Holiday Lights? Apply to become a youth vendor today! Applications are available now and must be submitted prior to \nNovember 13 at 11:59 p.m. \nPlease review the application closely with your child prior to submitting. \nIn preparation for this event, the San Carlos Youth Center is hosting a FREE Entreprenuership Workshop Series on Fridays from 4:00 p.m. - 5:00 p.m. from October 30 - November 20. If your child would like to attend and is in 4th grade and at least 9 years old, please sign up for San Carlos' After School Drop-In Program at \ncityofsancarlos.org/scyc\n. Please note that participation in the Entrepreneurship Workshop Series does not guarantee participation in the Night of Holiday Lights event.\nYouth Vendor Application\nLaurel Street Businesses:\nNight of Holiday Lights Information Letter\nPresented by the San Carlos Parks & Recreation Department in partnership with the Parks and Recreation Foundation of San Carlos\nTHANK YOU TO OUR 2026 EVENT SPONSORS!\nCONTACT US\nShannon Petersen\n, Recreation Coordinator \nspetersen@cityofsancarlos.org\nShare\nthis page\nShare this page\n×\nCopy and paste this code into your website.\n<a href=\"http://www.cityofsancarlos.org/business_detail_T10_R36.php\">Your Link Name</a>\nShare this page on your favorite Social network\n Facebook\n Twitter\n Reddit\nClose",
+  "error": "",
+  "photos": []
+ },
+ "burlingame-hanukkah-ice": {
+  "url": "http://chabadnp.com/chanukah",
+  "final_url": "http://chabadnp.com/chanukah",
+  "status": "blocked",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:blocked:403"
+  ],
+  "http": 403,
+  "title": "Just a moment...",
+  "og_image": "",
+  "image_candidates": [],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [],
+  "text": "chabadnp.com\nPerforming security verification\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\nVerification successful. Waiting for chabadnp.com to respond",
+  "error": "",
+  "photos": []
+ },
+ "jbn-hanukkah-party": {
+  "url": "https://jewishbabynetwork.org/peninsula/events/festival-of-lights-hanukkah-party-5/",
+  "final_url": "https://jewishbabynetwork.org/peninsula/events/festival-of-lights-hanukkah-party-5/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Festival of Lights Hanukkah Party - Jewish Baby Network",
+  "og_image": "http://jewishbabynetwork.org/wp-jbn/wp-content/uploads/2026/11/Pen-Hanukkah-e1793945700337.webp",
+  "image_candidates": [
+   "https://jewishbabynetwork.org/wp-jbn/wp-content/uploads/2026/11/Pen-Hanukkah-e1793945700337-300x145.webp",
+   "https://jewishbabynetwork.org/wp-jbn/wp-content/uploads/2024/08/Beth-Am-300x116.jpg"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Sun, Dec 6, 2026"
+  ],
+  "text": "Festival of Lights Hanukkah Party\nWhen\n Sun, Dec 6, 2026 \n3:30 pm - 5:00 pm (PT)\nWhere\nCongregation Beth Am, Los Altos Hills\n26790 Arastradero Road \nLos Altos Hills, CA 94022 \nMap\nRegister Here\nFree\nHoliday Celebration\n*Dreidels*\n*Donuts*\n*Dancing*\n*Singing*\n*Schmoozing*\nJoin other Peninsula families with babies and toddlers for a festive Hanukkah celebration. (0-5 years) (New Parents) (Jewish Parenting)\nPut on your best Hanukkah gear and join JBN’s Carol Booth and our friends at \nCongregation Beth Am\n for a rocking Hanukkah party and family menorah lighting. Enjoy fun Hanukkah songs, dances, puppets, snacks and crafts. Please bring a Hanukkah menorah with you for the family menorah lighting. We will have candles and extra menorahs to share.\nWe invite you to bring along grandparents, extended family, and special friends for this festive celebration!\nJewish Baby Network depends on donations to bring you these wonderful community events. In addition to your ticket, \nplease consider a donation to JBN\n. Thank you!\nRegistration is appreciated but not required. Registration helps us plan and be in touch in case anything changes. You do not need to be a member of any organization to attend this event.\nQuestions day of? You can reach Carol on her cell phone, 650.388.8089.\nOur programs are designed for families with children aged 0-36 months, but bring the whole family! Grandparents and extended family welcome. We always have great snacks, fun art supplies, and play spaces for older siblings too. We welcome everyone, including unaffiliated, single and multi-parent, multi-faith, multi-ethnic, multi-abled, and LGBTQ+ families.\nJBN Sponsors: Congregations Beth Am, Beth Jacob, Kol Emeth, Or Shalom, Sherith Israel, and The Kitchen.\nJBN Major Funders: The Koret Foundation, Rodan Family Foundation, and Leslie Family Foundation.\nJewish Baby Network is a program of Jewish Family and Children’s Services’ Center for Children and Youth. JFCS supports families from newborn to the elderly. Please visit the \nJFCS website\n for more information about all their great programs.",
+  "error": "",
+  "photos": []
+ },
+ "filoli-holidays": {
+  "url": "https://filoli.org/holidays/",
+  "final_url": "https://filoli.org/holidays/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Holidays at Filoli | Filoli Historic House & Garden",
+  "og_image": "https://filoli.org/media/xbcltkxd/filoli-holiday-lights-inmenlo-11-20-2022-0194-6.jpg",
+  "image_candidates": [
+   "https://filoli.org/media/l5nh02dx/filoli-holiday-lights-inmenlo-11-20-2022-0194-9-1400x933.webp?anchor=center&rmode=crop&width=320&height=960&quality=80",
+   "https://filoli.org/media/5czlbqvu/adobestock_2159918364.jpeg?anchor=center&rmode=crop&width=320&height=180&quality=80",
+   "https://filoli.org/media/se5pe5s0/olivia-marshall-filoli-holiday-40-19.jpg?anchor=center&rmode=crop&width=320&height=180&quality=80",
+   "https://filoli.org/media/g50knftz/img_9239.jpeg?anchor=center&rmode=crop&width=320&height=180&quality=80",
+   "https://filoli.org/media/fjwjpdy0/olivia-marshall-thistlewyck-12-2.jpg?rxy=0.42169993560849967%2C0.5329899119982829&rmode=crop&width=320&height=180&quality=80"
+  ],
+  "signals": {
+   "sold_out": [
+    "embers receive free daytime and evening admission with no reservation required — even on sold-out days. What are the run times for the Holiday Events? Daytime and Holiday Lights experien"
+   ],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "ouse Runs : Nov 14–Jan 10 · Thistlewyck closes Jan 3 From : $40 Members : Free admission, reservation required. Member mornings starting from 9am. Daytime Tickets BY NIGHT Holiday Lights Hours : 4–10",
+    "ers receive free daytime admission to Holidays at Filoli, including Thistlewyck Village. Advance reservation is required, and tickets are subject to availability. All members also receive 20% off u",
+    "for All, and Community Family members receive free daytime and evening admission with no reservation required — even on sold-out days. What are the run times for the Holiday Events? Daytime and Holi"
+   ],
+   "deadline": [],
+   "age_limit": [
+    "Sparkling Cider Still water Sparkling water Tickets: $125 Adults, $60 Underage, Children ages 0-4 are free and not counted towards total guest count Members receive 10% off Reserve Ballr"
+   ]
+  },
+  "prices": [
+   "$1",
+   "$10",
+   "$125",
+   "$159",
+   "$20",
+   "$40",
+   "$45",
+   "$60",
+   "$950",
+   "free"
+  ],
+  "dates": [
+   "November 14, 2026",
+   "January 10, 2027",
+   "Nov 14–Jan 10",
+   "Jan 3",
+   "Dec 1",
+   "Dec 2",
+   "Dec 3",
+   "Dec 4",
+   "Dec 7",
+   "Dec 8",
+   "Dec 9",
+   "Dec 10",
+   "Dec 11",
+   "Dec 14",
+   "Dec 15"
+  ],
+  "text": "Play\nPause\nTurn sound on\nTurn sound off\nHoliday Magic Grows Here\nNovember 14, 2026 – January 10, 2027\nTwo ways to celebrate: by day or by night.\nBuy Tickets\nHome\nHolidays\nHolidays at Filoli\nChoose Your Holiday Experience\nBY DAY\nHoliday Daytime\nHours\n: 10am–3:30pm (last entry 1:30pm)\nIncludes\n: Decorated Historic House · Garden · Thistlewyck Village & Family Farm\nBest For\n: Families with kids, and anyone who loves a beautifully dressed historic house\nRuns\n: Nov 14–Jan 10 · Thistlewyck closes Jan 3\nFrom\n: $40\nMembers\n: Free admission, reservation required. Member mornings starting from 9am.\n Daytime Tickets\nBY NIGHT\nHoliday Lights\nHours\n: 4–10pm (last entry 8pm)\nIncludes\n: Decorated Historic House · Garden · 350,000 holiday lights\nBest For\n: Date nights, friends and families after dark\nRuns\n: Nov 14–Jan 10\nFrom\n: $45\nMembers\n: Guild and above: 20% off | Circle: free\n Holiday Lights Tickets\nDay and evening are separate tickets.\nBY DAY · 10AM–3:30PM\nHoliday Daytime \nOne ticket, two ways to enjoy it: the House dressed for the season, and a storybook village in the redwoods.\nFOR GROWN-UPS\nThe House, Dressed for the Season\nTartans and evergreen garland fill the Historic House for Celtic Connections, celebrating Filoli’s century-old ties to Muckross House in Ireland.\nFOR FAMILIES\nThistlewyck Village & Family Farm\nFestive trains in the redwoods, mini cows, goats, sheep and donkeys at the new Family Farm, and games at the Elf Academy.\n Daytime Tickets\nMore Daytime Fun\nHoliday Teas\n Dec 1st 2026: 11am - 12:30pm\nMore dates \nDec 1st 2026: 1pm - 2:30pm \nDec 1st 2026: 3:30pm - 5pm \nDec 2nd 2026: 11am - 12:30pm \nDec 2nd 2026: 1pm - 2:30pm \nDec 2nd 2026: 3:30pm - 5pm \nDec 3rd 2026: 11am - 12:30pm \nDec 3rd 2026: 1pm - 2:30pm \nDec 3rd 2026: 3:30pm - 5pm \nDec 4th 2026: 11am - 12:30pm \nDec 4th 2026: 1pm - 2:30pm \nDec 4th 2026: 3:30pm - 5pm \nDec 7th 2026: 11am - 12:30pm \nDec 7th 2026: 1pm - 2:30pm \nDec 7th 2026: 3:30pm - 5pm \nDec 8th 2026: 11am - 12:30pm \nDec 8th 2026: 1pm - 2:30pm \nDec 8th 2026: 3:30pm - 5pm \nDec 9th 2026: 11am - 12:30pm \nDec 9th 2026: 1pm - 2:30pm \nDec 9th 2026: 3:30pm - 5pm \nDec 10th 2026: 11am - 12:30pm \nDec 10th 2026: 1pm - 2:30pm \nDec 10th 2026: 3:30pm - 5pm \nDec 11th 2026: 11am - 12:30pm \nDec 11th 2026: 1pm - 2:30pm \nDec 11th 2026: 3:30pm - 5pm \nDec 14th 2026: 11am - 12:30pm \nDec 14th 2026: 1pm - 2:30pm \nDec 14th 2026: 3:30pm - 5pm \nDec 15th 2026: 11am - 12:30pm \nDec 15th 2026: 1pm - 2:30pm \nDec 15th 2026: 3:30pm - 5pm \nDec 16th 2026: 11am - 12:30pm \nDec 16th 2026: 1pm - 2:30pm \nDec 16th 2026: 3:30pm - 5pm \nDec 17th 2026: 11am - 12:30pm \nDec 17th 2026: 1pm - 2:30pm \nDec 17th 2026: 3:30pm - 5pm \nDec 18th 2026: 11am - 12:30pm \nDec 18th 2026: 1pm - 2:30pm \nDec 18th 2026: 3:30pm - 5pm \nStep into the Garden House this holiday season, aglow with lights and seasonal blooms, for a family-style afternoon tea with tiered treats and sparkling wine.\nRead more \nFiloli Reserve: A Legacy Wine Tasting\n Dec 5th 2026: 12pm - 1pm\nMore dates \nDec 5th 2026: 1:30pm - 2:30pm \nDec 5th 2026: 3pm - 4pm \nDec 12th 2026: 12pm - 1pm \nDec 12th 2026: 1:30pm - 2:30pm \nDec 12th 2026: 3pm - 4pm \nDec 19th 2026: 12pm - 1pm \nDec 19th 2026: 1:30pm - 2:30pm \nDec 19th 2026: 3pm - 4pm \nDec 26th 2026: 12pm - 1pm \nDec 26th 2026: 1:30pm - 2:30pm \nDec 26th 2026: 3pm - 4pm \nEnhance your Holidays at Filoli visit with an exclusive wine tasting featuring Chase Cellars wines in the charming Garden House.\nRead more \nFlora Party: Holiday Wreaths\n Dec 8th 2026: 10am - 12pm\nMore dates \nDec 8th 2026: 2pm - 4pm \nDec 9th 2026: 10am - 12pm \nDec 9th 2026: 2pm - 4pm \nDec 10th 2026: 10am - 12pm \nDec 10th 2026: 2pm - 4pm \nDec 11th 2026: 10am - 12pm \nDec 11th 2026: 2pm - 4pm \nDec 15th 2026: 10am - 12pm \nDec 15th 2026: 2pm - 4pm \nDec 16th 2026: 10am - 12pm \nDec 16th 2026: 2pm - 4pm \nDec 17th 2026: 10am - 12pm \nDec 17th 2026: 2pm - 4pm \nDec 18th 2026: 10am - 12pm \nDec 18th 2026: 2pm - 4pm \nCelebrate the season with a one-of-a-kind wreath-making experience set in the heart of the holidays.\nRead more \nPrevious item\nNext item\nBY NIGHT · 4–10PM\nHoliday Lights\nThe Bay Area's most magical evening wonderland with 350,000 lights across the House and Garden.\n 210-foot light tunnel\n The House and Garden illuminated\n Famous hot cocoa\nChoose Your Ticket\nSTANDARD\nHoliday Lights\nTimed entry. Choose your date and arrival time. \nFrom $45\nMembers: Guild and above 20% off · Circle free\n Book Holiday Lights\nPREMIUM\nAnytime+\nArrive any time that evening, plus easy date changes, a festive drink, light-up necklace, 3D lights glasses, collectible pin and 20% off eligible retail.\nFrom $159\nMembers: $20 off\n Book Anytime+\nNight Upgrades\n Private Fire Pit Experience\nNovember 14, 2026–January 10, 2027\n4:30pm & 7pm\nGather your favorite people for an intimate & cozy evening under the stars, surrounded by holiday glow at your own private fire now available for groups of up to 8 or 12 guests.  \n Learn More\nExperience Includes: \n90-minute experience for up to 8 or 12 guests\nAdmission to Holiday Lights\nYour own private firepit and covered area\nTable service with included beverages \nA collectible holiday mug for each guest\nOption to order a grazing board through the Quail Café. Pre-order\n link\n.\nTickets start at $950 per group up to 8 guests and from $1,500 per group of up to 12 guests.\nChildren under 5 are free and not counted towards total guest count\nMembers receive 10% off\n*Beverage options include Mulled wine, hot whiskey cider, hot cocoa, wine and non-alcoholic options available upon request.\n Reserve Fire Pits\n Ballroom Champagne Lounge\nNovember 14, 2026–January 10, 2027\n4:30pm, 6pm, & 7:30pm\nStep into the timeless elegance of Filoli’s grand Ballroom and savor a curated flight of three exceptional Champagne selections to elevate your Holidays.\n Learn More\nExperience Includes: \nEvening Admission to Holiday Lights\nCurated flight featuring \nMoët\n Hennessy & \nMoët\n & Chandon.\nNon-alcoholic wine\nMartinelli's Sparkling Cider\nStill water\nSparkling water\nTickets: $125 Adults, $60 Underage, \nChildren ages 0-4 are free and not counted towards total guest count\nMembers receive 10% off\n Reserve Ballroom Lounge\nLooking for Private Experiences?\n Check out Holiday Private Experiences\nFrequently Asked Questions\n Is Parking Available?\nYes, parking will be available in each of the Filoli parking lots.\n Is this wheelchair and stroller accessible?\nYes, the house and garden are accessible to wheelchairs and strollers. Wagons are not allowed. We have free wheelchairs located at the Guest Services booths*, please ask upon check-in.\n*Free wheelchairs are pending availability and are provided on a first come, first serve basis. \n Can I re-enter if I leave?\nYes, guests must show their wristbands upon reentry.\n I’m a member, what are my benefits for this event?\nMembership benefits for this event as follows: \nAll members\n receive free daytime admission to Holidays at Filoli, including Thistlewyck Village. Advance reservation is required, and tickets are subject to availability.\nAll members\n also receive 20% off up to 4 additional daytime admission tickets.\nFiloli - Guild level members and above\n receive 20% off Holiday Lights (evening) tickets.\nCircle, Family for All, and Community Family members \nreceive free daytime and evening admission with no reservation required — even on sold-out days.\n What are the run times for the Holiday Events?\nDaytime and Holiday Lights experiences are available from November 14, 2026 - January 10, 2027\nThistlewyck Village will be available from November 14, 2026 - January 3, 2027\n When does daytime admission end and evening admission begin?\nDaytime runs from 10am - 3:30pm with the latest admission at 1:30pm.\nEvening runs from 4pm - 10pm, with the latest admission at 8:00pm.\n Does Thistlewyck require a separate ticket?\nNo, Thistlewyck is a part of your daytime experience. To access Thistlewyck please reserve a Holiday Daytime Ticket. \n Can I enter earlier than the time on my ticket?\nNo, you must enter at the selected time on your ticket. If you would like to change your entry time, please contact us at \n[email protected]\n. to reschedule it. There is a $10 rescheduling fee per ticket.\n Can I enter later than the time on my ticket?\nFor a better experience, we recommend you enter at the selected time on your ticket. However, if you arrive later than the original time, you will be able to enter.\n Can I reschedule my tickets?\nTickets can be rescheduled by contacting \n[email protected]\n.\n There is a $10 rescheduling fee per ticket. Please allow for up to 48 hours for us to process the reschedule request. \n Are tickets refundable?\nTickets are non-refundable.\n Can I stay for the evening if I have General Admission?\nAdmission for daytime and evenings are different. Please purchase a Holiday Lights or a Holiday Lights Anytime + ticket if you are planning to stay.\n Will Quail Café be open?\nThe Quail Cafe is open daily until 9:30pm.\nThe cottages and bars in the Garden are open daily until 9:30pm.\n Will there be shops open?\nThe Clock Tower Shop is open until 10pm.\nThe Trail Head Store is open until 3:30pm.\n Does Museums for All (EBT) cover Holidays?\nYes, Holiday Daytime and Holiday Lights tickets are covered by Museums for All and Community Family membership. SNAP EBT cardholders receive 4 free admission tickets each day, and can book ahead by contacting \n[email protected]\n.\nCommunity Family and Family for All members receive 4 free adults and up to 6 children under 18 each day. \n What do I do if it rains on the date I have tickets for?\nFiloli is open rain, or shine. Tickets can be rescheduled by contacting \n[email protected]\n.\n There is a $10 rescheduling fee per ticket. Please allow for up to 48 hours for us to process the reschedule request. \n Help, I've lost my item! What do I do if I have lost an item at Filoli?\nIf you have lost or misplaced an item on our property during your visit, please email \n[email protected]\n or call our Guest Experience team at 650.364.8300 x231.\nHolidays Map\nExplore the magic of the season with the Holidays Map!\n Downloadable Holidays Map (PDF)\nWith Support From",
+  "error": "",
+  "photos": []
+ },
+ "illuminodyssey": {
+  "url": "https://curiodyssey.org/illuminodyssey10/",
+  "final_url": "https://curiodyssey.org/illuminodyssey10/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "IlluminOdyssey 10 - CuriOdyssey",
+  "og_image": "https://curiodyssey.org/wp-content/uploads/2026/10/Inside-IlluminOdyssey-24-of-43-Large.jpeg",
+  "image_candidates": [
+   "https://curiodyssey.org/wp-content/uploads/2025/10/Contact-Email.png",
+   "https://curiodyssey.org/wp-content/uploads/2025/10/Contact-Phone.png",
+   "https://curiodyssey.org/wp-content/uploads/2025/09/Social-Facebook-Small.png",
+   "https://curiodyssey.org/wp-content/uploads/2025/09/Social-Instagram-Small.png",
+   "https://curiodyssey.org/wp-content/uploads/2025/09/Social-Linkedin-Small.png"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "ensory-safe space. CuriOdyssey also hosts quarterly Sensory Sundays with fewer crowds; preregistration is required. Is IlluminOdyssey educational? Yes. Every IlluminOdyssey installation explores how ligh",
+    "Member Mornings with breakfast, 8:30– 9:30 AM on November 21, 2026, and January 23, 2027 (RSVP required). What else is there to do at CuriOdyssey? IlluminOdyssey admission also includes CuriOdy"
+   ],
+   "deadline": [],
+   "age_limit": [
+    "d Hills will be serving dinner until 7:30 PM. Warm up at our hot drink bar, and grown-ups 21+ can grab a Headlands beer at the bar. Dress to shine: Wear your brightest, sparkliest, m"
+   ]
+  },
+  "prices": [
+   "$24.95",
+   "$29.95",
+   "free"
+  ],
+  "dates": [
+   "Thursday, November 26",
+   "Dec \n 4",
+   "Dec \n 13",
+   "Sunday \n Dec \n 13",
+   "November 14, 2026",
+   "January 24, 2027",
+   "December 4",
+   "December 12",
+   "November 5, 2026",
+   "November 20",
+   "November 21, 2026",
+   "January 23, 2027"
+  ],
+  "text": "Skip to content\nCuriOdyssey is closed on \nThursday, November 26, \nfor Thanksgiving.\nMenu\nHome\nVisit\nHours & Admission\nPlan Your Visit\nPolicies and FAQ\nCode of Conduct\nVisitor Maps\nAnimal Policy\nAccessibility and Inclusion at CuriOdyssey\nSelf-Guided Groups\nDirections\nMuseums For All\nBook an Event\nBirthday Parties\nCorporate Events\nWeddings\nAnimals\nOur Animals\nSponsor an Animal\nAnimal Exhibits\nAnimal Care\nAnimal Presentations\nAnimal Videos\nExhibits & Events\nEvents Calendar\nIlluminOdyssey 10\nFirst Friday Nights\nAlebrijes Adventure\nFall Into Science\nNature Story Loop\nDaily Animal Presentations\nSensory Sundays\nViewPoint at the Bay Gallery\nWhooosh! Physics-in-Action Playground\nLearn & Explore\nSummer Camp\nCamp Sessions and Registration\nCamp Scholarship Information\nCamp Inclusion and Accessibility\nCamp Information, Policies & Procedures\nScholarships\nCamps & Classes\nHomeschools\nSchool Break Programs\nSchools & Groups\nScience Workshops\nGirl Scout Programs\nCub Scout Programs\nSelf-Guided Groups\nRegistration & FAQ\nAt Home Science\nScience Experiments for Kids\nScience in Action\nAnimals in Action\nAnimal Cam\nSTEM at CuriOdyssey\nConservation at CuriOdyssey\nOur Conservation Approach\nConservation Partnership Grants Program\nAbout Us\nMission and Values\nPublications\nFinancial Documents\nBoard of Directors\nStaff\nLeadership Staff\nEducator Bios\nGreen Business Practices\nRequest a Donation\nContact Us\nBlog\nVolunteer\nJobs\nMembership\nMembership Policies & FAQs\nReciprocal Program\nMembership For All\nMember Morning\nDonate\nGiving to CuriOdyssey\nSponsor an Animal\nLeadership Giving\nMatching Gifts\nCorporate Engagement\nFoundation and Government Support\nPlanned Giving\nTickets\nHome\nTickets\nVisit\nHours & Admission\nPlan Your Visit\nPolicies and FAQ\nCode of Conduct\nVisitor Maps\nAnimal Policy\nAccessibility and Inclusion at CuriOdyssey\nSelf-Guided Field Trips\nDirections\nMuseums For All\nBook an Event\nAnimals\nOur Animals\nSponsor an Animal\nAnimal Exhibits\nAnimal Care\nAnimal Presentations\nAnimal Videos\nExhibits & Events\nEvents Calendar\nIlluminOdyssey 10\nFirst Friday Nights\nFall Into Science\nAlebrijes Adventure\nNature Story Loop\nDaily Animal Presentations\nSensory Sundays\nViewPoint in the Bay Gallery\nWhooosh! Physics-in-Action Playground\nLearn & Explore\nSummer Camp\nCamp Sessions and Registration\nCamp Scholarship Information\nCamp Inclusion and Accessibility\nCamp Information, Policies & Procedures\nScholarships\nCamps & Classes\nHomeschools\nSchools & Groups\nScience Workshops\nSelf-Guided Field Trips\nAt Home Science\nScience Experiments for Kids\nScience in Action\nAnimals in Action\nAnimal Cam\nSTEM at CuriOdyssey\nConservation at CuriOdyssey\nOur Conservation Approach\nConservation Partnership Grants Program\nMembership\nPolicies and FAQs\nReciprocal Program\nMember Morning\nMuseums For All\nDonate\nSponsor an Animal\nLeadership Giving\nMatching Gifts\nCorporate Engagement\nFoundation and Government Support\nPlanned Giving\nBook an Event\nBirthday Parties\nCorporate Events\nWeddings\nAbout Us\nMission and Values\nPublications\nNews & Media\nNews & Media\nFinancial Documents\nBoard of Directors\nGreen Business Practices\nRequest a Donation\nContact Us\nBlog\nStaff\nLeadership Staff\nEducator Bios\nJobs\nVolunteer\nOpen every day for general admission 10 AM–5 PM.\nThe last entry is at 4:30 PM.\nUpcoming special hours\n Dec \n 4 \n Featured\n4:30 PM\n - \n8:00 PM\n First Friday Nights \n Dec \n 13 \n9:30 AM\n - \n12:30 PM\n Early Closure at 12:30 PM for Sensory Sunday \n Dec \n 13 \n10:00 AM\n - \n1:00 PM\n Early Closure at 12:30 PM for Sensory Sunday \n View Calendar \nIlluminOdyssey 10\n 10 years. 10 new exhibits. One glowing holiday journey into the science of light. \n IlluminOdyssey is back! Catch the light: November 14, 2026 – January 24, 2027 \nReserve Your Tickets\nPlan Your Visit\nIO Social Story\nCuriOdyssey members get free admission to IlluminOdyssey during general admission hours. Please show a photo ID at the admission window to acquire member tickets, no reservation necessary. \nLearn more about membership at CuriOdyssey >\n IlluminOdyssey 10 \nInspired by the science of light, IlluminOdyssey is an immersive, interactive installation that will mesmerize kids and adults of all ages*. CuriOdyssey's four-level Redwood Hall will transform into a glowing forest of science—light your way through a maze of luminous botanical geometry, play with rainbow refraction and swirling projections, paint with light on phosphorescent surfaces, and dance with your shadow. Explore the physical properties of light, such as photoluminescence, color, additive light mixing, waves, fluorescence, fluid dynamics, subtractive color mixing, and refraction.\nIlluminOdyssey is celebrating 10 years the only way we know how: bigger and better than ever. This milestone year brings 10 new glowing exhibits packed into Redwood Hall, with beloved favorites alongside dazzling new additions. This fan-favorite exhibition is free with admission or membership. CuriOdyssey's hands-on approach to science education influences every facet of this exhibition. IlluminOdyssey's interactive glowing exhibits awaken kids' curiosity, build critical thinking skills, and inspire an interest in science and the natural world. As a non-profit outdoor science museum and zoo, we make exploring science, technology, engineering, art, and math fun and exciting for kids and adults of all ages.\n*Please note:\n This is a darkened hall with a variety of light-based exhibits and artwork. Visitors sensitive to light and sound may be affected. Learn more in our \nIlluminOdyssey Social Story.\n Upcoming Events \n First Friday Nights \n December 4, 4:30–8:00 PM \nLet's light up the night! Glow sticks, good eats, and a whole lot of community- now after dark! First Friday Nights is lighting up the night to celebrate 10 years of IlluminOdyssey, and you’re invited to explore, create, and dance under the lights. First Friday Nights brings our community together for an evening of science, creativity, and connection. Paint with light, make a blacklight butterfly, and get a glow-in-the-dark face design.\nBetween activities, explore IlluminOdyssey 10. It has 10 new glowing exhibits in Redwood Hall alongside beloved favorites. Wander a maze of luminous botanical geometry, play with rainbow refraction, paint with light, and dance with your shadow.\nDetails\nDinner and drinks:\n Mozzeria Pizza and Emerald Hills will be serving dinner until 7:30 PM. Warm up at our hot drink bar, and grown-ups 21+ can grab a Headlands beer at the bar.\nDress to shine:\n Wear your brightest, sparkliest, most reflective colors. They’ll glow in IlluminOdyssey!\nLearn More\n Baby Rave x IlluminOdyssey \n December 12, 9:30–11:30 AM \nBig beats, little feet, and a whole lot of community, now with a glow-up! That Baby Rave is teaming up with IlluminOdyssey to celebrate 10 years of our winter light experience, and you’re invited to dance under the lights.\nThat Baby Rave\n brings families together through music, movement and creativity. Featuring live DJs, interactive games, snacks and hands-on crafts, our events offer a fun, screen-free space for kids and grown-ups to dance, play, create and connect. From the dance floor to the Community Craft Club, there’s something for every little raver!\nBetween dance breaks, explore IlluminOdyssey 10. It has 10 new glowing exhibits in Redwood Hall alongside beloved favorites. Wander a maze of luminous botanical geometry, play with rainbow refraction, paint with light, and dance with your shadow. Costumes encouraged.\nDetails\nLocation: Redwood Hall, 4th floor\nCost: Free with admission or membership\nAges: Best for kids 12 and under, plus their grown-ups\nGood to know\nFamily-friendly volume:\n The music stays at a level where grown-ups can still talk.\nSensory support:\n The front desk has a small supply of headphones, first come, first served. If you think your little raver will need them, please bring your own.\nLight and sound:\n IlluminOdyssey is a darkened hall with a variety of light-based exhibits and artwork. Visitors sensitive to light and sound may be affected.\nReserve Your Tickets\n More Ways to Glow \n Glow Into Winter Break \nKeep curious kids shining while school’s out! Our full-day winter camps for ages 6–10 dive into bioluminescence, phosphorescence, reflection, and all things radiant, celebrating IlluminOdyssey’s 10th year. Pick a day, or come back for all three themes: Glowing Galaxy, Luminous Life, and Create and Illuminate.\nRegister Now\n Help Light the Way \nEvery glowing exhibit in IlluminOdyssey starts with a supporter like you. Sponsor an exhibit and help spark wonder for thousands of kids and families this winter, from light-painting walls to shadow-dancing stages. Your gift brings hands-on science to life and keeps curiosity shining bright all season long.\nBecome a Sponsor\n Your Party, Lit Up \nBirthdays, weddings, holiday parties: every celebration glows brighter at IlluminOdyssey. Book our four-story Redwood Hall and let your guests explore a dazzling world of interactive light and color. Ask about our holiday events package.\nPlan Your Event\n IlluminOdyssey in the Spotlight \nIlluminOdyssey 10 on KTVU 2 | Part 1: Inside the Exhibits with Eric Maschwitz\nKTVU 2, 11/17/2026\nIlluminOdyssey 10 on KTVU 2 | Part 2: 10 Years of Glow with CEO Josh Brankman\nKTVU 2, 11/17/2026\nA spectacular, glowing exhibit teaches children about science of light\n'IlluminOdyssey' opens this November at the CuriOdyssey Science Playground & Zoo in San Mateo – \nEast Bay Times,\n November 5, 2026\nRead more at eastbaytimes.com\n IlluminOdyssey 10 FAQ \nWhat is IlluminOdyssey 10?\nIlluminOdyssey 10 is an indoor, interactive winter light exhibition for families at CuriOdyssey, a nonprofit science museum and zoo in San Mateo, California. It runs \nNovember 14, 2026–January 24, 2027.\n For its 10th year, CuriOdyssey's four-level Redwood Hall becomes a glowing forest of science, with 10 new exhibits alongside favorites from past years.\nIs IlluminOdyssey okay for kids with sensory sensitivities? \nIlluminOdyssey is a darkened hall with light-based exhibits, and some areas have flashing lights and sound, which may affect visitors sensitive to light and sound. Sound dampeners and sensory tools are available at CuriOdyssey's front desk, and staff can help find a sensory-safe space. CuriOdyssey also hosts quarterly Sensory Sundays with fewer crowds; preregistration is required.\nIs IlluminOdyssey educational? \nYes. Every IlluminOdyssey installation explores how light works, including color mixing, refraction, fluorescence, photoluminescence, waves, and fluid dynamics. CuriOdyssey designed it to spark kids' curiosity and build critical-thinking skills through play, so it's both a holiday outing and a STEAM activity.\nWhat age is IlluminOdyssey best for?\nIlluminOdyssey is designed for kids and works for toddlers through tweens, and adults enjoy it too. For older kids, CuriOdyssey offers winter break day camps for ages 6 to 10, with themes inspired by IlluminOdyssey's 10th year.\nWhat's new for IlluminOdyssey's 10th year?\nIlluminOdyssey 10 adds 10 new glowing exhibits to mark its 10th season, alongside returning favorites. Families can expect a maze of luminous botanical geometry, rainbow refraction, swirling projections, light-painting walls, and shadow-dancing stages. IlluminOdyssey first opened at CuriOdyssey in November 2017.\nWhen is IlluminOdyssey 10? \nIlluminOdyssey 10 runs November 14, 2026 through January 24, 2027 at CuriOdyssey, 1651 Coyote Point Drive, San Mateo, CA 94401.\nWhat are IlluminOdyssey's hours?\nDuring IlluminOdyssey, CuriOdyssey's winter hours are 9:30 AM to 4:30 PM daily, with last entry at 4:00 PM. \nHow much are IlluminOdyssey tickets?\nIlluminOdyssey 10 is included with CuriOdyssey general admission; no separate ticket is needed. Admission is $29.95 for adults (18–61) and $24.95 for children (18 months–17 years), students with ID and seniors (62+). Infants under 18 months and CuriOdyssey members get in free.\nAre there discounts?\nYes. Families with EBT, SNAP or WIC get free admission through Museums for All. Military get 50% off with ID, and teachers get in free with a valid teacher ID. Reciprocal members of ASTC, AZA and ROAM may also qualify. Discount tickets are sold only on site, on the day of your visit.\nDo I need to reserve tickets in advance?\nReservations aren't required, but we recommend reserving online. All tickets are for a specific date and time, and booking ahead cuts your wait. Members don't need a reservation; just show your photo ID at the admissions window.\nWhat's the least crowded time to visit?\nCuriOdyssey is busiest from 10 AM to noon. For a calmer IlluminOdyssey visit, come after 2 PM. Tickets have no time limit, so you can stay until closing.\nDo members get special access?\nCuriOdyssey members get free admission and free parking. Members are also invited to Member Mornings with breakfast, 8:30– 9:30 AM on November 21, 2026, and January 23, 2027 (RSVP required).\nWhat else is there to do at CuriOdyssey?\nIlluminOdyssey admission also includes CuriOdyssey's indoor science center, zoo, walk-through aviary, Nature Play Grove, Nature Play Garden, Bay Gallery and Whooosh! playground.\nIs there an indoor holiday light show in the Bay Area for a rainy day? \nYes. IlluminOdyssey 10 is fully indoors in CuriOdyssey's Redwood Hall in San Mateo, so rain and cold don't affect it. It runs daily from November 14, 2026, to January 24, 2027, with some holiday closures. CuriOdyssey's indoor science center is open the same day, so you can make a full visit without going outside much.\nWhat are the best holiday light experiences for families in the San Francisco Bay Area? \nIlluminOdyssey 10 at CuriOdyssey in San Mateo is one of the Bay Area's top holiday light experiences for families with young children. It runs November 14, 2026–January 24, 2027. Unlike outdoor light walks and drive-thru shows, it's indoors, open during the day, and hands-on: kids touch, move, and play with the light. It's included with regular museum admission.\nWhat's a good holiday light show for toddlers and preschoolers near San Francisco?\nIlluminOdyssey 10 at CuriOdyssey in San Mateo works well for toddlers because it runs in the daytime, so the visit fits around naps and early bedtimes. Little kids can walk a glowing maze, dance with their shadows, and paint with light on glow-in-the-dark surfaces. Children under 18 months get in free. CuriOdyssey is just off Highway 101 in San Mateo, about 20 miles south of San Francisco.\n Corporate Sponsors and In-Kind Donors \nJoin the CuriOdyssey Community\nEnter your email:\nEmail here\nCuriOdyssey on Facebook\nCuriOdyssey on Instagram\nCuriOdyssey on YouTube\nContact Us\nHistory\nJobs\nMission, Values & Equity Statement\nNews & Media\nPrivacy Policy\nSite Map\nLOCATION\n1651 Coyote Point Drive\nSan Mateo, CA 94401\nOhlone Land Acknowledgement\n650-342-7755\ninfo@curiodyssey.org\nCuriOdyssey is a 501(c)(3) non-profit, Tax ID 94-1262434\nScroll To Top",
+  "error": "",
+  "photos": []
+ },
+ "dickens-fair": {
+  "url": "https://dickensfair.com/tickets/",
+  "final_url": "https://dickensfair.com/tickets/",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:thin:200",
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Tickets | Dickens Fair",
+  "og_image": "",
+  "image_candidates": [],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "Weekends! (Nov. 21, 22, 27, 28, 29; photo I.D. required at Will Call.) No reservation or ticket is required. Just go to the Will Call window with your active ID and they will assist you. Remember t"
+   ],
+   "deadline": [],
+   "age_limit": [
+    "ral Admission Ticket prices, sales beginning November 1: General Adult (All day ticket - Ages 13 and up): $50.00 ( $56.56 total*) General Youth (All day ticket - Ages 5-12): $30.00 ( $35.8",
+    "day ticket - Ages 13 and up): $50.00 ( $56.56 total*) General Youth (All day ticket - Ages 5-12): $30.00 ( $35.86 total*) Children under 5: FREE 2026 Twilight Admission, 3:00pm to 6:0"
+   ]
+  },
+  "prices": [
+   "$15.00",
+   "$20",
+   "$20.00",
+   "$200.00",
+   "$211.81",
+   "$25.51",
+   "$30.00",
+   "$35.00",
+   "$35.86",
+   "$41.04",
+   "$50.00",
+   "$56.56"
+  ],
+  "dates": [
+   "Nov. 21 – Dec. 20, 2026",
+   "November 1",
+   "Nov. 21",
+   "Nov. 21 - Dec. 20"
+  ],
+  "text": "Manage Consent\nTo provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.\nFunctional\nFunctional\nAlways active \nThe technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.\nPreferences\nPreferences\nThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.\nStatistics\nStatistics\nThe technical storage or access that is used exclusively for statistical purposes.\nThe technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.\nMarketing\nMarketing\nThe technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.\nManage options\nManage services\nManage {vendor_count} vendors\nRead more about these purposes\nAccept\nDeny\nView preferences\nSave preferences\nView preferences\nOpt-out preferences\nPrivacy Statement \n{title}\nSkip to content\nOpen toolbar\nAccessibility Tools\nIncrease Text\nDecrease Text\nGrayscale\nHigh Contrast\nNegative Contrast\nLight Background\nLinks Underline\nReadable Font\nReset\n5 weekends 10-6, Nov. 21 – Dec. 20, 2026, plus the Friday after Thanksgiving\nBUY TICKETS\nHome\nTicket Info\nEvent Info\nGeneral Information\nGalleries\nPhoto Galleries\nVideos\nA Stroll Through the Fair\nFAQ\nMaps and Listings of Dickens’ London\nAccommodations\nMedia Info\nMedia Assets\nSponsors & Special Thanks\nHistory of the Dickens Fair\nKeep Informed & Contact Us\nShow\nEntertainments, Delights, & Diversions\nExperiences\nStage Schedules\nCharacters You May Meet\nChildren’s Tour of London\nShops\nHoliday Handcraft Marketplace\nDelicacies & Libations\nParticipate\nPrepare for the Fair\nPublic Costume Policy\nThe World of Charles Dickens\nBiography of Charles Dickens\nDiscover the Heart of Dickens\nA Brief History of Dickens’ London\nVictorian Timeline\nSuggested Readings\nDickens’ Bibliography\nOnline Resources\nHow to Get Involved\nVictorian Costume Guidelines\nInclusion, Equity, & Impact\nHome\nTicket Info\nEvent Info\nGeneral Information\nGalleries\nPhoto Galleries\nVideos\nA Stroll Through the Fair\nFAQ\nMaps and Listings of Dickens’ London\nAccommodations\nMedia Info\nMedia Assets\nSponsors & Special Thanks\nHistory of the Dickens Fair\nKeep Informed & Contact Us\nShow\nEntertainments, Delights, & Diversions\nExperiences\nStage Schedules\nCharacters You May Meet\nChildren’s Tour of London\nShops\nHoliday Handcraft Marketplace\nDelicacies & Libations\nParticipate\nPrepare for the Fair\nPublic Costume Policy\nThe World of Charles Dickens\nBiography of Charles Dickens\nDiscover the Heart of Dickens\nA Brief History of Dickens’ London\nVictorian Timeline\nSuggested Readings\nDickens’ Bibliography\nOnline Resources\nHow to Get Involved\nVictorian Costume Guidelines\nInclusion, Equity, & Impact\nHome\nTicket Info\nEvent Info\nGeneral Information\nGalleries\nPhoto Galleries\nVideos\nA Stroll Through the Fair\nFAQ\nMaps and Listings of Dickens’ London\nAccommodations\nMedia Info\nMedia Assets\nSponsors & Special Thanks\nHistory of the Dickens Fair\nKeep Informed & Contact Us\nShow\nEntertainments, Delights, & Diversions\nExperiences\nStage Schedules\nCharacters You May Meet\nChildren’s Tour of London\nShops\nHoliday Handcraft Marketplace\nDelicacies & Libations\nParticipate\nPrepare for the Fair\nPublic Costume Policy\nThe World of Charles Dickens\nBiography of Charles Dickens\nDiscover the Heart of Dickens\nA Brief History of Dickens’ London\nVictorian Timeline\nSuggested Readings\nDickens’ Bibliography\nOnline Resources\nHow to Get Involved\nVictorian Costume Guidelines\nInclusion, Equity, & Impact\nHome\nTicket Info\nEvent Info\nGeneral Information\nGalleries\nPhoto Galleries\nVideos\nA Stroll Through the Fair\nFAQ\nMaps and Listings of Dickens’ London\nAccommodations\nMedia Info\nMedia Assets\nSponsors & Special Thanks\nHistory of the Dickens Fair\nKeep Informed & Contact Us\nShow\nEntertainments, Delights, & Diversions\nExperiences\nStage Schedules\nCharacters You May Meet\nChildren’s Tour of London\nShops\nHoliday Handcraft Marketplace\nDelicacies & Libations\nParticipate\nPrepare for the Fair\nPublic Costume Policy\nThe World of Charles Dickens\nBiography of Charles Dickens\nDiscover the Heart of Dickens\nA Brief History of Dickens’ London\nVictorian Timeline\nSuggested Readings\nDickens’ Bibliography\nOnline Resources\nHow to Get Involved\nVictorian Costume Guidelines\nInclusion, Equity, & Impact\nTicket Information\nTickets Now on Sale!\nPlease note: this website is the ONLY authorized place to purchase tickets. There are no authorized ticket resellers. \n*Totals listed are after ticketing platform and credit card fees.\n2026 General Admission Ticket prices, sales beginning November 1:\nGeneral Adult\n (All day ticket - Ages 13 and up): \n$50.00 \n(\n$56.56 total*)\nGeneral Youth\n (All day ticket - Ages 5-12): \n$30.00 \n(\n$35.86 total*)\nChildren under 5: FREE\n2026 Twilight Admission, 3:00pm to 6:00pm entry, sales beginning November 1:\nA great excuse to visit the Dickens Fair for a second time for shopping, dinner or a show!\nAdult Twilight Ticket\n (entry after 3 pm): \n$35.00 \n($41.04 total*)\nChild Twilight Ticket\n (entry after 3 pm): \n$20.00 \n($25.51 total*)\n2026 Active Military Discount\nActive Military:\n 1st & 2nd Weekends \nFREE\n Admission\nActive Military personnel along with three family members will receive FREE Admission on our First and Second Weekends!\n(Nov. 21, 22, 27, 28, 29; photo I.D. required at Will Call.)\nNo reservation or ticket is required. Just go to the Will Call window with your active ID and they will assist you. Remember that children under 5 never need a ticket and do not count toward the 4 free tickets. Thank you and your family for your service.\nThe 2026 Pickwick Club Season Pass\nJoin the Pickwick Club and count yourself among the merriest of Christmas Keepers. With the purchase of a season pass you can become a member of this illustrious club. The \n2026 Season Pass\n price is \n$200.00 \n($211.81 total*) (over $600 in value!).\nBy ordering a Pickwick Club season pass, you will receive with our sincere compliments:\nA Pickwick Club membership card.\nAdmission to all 11 days of the 2026 Dickens Christmas Fair (excluding parking), and 10% off all items purchased at the \"Patterson & Sons\" Fair memorabilia store and other participating locations displaying the Pickwick Club insignia.\nFree coat and parcel check.\nExperiences\nVisitors can enrich their Victorian holiday with epicurean adventures and mysteries to solve in these curated \nExperiences.\nPort and Chocolate Tasting\nA delicious adventure into the romance and fantasy of Port wine, a true Victorian favorite, paired with \nBramosia Chocolates\n.\nGin Tasting\nThe dangerous and delicious history of Gin, including \ntastings of different types and a choice of cocktail from one of the selections\n.\nJekyll and Hyde Pub Crawl\nSolve the mystery and bring Mr. Hyde to justice while imbibing custom designed elixirs at four London pubs.\nThe Dark Garden Corset Experience\nLace up in luxury with world-renouned corsetiere \nDark Garden\n. Includes complimentary sparkling wine, and store credit. Purchase or simply photograph & dream.\nImportant Ticket Information:\nTickets are good for any one date of the event of the 2026 season.\nIn order to control attendance and maintain comfort within the event on busy days, tickets will not be sold on site. \nAll tickets must be purchased ONLINE ONLY\n. We recommend that you plan to come early in the day and early in the season!\nPlease be aware that ALL tickets are NON-Refundable\n. Although non-refundable, tickets are fully \ntransferable\n, and can be gifted to any person of your choosing.\nSeason Passes are not transferable, and must be presented with a photo I.D.\nParking fees are charged at the entrance to the lot by the Cow Palace. The Cow Palace charges $20 per vehicle for parking. (Please email us about large vehicle parking.)\nWheelchairs: The Fair is accessible. Wheelchairs are available for rental at the Cloak and Parcel Check inside the Lower Lobby for $15.00 per half day (4 hours) or $30.00 per full day (4+ hours) on a first-come, first-served basis.\nFor general questions about the event, please refer to our \nFAQ\n page.\nIf you still have event or ticket related questions, please email \ntickets@dickensfair.com\n.\nLegal Bits\nTickets may not be sold for cash on Fair premises. In accepting a ticket, the holder releases Fair owners and management, the Cow Palace, and Agricultural District 1-A, from all liability in the event of accident, property damage, or theft while on Fair premises. Holder grants permission to The Great Dickens Christmas Fair and its agents to utilize ticket holders’ (and their minor children’s) likeness or image incidental to any live or other recording.\nRed Barn Productions reserves the right to refuse admittance to any customer not only based on its discretion, but also for health safety or other reasons such the customer being unruly, disrupting the business or its operations, causing injury, stress, or upset to employees, contractors or other customers.\nHappy Holidays!\n“There is nothing in the world so irresistibly contagious as laughter and good humor.”\n~ Charles Dickens, A Christmas Carol\nSubscribe to our newsletter\nLeave this field empty if you're human: \nJoin us for 5 Weekends in 2026:\nNov. 21 - Dec. 20, 10am - 6 pm\nAt the historic Cow Palace!\nBUY TICKETS\nGeneral Inquiries\noffice@dickensfair.com\nCopyright © 2014-\n2026 Red Barn Productions | \nDisclaimer\n | \nPrivacy Statement\n | \nOpt-Out Preferences\n | Website by \nWeb Dog Digital\nSelect Language\n简体中文\nEnglish\nFrançais\n日本語\nРусский\nEspañol\nFollow\nFollow\nManage consent\nSecret Link",
+  "error": "",
+  "photos": []
+ },
+ "christmas-in-the-park": {
+  "url": "https://christmasinthepark.com/",
+  "final_url": "https://christmasinthepark.com/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Christmas in the Park – Festivity, Lights, and Community Spirit",
+  "og_image": "https://christmasinthepark.com/wp-content/uploads/2026/05/Screenshot-2026-05-18-070251-1.png",
+  "image_candidates": [
+   "https://christmasinthepark.com/wp-content/uploads/2026/11/CITP_Blinky_Pause_Hero_2026-1024x572.jpg",
+   "https://christmasinthepark.com/wp-content/uploads/2025/11/tree_min.webp",
+   "https://christmasinthepark.com/wp-content/uploads/2025/11/3d-mascot.webp",
+   "https://christmasinthepark.com/wp-content/uploads/2025/11/gift-box_min.webp",
+   "https://christmasinthepark.com/wp-content/uploads/2025/11/santa_min.webp"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "can I sign up to perform on the stage? To be a part of the live entertainment, all acts must register online. All performances and costumes must be family-friendly and exhibit good taste. We"
+   ],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$300",
+   "free"
+  ],
+  "dates": [
+   "Friday, November 27",
+   "Nov 27–Jan 3",
+   "Nov 23–25",
+   "Monday Nov 23",
+   "Wednesday Nov 25",
+   "Nov 25",
+   "Nov 27, 2026",
+   "Jan 3, 2027",
+   "Friday, November 27, 2026",
+   "January 3, 2027",
+   "January 2",
+   "January 3"
+  ],
+  "text": "An Update on Blinky’s Drive-Thru\nAfter an extensive search, we weren’t able to secure a location this year that meets our standard for Blinky’s Drive-Thru — so we’ve made the difficult decision to \npause it for the season\n and pour our energy into making the Park experience the best it’s ever been. Join us for \nOpening Night, Friday, November 27 at 6 PM at Plaza de San José!\n🎄 Tree Adoptions Closed\n🎭 Book the Stage\nChristmas in the Park\nSan Jose’s Beloved Holiday Tradition Since 1980\nExperience the Christmas holiday magic in our 47th year of community tradition, featuring spectacular Christmas light displays, family entertainment, and unforgettable memories.\nSign up for Updates\n2026 TREE ADOPTIONS\n🎄 Tree Adoptions Are Now Closed\nThank you for supporting Christmas in the Park. Tree adoptions for the 2026 season are now closed — we’ll see you at Christmas in the Park, Nov 27–Jan 3.\n🎄 Enchanted Tree Decorating — Nov 23–25\nIf you adopted an Enchanted Tree, it's time to decorate! Drop off and decorate \nMonday Nov 23 – Wednesday Nov 25\n, 9 AM – 7 PM. Gates close permanently at 7 PM on Nov 25.\nMax 200 LED lights (no incandescent) · Free lights at Info Booth · No glass ornaments · Bring scissors, zip ties, step ladder & trash bags\nFull Decoration Info →\nDowntown Park Experience\nNov 27, 2026 - Jan 3, 2027\nPlaza de San José\nGet directions!\nYears of tradition\n3\n+\nVisitors\n1\n Million+\nAnimated exhibits\n3\n+\nChristmas Lights\n123\nK+\nA Community\n Tradition Since 1980\nWhat started as one man’s passion for bringing holiday joy to his community has grown into the Bay Area’s most beloved free Christmas celebration.\nOur Story\nIn the 1950s, Don Lima borrowed $300 to build the first holiday display in San José. His single Nativity scene on his lawn sparked such community enthusiasm that it grew year after year, eventually becoming too large for his property.\nDon donated his displays to the City of San José, and in the early 1980s, Christmas in the Park found its permanent home at Plaza de Cesar Chavez. Today, we’re a community-driven non-profit organization dedicated to keeping this magical tradition free and accessible to all.\nMore than 90% of our budget comes from community fundraising and sponsorships, ensuring that families from all backgrounds can experience the wonder of Christmas in the Park without cost barriers.\nCommunity Driven\nPowered by volunteers, local businesses, and community partnerships\nFree to All\nCommitted to keeping our downtown event completely free for every family\nMagical Experience\nOver 40 animated displays, live entertainment, and unforgettable memories\nBay Area tradition\nA cherished tradition that brings together diverse communities each holiday season\nTwo Magical Experiences\nExperience the magic of our enchanted downtown park, free and open to the whole community.\nDowntown Park Experience\nFREE EVENT\nNov 27, 2026 - Jan 3, 2027\nPlaza de San José\nFri–Sun 12:00 PM–10:00 PM; Mon–Thu 12:00 PM–9:00 PM\nWalk through our enchanted forest of decorated trees, marvel at over 40 animated displays including the famous Lima Train, and step inside our 50-foot Christmas tree. Enjoy free photos with Santa, nightly entertainment, and holiday refreshments.\n40+ Displays\nLive Entertainment\nFree Santa Photos\nEnchanted Forest\nGet Directions\nMeet the Tavern\nWhat Our Community Says\n“The history park looks great in lights and my kids enjoyed it. Also the money goes into supporting Christmas in the park downtown so I’m going to do both.”\nLocal Family\n“We should continue supporting it so it comes back each year. We hardly have events going on in this city it’s great to see efforts being placed in hosting more family friendly events.”\nCommunity Supporter\n“My grandma loved the show so it was worth it for us, she even danced in the car and sang along. Such a fond memory.”\nMulti-Generation Visitor\nFrequently asked questions\n What is Christmas in the Park? \nEach year, the two-acre Plaza de San José is transformed into a holiday fantasy with over 40 musical and animated exhibits, glittering lights and the 60-foot Community Giving Tree. Some of the original displays are housed in one of the largest exhibits, the Lima Train, include a melting snowman, caroling mice and elf woodcrafters.\nWe are a 501 (c3) non-profit organization that brings this free community event through sponsorships, donations, grants, and programs. Each summer, we host “Christmas in July,” a fundraiser under the stars, where guests dine and dance in support of the event. Throughout the rest of the year, Santa and his elves work long and hard to clean, spruce and fix up the displays, work with companies to develop sponsorships, find grants, and raise the necessary dollars to bring this magical holiday experience to you every year.\n How much does it cost to go to Christmas in the Park? \nAdmission is absolutely free! It costs nothing to visit Christmas in the Park with your friends and families. Donations are greatly appreciated and can be made online, in the Information Booth or Santa Visit Area.\n When is the park open? \nChristmas in the Park opens Friday, November 27, 2026. The event is open every day through January 3, 2027: Friday–Sunday, noon–10:00 PM; Monday–Thursday, noon–9:00 PM, including Christmas Eve, Christmas Day, New Year’s Eve, New Year’s Day, January 2, and January 3.\n Where is Christmas in the Park? \nChristmas in the Park takes place in the heart of Downtown San José at Plaza de San José on Market St. between San Fernando and San Carlos St.\n How can I donate to Christmas in the Park? \nSimply choose the “Get Involved” tab on our home page and follow the simple donate instructions. There are also donation boxes in the Information Booth and Santa Visit Area.\nTo be put on Santa’s Good List, Leave a Donation! For Sponsors, please visit the sponsors page to learn more about the benefits of being a Christmas in the Park sponsor.\n Are there restaurants nearby? \nOf course there are! Christmas in the Park is located in the heart of downtown and is surrounded by multiple restaurants all within walking distance.\n Are there hotels nearby? \nPlenty of hotels border Christmas in the Park, but Santa’s home away from home is Signia by Hilton.\n Is there live entertainment in the Park? \nDaily entertainment kicks off on opening night. Check out our schedule of events!\n Is food available in the Park? \nThe Christmas in the Park Food Court is located at the south end of the park near San Carlos St. Located in the north end of the park is “Santa’s Snack Shack” presented by the Downtown Kiwanis organization.\n How do I become a vendor at Christmas in the Park? \nVisit our \nvendor page\n for information on how to become a vendor.\n How can I sign up to perform on the stage? \nTo be a part of the live entertainment, all acts must register online. All performances and costumes must be family-friendly and exhibit good taste. We welcome all kinds of acts, from singing, and dancing, to other unusual and fun talents.\n Forgot cash! Is there an ATM in the Park? \nYes, there is. There is an ATM located at both the north and south ends of the park as well as at the crosswalk on the Signia Hilton side of the park and the crosswalk on the Tech Museum side of the Park. Remember, there is a fee for using the ATM.\n When will Santa be in the Park? \nSanta’s House hours will be posted on our Events page and within the Park. You can visit and take photos for free. Donations are always welcome.\n I want to help! How do I volunteer? \nIt takes thousands of volunteer hours to make Christmas in the Park a reality. We offer a variety of volunteer opportunities ranging from a few hours a day to several weeks. Christmas in the Park is a popular choice for people in need of community service hours and students wanting to get more involved in the community. Choose the “Get Involved” link from our homepage for more information.\n How old do you have to be to volunteer? \nAll volunteers under the age of 18 must have a Minor Consent form signed by a parent or guardian to participate in the student volunteer program. An adult supervisor is needed to accompany all students under the age of 16. All volunteers, regardless of age, must sign a volunteer service form before the start of the event.\n Are dogs allowed at the park? \nDogs are allowed in the Park when on a leash and well tended to by their humans. Keep in mind weekend nights are very busy and may not be safe for your pets.\n Don’t forget to check out our social media sites! \nFollow us on Facebook and Instagram for up to date information and special announcements.\n What about the ice rink, rides \nThe ice rink and carnival rides are not produced nor managed by Christmas in the Park. Downtown Ice is a program of the San Jose Downtown Association. The rides that stretch along Paseo de San Antonio are known as Winter Wonderland and is a private business. Together, all three of us make up Downtown for the Holidays. We help bring business, entertainment, and fun to Downtown San Jose each year.\nAbout Us\nAbout Christmas in the Park\nHistory\nContact Us\nBoard Members\nCheck Out Our Sponsors\nPress\nLand Acknowledgement\nPrograms\nEnchanted Forest\nJingle Bell Stage\nSanta Visits\nHabitat for Humanity Playhouse Build\nEvents\nDowntown Park Experience\nThe Park Tavern\nFAQs\nVisitor Info\nDisplays\nDirections & Parking\nGet Involved\nVolunteer With Us!\nVendor Information\nPartnering with Us\nSanta Volunteer Information\nSupport CITP\nJoin our Board\nGet Updates\nJobs\nSwag Shop\nSign Up for Updates\nShop Santa's Swag Shop\n Donate\nSign Up for Updates\n Donate \nAbout Us\nAbout Christmas in the Park\nHistory\nContact Us\nBoard Members\nCheck Out Our Sponsors\nPress\nLand Acknowledgement\nPrograms\nEnchanted Forest\nJingle Bell Stage\nSanta Visits\nHabitat for Humanity Playhouse Build\nEvents\nDowntown Park Experience\nThe Park Tavern\nFAQs\nVisitor Info\nDisplays\nDirections & Parking\nGet Involved\nVolunteer With Us!\nVendor Information\nPartnering with Us\nSanta Volunteer Information\nSupport CITP\nJoin our Board\nGet Updates\nJobs\nSwag Shop\nSanta's Swag Shop",
+  "error": "",
+  "photos": []
+ },
+ "caltrain-holiday-train": {
+  "url": "https://www.caltrain.com/holidaytrain",
+  "final_url": "https://www.caltrain.com/holidaytrain",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Holiday Train | Caltrain",
+  "og_image": "https://www.caltrain.com/files/images/2026-11/CT_HolidayTrain2026_Webtile_510x510.png",
+  "image_candidates": [
+   "https://www.caltrain.com/media/36056",
+   "https://www.caltrain.com/media/38065",
+   "https://www.caltrain.com/media/37942",
+   "https://www.caltrain.com/media/37946",
+   "https://www.caltrain.com/media/37944"
+  ],
+  "signals": {
+   "sold_out": [
+    ": 3-4:30 San Mateo : 4-7:30 Palo Alto : 4:30-7 San Jose Diridon : 5-6:30 Tickets are all sold out, thanks for your support of the Holiday Train! Ticketed passengers can board the Northbo"
+   ],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [
+   "Saturday, December 5",
+   "December 5",
+   "Sunday, December 13",
+   "Dec. 5"
+  ],
+  "text": "Holiday Train 2026\nThe Holiday Train is coming to town Saturday, December 5!\nThe \nHoliday Train is back\n with an \non-board celebration\n that brings the spirit of the season to the rails, and we want you to join us! This year, the Holiday Train will run on Saturday, December 5 for all ticketed passengers. We’ll also have live entertainment, food and even a visit from Santa himself at San Francisco, San Mateo, Palo Alto and San Jose Diridon Stations so everyone can join the celebration as they use Caltrain.\nOn December 5,\n climb aboard for a festive ride to some of the Bay Area’s brightest holiday destinations, including:\nChristmas in the Park in San Jose\nTree Lighting Celebration in Millbrae\nSouth Bay Rail History Museum in Santa Clara\nSanta Mateo in San Mateo\nWinter Wonderland in San Mateo\nAnd lively downtowns along the Caltrain corridor\nWant to enjoy the decorations without the crowds? Our decorated train will continue to run as a regular service train through Sunday, December 13. This means you can arrive at other great Peninsula holiday destinations like \nHometown Holidays\n in Redwood City or the \nGerman Holiday Market\n in Mountain View.\nSchedules\n View the Southbound and Northbound schedules\nStation Activations\nSan Francisco, San Mateo, Palo Alto and San Jose Diridon Stations will all be celebrating the Holiday Train on December 5. Come to the station to enjoy music, food, entertainment and a chance to meet Santa Claus himself! Station Activations will run during the following times:\nSan Francisco\n: 3-4:30\nSan Mateo\n: 4-7:30\nPalo Alto\n: 4:30-7\nSan Jose Diridon\n: 5-6:30\nTickets are all sold out, thanks for your support of the Holiday Train!\nTicketed passengers can board the \nNorthbound\n or \nSouthbound\n Holiday Train at \nSan Francisco, San Mateo, Palo Alto\n or \nSan Jose Diridon\n stations, with opportunities to hop off at \nMillbrae Station and Santa Clara Station\n.\nEach passenger will receive a \ncommemorative Holiday Train ticket\n, which also provides a return trip on regular Caltrain service — the perfect way to make your holiday adventure shine even brighter.\nPurchase Northbound Tickets\nPurchase Southbound Tickets\nThe Return of the Toy Drive\nCaltrain is partnering with the Ronald McDonald House Bay Area to support its Comfort & Joy Holiday Drive. Please donate here, or bring an unwrapped new gift to San Francisco, San Mateo, Palo Alto or San Mateo Diridon Stations on Dec. 5.\nSponsors\nGet In Touch\nHave questions? We're here to help!\n 166 N Rollins Rd.\n Millbrae, CA 94030\n (650) 508-6200\n Office Information\n (800) 660-4287\n Customer Service\n AbunieM@samtrans.com\n or\n LiebermanD@samtrans.com\n www.caltrain.com\nFollow Us\nThe URL of this page automatically updates to allow you to share your map center, zoom, and other state. Click the URL below to copy a link to this page without any of this information, which may be personally identifying.\nhttps://www.caltrain.com/holidaytrain",
+  "error": "",
+  "photos": []
+ },
+ "pa-holiday-roundup": {
+  "url": "https://www.paloalto.gov/News-Articles/City-Manager/Holiday-Events-December-Festivities",
+  "final_url": "https://www.paloalto.gov/News-Articles/City-Manager/Holiday-Events-December-Festivities",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Holiday Events & December Festivities",
+  "og_image": "https://www.paloalto.gov/files/assets/public/v/1/city-manager/communications-office/news-articles/2025/sept-3-12.png?w=1200",
+  "image_candidates": [
+   "https://www.paloalto.gov/files/assets/public/v/1/city-manager/communications-office/news-articles/2025/sept-3-12.png?dimension=pageimage&w=480",
+   "https://www.paloalto.gov/files/assets/public/v/1/police-department/animal-services/pet-supply-drive-2026.jpg?dimension=smallthumbnail&w=150&h=100"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [
+   "December 01, 2025",
+   "Nov\n20"
+  ],
+  "text": "Home\n/\nHoliday Events & December Festivities\nHoliday Events & December Festivities\nPublished on December 01, 2025\n Celebrate the spirit of the season this December in Palo Alto! From the joyful Santa Dance Party to the illuminating Holiday Tree Lighting at Lytton Plaza & Cal Ave, there's many ways to capture the magic of the holidays this month. Whether you're seeking family-friendly activities, cultural celebrations, or festive musical performances, there's something for everyone to enjoy. Join us in bringing our community together in joy and celebration.\nMeowy Howlidays Pet Supply Drive\n27\nNov\n2026\n Ho Ho Ho Meeeeowy Howlidays everyone! Once again, it’s time for Palo Alto Animal Control’s Pet Supply Drive! 🎁🐾\nTagged as: \n, \nActivities & Classes \n, \nCommunity Events\nTagged as:\nEvents & Activities\nNews Releases\nBack to top",
+  "error": "",
+  "photos": []
+ },
+ "mp-winter-enrollment": {
+  "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Activity-guide",
+  "final_url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Activity-guide",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Activity guide",
+  "og_image": "https://www.menlopark.gov/files/sharedassets/public/v/1/library-and-community-services/images/events/20240518-bhcc-grand-opening/bhcc-grand-opening-15.jpg?w=1200",
+  "image_candidates": [
+   "https://www.menlopark.gov/files/sharedassets/public/v/1/library-and-community-services/images/events/20240518-bhcc-grand-opening/bhcc-grand-opening-15.jpg?dimension=pageimage&w=480"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [
+   "Thursday, Nov. 26",
+   "Friday, Nov. 27",
+   "Saturday, Dec. 5",
+   "Wednesday, Dec. 9",
+   "Thursday, Dec. 3",
+   "Dec. 3",
+   "Dec. 5",
+   "Dec. 9"
+  ],
+  "text": "Home\n/\nGovernment\n/\n Departments\n/\n Library and Community Services\n/\nActivity guide\nActivity guide\nLearning is a lifelong adventure! The City of Menlo Park hosts a wide range of high-quality recreational classes. Fitness, dance, sports, gymnastics, music, drama, arts, crafts, cooking, and much more. Whether you're a curious newcomer or a seasoned student, there's probably something to pique your interest.\n Aquatics Survey: \nShare your thoughts on the City's aquatics programs and facilities. \nPlease note the following changes as part of balancing the \nCity's budget for fiscal year 2026-27\n:\n- Credit and debit card processing fees are now passed directly to the cardholder.\n- Burgess Pool and Belle Haven Pool have \nnew hours\n.\n- Gymnastics class fees have increased as part of the \nCity's Fiscal Year \n2026-27 Master Fee Schedule\n.\n-\nWe transitioned to a new payment processor. Some previously saved payment methods may no longer work during online checkout. If you experience an issue, please select \"Add a New Card\" and enter your credit card information again. For security purposes, the billing address and ZIP code you enter must exactly match the information your credit card issuer has on file, or your payment may be declined.\nPlease note the following upcoming closures:\n- The City of Menlo Park's Library and Community Services facilities will be closed on Thursday, Nov. 26 - Friday, Nov. 27 for Thanksgiving. We will resume our regularly held business hours the following day. \nFall 2026 and Winter 2027 Classes and Camps\nThe Winter 2027 Activity Guide is now viewable and enrollment dates are announced:\n Enrollment opens at 9 a.m. on Saturday, Dec. 5, for Menlo Park residents and Wednesday, Dec. 9, for non-residents.  Hyperlocal enrollment for classes at Belle Haven Community Campus opens Thursday, Dec. 3.  For more information, view the activity guide enrollment dates table below.\nTo view \nonly\n classes located at Belle Haven Community Campus, \nclick here\n.\nAll\nYouth\nCamps\nAdult\nAdults 60+\nGymnastics\nAquatics\nAll\nEmbedding Example\nYouth\nEmbedding Example\nCamps\nEmbedding Example\nAdult\nEmbedding Example\nAdults 60+\nEmbedding Example\nGymnastics\nEmbedding Example\nAquatics\nMenlo Swim and the City of Menlo Park both use Xplor for our class registration systems. Remember to use the correct login and password for each account. Menlo Swim and the City of Menlo Park both value your privacy—we don’t share your login information with anyone, not even each other.\nPress left and right keys to move between tabs. Press down to focus tab content.\nIf the above listings are currently unavailable to view on this webpage, \nplease click here to view classes and facility rentals directly from our online registration system.\nActivity Guide enrollment dates\nSign up for our weekly Library and Community Services newsletter\n to be the first to hear about enrollment dates!\nPrevious column\nNext column\nActivity\nHyperlocal resident*\nMenlo Park resident\nNon-resident/ Unincorporated\n Fall 2026\n Now open\nNow open\n Now open\n Winter 2027\n Dec. 3 at 9 a.m.\n Dec. 5 at 9 a.m.\n Dec. 9 at 9 a.m.\nWhat is a hyperlocal resident*?\n Menlo Park residents or students who attend a K-12 school within \nthe service area of Belle Haven Community Campus\n (BHCC) are eligible for discounted enrollment fees at BHCC. Students who attend school in the BHCC service area\n but do not live in Menlo Park may submit a \nhyperlocal student information form\nto enroll at the hyperlocal resident rate.\nWhen does enrollment open?\n The City of Menlo Park has season-based recreation enrollment periods. Although specific dates vary each year, the anticipated enrollment months are shown in the table above. **Finalized dates will be announced as soon as available.\nRecreation scholarships\nTo reduce barriers posed by enrollment fees, the recreation scholarship policy provides discounted enrollment fees to qualifying low- and moderate-income residents. Please fill out an interest form if you think you qualify for a recreation scholarship. Click here to read the full \nRecreation Scholarship Policy.\n(PDF, 175KB)\nFill out the Recreation Scholarship Interest form\nContact us\nNeed help enrolling?\n No problem! City staff are available in person and by phone at libraries and recreation facilities to help.\nEmail: \nregistration@menlopark.gov\nArrillaga Family Recreation Center\n700 Alma St.\n650-330-2200\nArrillaga Family Gymnasium\n600 Alma St.\n650-330-2220\nArrillaga Family Gymnastics Center\n501 Laurel St.\n650-330-2224\nBelle Haven Community Campus\n100 Terminal Ave.\n650-330-2205\nBelle Haven Pool\nMenlo Swim & Sport\n100 Terminal Ave.\n650-781-5525\nBurgess Pool\nMenlo Swim & Sport\n501 Laurel St.\n650-781-5525\nRelated Information\nRecreation and sports\nEvents\nMenlo Park Senior Center\nAthletic fields\nParks\nShare\nFacebook\nX\nEmail\nPrint\nLinkedIn\nBack to top",
+  "error": "",
+  "photos": []
+ },
+ "hiller-winter-camp": {
+  "url": "https://www.hiller.org/aviation-camp/",
+  "final_url": "https://www.hiller.org/aviation-camp/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Aviation Camp Hiller Aviation Museum",
+  "og_image": "",
+  "image_candidates": [
+   "https://www.hiller.org/wp-content/uploads/300-stacked-rev-2.png",
+   "https://www.hiller.org/wp-content/uploads/300-stacked-rev-2.png",
+   "https://www.hiller.org/wp-content/uploads/IMG_6240W.jpeg",
+   "https://www.hiller.org/wp-content/uploads/Sim-Zone-yellow-shirts-scaled.jpeg",
+   "https://www.hiller.org/wp-content/uploads/5df8dbea-2d02-4e4a-8ac0-63c3db88db68_out-800x592.jpg"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [
+    "come available for any full camp session, invitations to enroll will be sent via email to waitlisted campers from support@actvityhero.com with the subject line “Waitlist Status: Spot Avail",
+    "sent via email to waitlisted campers from support@actvityhero.com with the subject line “Waitlist Status: Spot Available at Aviation Camp”. These invitations are sent in the order that ca",
+    "s cannot be made into full camp sessions. For full sessions, campers will be added to the waitlist at the latest position. To request a cancellation or change, please email camp@hiller.or",
+    "ate. Want to change but the session you are interested in is full? Add your child to the waitlist. In the meantime, you can either: Cancel the current registration for a refund (minus app"
+   ],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [
+    "or an unforgettable journey into the skies! Register Online 2027 Summer Camps Summer Camp Registration opens January 1, 2027 School Year Camps Elementary (K-5) REGISTER NOW! Registration is open for",
+    "remain with their same teammates and instructional staff for the entirety of the session. COMING SOON! Registration opens January 1, 2027 for camps running January through August 2027. Januar",
+    "heir same teammates and instructional staff for the entirety of the session. COMING SOON! Registration opens January 1, 2027 for camps running January through August 2027. January 15, 2027 Aviation"
+   ],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$25"
+  ],
+  "dates": [
+   "January 1, 2027",
+   "December 20",
+   "November 27, 2026",
+   "December 17, 2026",
+   "December 18, 2026",
+   "December 21-23, 2026",
+   "December 28-30, 2026",
+   "August 20",
+   "January 15, 2027",
+   "January 18, 2027",
+   "February 15-19, 2027",
+   "February 22, 2027",
+   "March 11, 2027",
+   "March 12, 2027",
+   "March 15, 2027"
+  ],
+  "text": "Shop\n | \nDonate\n | \nContact\nU\nU\nFollow\nFollow\nFollow\nFollow\nVisit\nGeneral Information\nCalendar\nShopping\nBuy Tickets\nVisitors Guide\nVirtual Tour\nMuseum\nAircraft on Display\nCollection\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nEducation\nAviation Camp\nField Trips\nFlight Scholarship\nGirl Scouts\nGroup Visits\nScouting America\nEducator Resources\nHiller At Home\nAviation Camp\nAviation Camp Main Page\nSummer Camps\n Elementary \n(Grades K-5) \nAir & Space\n Middle School \n(Grades 5-7) \nSpaceflight Tech\nSchool Year Camps \n1-Day Camps\nFall Break (October)\nWinter Break (December)\nSki Week (February)\nSpring Break (March/April)\nCamp Details\nCamp Calendar & Availability\nPrices & Cancellation Policy\nA Day in Camp\nRegistration\nCamp FAQs\nCamp Registration\nPrivate Events\nPackages & Pricing\nMuseum Venue Options\nPreferred Vendors\nEnhancements & Add-ons\nBirthday Parties\nJoin & Support\nBecome a Member\nDonate Online\nMatching Gifts\nDonate Vehicle\nDonate Artifacts\nBusiness Circle\nCorporate Giving\nLegacy and Planned Giving\nFlight 650\nSpecial Events\nVolunteer\nCalendar\nb\n Buy Tickets\nVisit\nGeneral Information\nCalendar\nShopping\nBuy Tickets\nVisitors Guide\nVirtual Tour\nMuseum\nAircraft on Display\nCollection\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nEducation\nAviation Camp\nField Trips\nFlight Scholarship\nGirl Scouts\nGroup Visits\nScouting America\nEducator Resources\nHiller At Home\nAviation Camp\nAviation Camp Main Page\nSummer Camps\n Elementary \n(Grades K-5) \nAir & Space\n Middle School \n(Grades 5-7) \nSpaceflight Tech\nSchool Year Camps \n1-Day Camps\nFall Break (October)\nWinter Break (December)\nSki Week (February)\nSpring Break (March/April)\nCamp Details\nCamp Calendar & Availability\nPrices & Cancellation Policy\nA Day in Camp\nRegistration\nCamp FAQs\nCamp Registration\nPrivate Events\nPackages & Pricing\nMuseum Venue Options\nPreferred Vendors\nEnhancements & Add-ons\nBirthday Parties\nJoin & Support\nBecome a Member\nDonate Online\nMatching Gifts\nDonate Vehicle\nDonate Artifacts\nBusiness Circle\nCorporate Giving\nLegacy and Planned Giving\nFlight 650\nSpecial Events\nVolunteer\nCalendar\nb\n Buy Tickets\nVisit\nGeneral Information\nCalendar\nShopping\nBuy Tickets\nVisitors Guide\nVirtual Tour\nMuseum\nAircraft on Display\nCollection\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nEducation\nAviation Camp\nField Trips\nFlight Scholarship\nGirl Scouts\nGroup Visits\nScouting America\nEducator Resources\nHiller At Home\nAviation Camp\nAviation Camp Main Page\nSummer Camps\n Elementary \n(Grades K-5) \nAir & Space\n Middle School \n(Grades 5-7) \nSpaceflight Tech\nSchool Year Camps \n1-Day Camps\nFall Break (October)\nWinter Break (December)\nSki Week (February)\nSpring Break (March/April)\nCamp Details\nCamp Calendar & Availability\nPrices & Cancellation Policy\nA Day in Camp\nRegistration\nCamp FAQs\nCamp Registration\nPrivate Events\nPackages & Pricing\nMuseum Venue Options\nPreferred Vendors\nEnhancements & Add-ons\nBirthday Parties\nJoin & Support\nBecome a Member\nDonate Online\nMatching Gifts\nDonate Vehicle\nDonate Artifacts\nBusiness Circle\nCorporate Giving\nLegacy and Planned Giving\nFlight 650\nSpecial Events\nVolunteer\nCalendar\nSF Bay Area Summer Camps\nInspiration takes flight\nat our Bay Area Aviation Camp!\nKids explore the wonder of flight at the Hiller Aviation Museum’s Day Camp!\nWelcome to the Hiller Aviation Camp\n, a fun-filled week-long day camp program dedicated to aviation and aerospace adventure for children aged 5-12. Our camp offers a unique experience where young aviation enthusiasts can immerse themselves in the exciting world of flight. We also welcome teenagers aged 13-17 to join us as Aviation Camp Teen Volunteers, gaining valuable knowledge and skills while contributing to the camp’s success. Come and join us for an unforgettable journey into the skies!\nRegister Online\n2027 Summer Camps\nSummer Camp Registration opens January 1, 2027\nSchool Year Camps\nElementary (K-5)\nREGISTER NOW!\nRegistration is open for Camps running between September and December 2026.\nNovember 27, 2026\nAviation Adventures\nDecember 17, 2026\nAviation Adventures\nDecember 18, 2026\nAviation Adventures\nDecember 21-23, 2026\nSTEM Explorers\nDecember 28-30, 2026\nGot Bots?\nJanuary 1, 2027\nAviation Adventures\nRegister Online\nMixed Age Grouping\nPlease note that, while we always strive to group campers by age, school year camps & programs tend to see more mixed age groupings. We divide all enrolled K-5 enrolled students by age evenly across the number of groups we have based on enrollment and staffing. Typically, school year camps have between one and two groups. School year sessions tend to skew towards majority lower elementary enrollment. Students remain with their same teammates and instructional staff for the entirety of the session.\nCOMING SOON!\nRegistration opens January 1, 2027 for camps running January through August 2027.\nJanuary 15, 2027\nAviation Adventures\nJanuary 18, 2027\nAviation Adventures\nFebruary 15-19, 2027\nTBD\nFebruary 22, 2027\nAviation Adventures\nMarch 11, 2027\nAviation Adventures\nMarch 12, 2027\nAviation Adventures\nMarch 15, 2027\nAviation Adventures\nMarch 16, 2027\nAviation Adventures\nMarch 26, 2027\nAviation Adventures\nMarch 29 - April 2, 2027\nTBD\nApril 5-9, 2027\nTBD\nApril 12-16, 2027\nTBD\nApril 19-23, 2027\nTBD\nApril 26-30, 2027\nTBD\nMay 28, 2027\nAviation Adventures\nMay 31, 2027\nAviation Adventures\nAll Aviation Camps Include\nHands-On Activities\nFlight Simulation\nAircraft Demos\nBehind-the-Scenes\nFun Games\nAnd More!\nAviation Camp FAQs\nWhat if the camp I am interested in is full?\nAviation Camp is a popular program and many sessions have already filled up. Parents are encouraged to use the online enrollment system to join the waiting list for the session that they are interested in as early as possible. There is no charge to join a waiting list, and credit card information is not required.\nMost Aviation Camp sessions which fill early will eventually have new spaces available, sometimes due to changes and cancellations for individual campers who enrolled earlier, and other times due to increases in camp capacity that make many new spaces available at once. Camper changes may occur at any time up until the camp start date.\nWhenever a space or spaces become available for any full camp session, invitations to enroll will be sent via email to waitlisted campers from support@actvityhero.com with the subject line “Waitlist Status: Spot Available at Aviation Camp”. These invitations are sent in the order that campers joined the waiting list. Each invitation will include a special link to facilitate online registration into the full session, and an expiration date and time through which the link is valid. In most cases invitations are valid until 9 AM the next day, after which the invitation will expire and a new invitation will be sent to the next camper on the waiting list. Parents who receive an invitation to enroll from a waiting list should enroll before the expiration date/time to secure their spot.\nPlease note that Hiller Aviation Museum Members do not receive preferential placement on Aviation Camp waiting lists, but may enroll at the discounted Member price if a space becomes available.\nUnfortunately, we are unable to predict the likelihood of space opening in any particular Aviation Camp session. Thank you for your patience – and for your interest in the Aviation Camp program.\nCan I change camp sessions?\nSchedule changes/transfers will be accommodated on a \nspace-available basis\n when requested at least twenty-one days before the camp start date. Changes are subject to a $25 processing fee. Changes cannot be made into full camp sessions. For full sessions, campers will be added to the waitlist at the latest position.\nTo request a cancellation or change, please email \ncamp@hiller.org\n with your child’s full name, and enrolled camp topic and date. \nWant to change but the session you are interested in is full?\nAdd your child to the waitlist.\nIn the meantime, you can either:\nCancel the current registration for a refund (minus applicable processing fees). \nWait to get a waitlist invitation and then email camp@hiller.org for a transfer. Registrant will be responsible for any balance due. If a refund is owed, it will be refunded minus a $25 processing fee.\nPlease remember that you have up to twenty-one days before the camp starts to request a refund minus the processing fee. No refunds are issued within twenty-one days of camp start date.\nHiller Aviation Camps\nGet your kids inspired at our day camps.\nCamp Registration\n“\nOur children always learn a lot and love Hiller camps. We recommend it to all our friends.\n“\nCamp Parent\n7/9/2021\n“\nOur son Loved the variety of take-home planes/ parachutes to show us and continue reinforcing what he learned”.\nCamp Parent\n7/8/2021\n“\nMy son had a wonderful time and was excited to show us everything he made\n“\n.\nCamp Parent\n10/15/2021\n“\nBoth of my kids LOVED Aviation Camp this summer. Of course, they loved using the flight simulators\n“\n.\nCamp Parent\n8/9/2021\n“\nParth and Nikhil are awesome. They created many projects with the kids together. Volunteer Elizabeth was also very helpfu\nl”\n.\nCamp Parent\n8/2/2021\n“\nI am impressed with the daily “ask me about today” email so we can guide the conversation with the child(ren) as well as knowing what they do all day”.\nCamp Parent\n7/14/2021\n“\nMy son talked about what he was able to do during the camp every time he arrived home\n“\n.\nCamp Parent\n7/9/2021\n“\nI thought it seemed expensive but after seeing what you get and what these kids learn it really is a great value. Thank you”.\nCamp Parent\n7/8/2021\n“\nI was worried it may be too advanced for 6 year old but it was great. He really talked a lot about this and he said sometimes there were words he did not know but it was well enough for him to be able to follow and more important learn something new”.\nCamp Parent\n7/8/2021\n“\nThough I don’t have a full understanding of the camp experience, I do know that my son thoroughly enjoyed his time at camp, came home with a lot of new STEM knowledge, and was so excited by the hands-on projects and take-home activities. All in all, this is the highest quality camp experience we’ve had in the Peninsula area. Keep it up! We’ll most certainly be coming back and will recommend it highly to other families in the area\n“\n!\nCamp Parent\n7/9/2021\n“\nI have left comments in other areas of this survey. I also wanted to let you know that I appreciate that you had outside time and the campers played games, etc. and it was not all sitting indoors. Thanks for including that balance\n“\n!\nCamp Parent\n8/9/2021\nFollow\nFollow\nFollow\nFollow\nHours\nOpen 10 am – 5:00 pm\n7 days a week*\nPlan a Visit\nGeneral Info\nCalendar of Events\nThings to Do\nShopping\nWeather\nMuseum\nAircraft on Display\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nShop\nEducation\nSchool Programs\nAviation Camp\nScouts BSA\nGirl Scouts\nGroup Visits\nEducation Resources\nJoin\nMembership\nDonate\nMatching Gifts\nSpecial Events\nVolunteer\nRental\nPackages & Pricing\nVenue Options\nPreferred Vendors\nEnhancements\nBirthday Parties\nAbout\nAbout Us\nStaff\nBoard of Directors\nJobs\nPress\nContact\nContact Us\n601 Skyway Rd. \nSan Carlos, CA 94070\nDirections\n(650) 654-0200\n*Closed Easter Sunday, Thanksgiving Day, and Christmas Day.\nCopyright © 2026 \nHiller Aviation Museum.\nPrivacy and Terms of Use\n×\nSearch for:\nManage Consent\nTo provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.\nFunctional\nFunctional\n Always active \nThe technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.\nPreferences\nPreferences\nThe technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.\nStatistics\nStatistics\nThe technical storage or access that is used exclusively for statistical purposes.\nThe technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.\nMarketing\nMarketing\nThe technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.\nManage options\nManage services\nManage {vendor_count} vendors\nRead more about these purposes\nAccept\nDeny\nView preferences\nSave preferences\nView preferences\n{title}\n{title}\n{title}\nManage consent\nVisit\nGeneral Information\nCalendar\nShopping\nBuy Tickets\nVisitors Guide\nVirtual Tour\nMuseum\nAircraft on Display\nCollection\nExhibits\nThings to Do\nLibrary\nSpecial Programs\nHistory & Mission\nEducation\nAviation Camp\nField Trips\nFlight Scholarship\nGirl Scouts\nGroup Visits\nScouting America\nEducator Resources\nHiller At Home\nAviation Camp\nCamps\nCamp Calendar\nRegistration\nPrices & Cancellation Policy\nA Day in Camp\nCamp FAQs\nPrivate Events\nPackages & Pricing\nMuseum Venue Options\nPreferred Vendors\nEnhancements & Add-ons\nBirthday Parties\nJoin & Support\nBecome a Member\nDonate Online\nMatching Gifts\nDonate Vehicle\nDonate Artifacts\nBusiness Circle\nCorporate Giving\nLegacy and Planned Giving\nSpecial Events\nVolunteer\nCalendar\nSearch",
+  "error": "",
+  "photos": []
+ },
+ "curiodyssey-winter-camp": {
+  "url": "https://curiodyssey.org/learn-explore/school-breaks/winter-break-camps/",
+  "final_url": "https://curiodyssey.org/learn-explore/school-breaks/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "School Break Programs - CuriOdyssey",
+  "og_image": "",
+  "image_candidates": [
+   "https://curiodyssey.org/wp-content/uploads/2025/10/Contact-Email.png",
+   "https://curiodyssey.org/wp-content/uploads/2025/10/Contact-Phone.png",
+   "https://curiodyssey.org/wp-content/uploads/2025/09/Social-Facebook-Small.png",
+   "https://curiodyssey.org/wp-content/uploads/2025/09/Social-Instagram-Small.png",
+   "https://curiodyssey.org/wp-content/uploads/2025/09/Social-Linkedin-Small.png"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": [
+    "26 Join us for fun science programs while your kids are out of school! Full-day camps for ages 6-10 years old. Campers will explore and experiment with Bioluminescence, Phosphorescence, R",
+    "iant to celebrate the 10th year of IlluminOdyssey! Camp Descriptions Full-day camps for ages 6-10 years old. Campers will explore and experiment with Bioluminescence, Phosphorescence, R"
+   ]
+  },
+  "prices": [
+   "$ 180.00",
+   "$ 200.00",
+   "$25"
+  ],
+  "dates": [
+   "Thursday, November 26",
+   "Dec \n 4",
+   "Dec \n 13",
+   "Sunday \n Dec \n 13"
+  ],
+  "text": "Skip to content\nCuriOdyssey is closed on \nThursday, November 26, \nfor Thanksgiving.\nMenu\nHome\nVisit\nHours & Admission\nPlan Your Visit\nPolicies and FAQ\nCode of Conduct\nVisitor Maps\nAnimal Policy\nAccessibility and Inclusion at CuriOdyssey\nSelf-Guided Groups\nDirections\nMuseums For All\nBook an Event\nBirthday Parties\nCorporate Events\nWeddings\nAnimals\nOur Animals\nSponsor an Animal\nAnimal Exhibits\nAnimal Care\nAnimal Presentations\nAnimal Videos\nExhibits & Events\nEvents Calendar\nIlluminOdyssey 10\nFirst Friday Nights\nAlebrijes Adventure\nFall Into Science\nNature Story Loop\nDaily Animal Presentations\nSensory Sundays\nViewPoint at the Bay Gallery\nWhooosh! Physics-in-Action Playground\nLearn & Explore\nSummer Camp\nCamp Sessions and Registration\nCamp Scholarship Information\nCamp Inclusion and Accessibility\nCamp Information, Policies & Procedures\nScholarships\nCamps & Classes\nHomeschools\nSchool Break Programs\nSchools & Groups\nScience Workshops\nGirl Scout Programs\nCub Scout Programs\nSelf-Guided Groups\nRegistration & FAQ\nAt Home Science\nScience Experiments for Kids\nScience in Action\nAnimals in Action\nAnimal Cam\nSTEM at CuriOdyssey\nConservation at CuriOdyssey\nOur Conservation Approach\nConservation Partnership Grants Program\nAbout Us\nMission and Values\nPublications\nFinancial Documents\nBoard of Directors\nStaff\nLeadership Staff\nEducator Bios\nGreen Business Practices\nRequest a Donation\nContact Us\nBlog\nVolunteer\nJobs\nMembership\nMembership Policies & FAQs\nReciprocal Program\nMembership For All\nMember Morning\nDonate\nGiving to CuriOdyssey\nSponsor an Animal\nLeadership Giving\nMatching Gifts\nCorporate Engagement\nFoundation and Government Support\nPlanned Giving\nTickets\nHome\nTickets\nVisit\nHours & Admission\nPlan Your Visit\nPolicies and FAQ\nCode of Conduct\nVisitor Maps\nAnimal Policy\nAccessibility and Inclusion at CuriOdyssey\nSelf-Guided Field Trips\nDirections\nMuseums For All\nBook an Event\nAnimals\nOur Animals\nSponsor an Animal\nAnimal Exhibits\nAnimal Care\nAnimal Presentations\nAnimal Videos\nExhibits & Events\nEvents Calendar\nIlluminOdyssey 10\nFirst Friday Nights\nFall Into Science\nAlebrijes Adventure\nNature Story Loop\nDaily Animal Presentations\nSensory Sundays\nViewPoint in the Bay Gallery\nWhooosh! Physics-in-Action Playground\nLearn & Explore\nSummer Camp\nCamp Sessions and Registration\nCamp Scholarship Information\nCamp Inclusion and Accessibility\nCamp Information, Policies & Procedures\nScholarships\nCamps & Classes\nHomeschools\nSchools & Groups\nScience Workshops\nSelf-Guided Field Trips\nAt Home Science\nScience Experiments for Kids\nScience in Action\nAnimals in Action\nAnimal Cam\nSTEM at CuriOdyssey\nConservation at CuriOdyssey\nOur Conservation Approach\nConservation Partnership Grants Program\nMembership\nPolicies and FAQs\nReciprocal Program\nMember Morning\nMuseums For All\nDonate\nSponsor an Animal\nLeadership Giving\nMatching Gifts\nCorporate Engagement\nFoundation and Government Support\nPlanned Giving\nBook an Event\nBirthday Parties\nCorporate Events\nWeddings\nAbout Us\nMission and Values\nPublications\nNews & Media\nNews & Media\nFinancial Documents\nBoard of Directors\nGreen Business Practices\nRequest a Donation\nContact Us\nBlog\nStaff\nLeadership Staff\nEducator Bios\nJobs\nVolunteer\nOpen every day for general admission 10 AM–5 PM.\nThe last entry is at 4:30 PM.\nUpcoming special hours\n Dec \n 4 \n Featured\n4:30 PM\n - \n8:00 PM\n First Friday Nights \n Dec \n 13 \n9:30 AM\n - \n12:30 PM\n Early Closure at 12:30 PM for Sensory Sunday \n Dec \n 13 \n10:00 AM\n - \n1:00 PM\n Early Closure at 12:30 PM for Sensory Sunday \n View Calendar \nSchool Break Programs\nWinter Camp 2026\nJoin us for fun science programs while your kids are out of school!\nFull-day camps for ages 6-10 years old.   Campers will explore and experiment with Bioluminescence, Phosphorescence, Reflection, and all things radiant to celebrate the 10th year of IlluminOdyssey!\n Camp Descriptions \nFull-day camps for ages 6-10 years old.   Campers will explore and experiment with Bioluminescence, Phosphorescence, Reflection, and all things radiant to celebrate the 10th year of IlluminOdyssey!\nGlowing Galaxy\nGaze into the stars, exploring space, creating constellations, and making moonlight. Campers will experiment with all things radiant to celebrate IlluminOdyssey's 10th year!\nLuminous Life\nAdaptations abound with bioluminescent biology, incandescent insects, and echolocation. Campers will explore light through plants and animals to celebrate the 10th year of IlluminOdyssey!\nCreate and Illuminate\nMake it glow! Design dazzling 3D artworks, wire up brilliant circuitry, and fabricate with phosphorescence. Celebrate the 10th year of IlluminOdyssey!\nRegister Now!\nCamp Dates and Fees\nDates:\nGlowing Galaxy:\n Monday 12/21 or 12/28\nLuminous Life:\n Tuesday 12/22 or 12/29\nCreate and Illuminate:\n Wednesday 12/23 or 12/30\nSchedule:\nDrop-off Window: 8:30 AM – 9:00 AM\nCamp: 9:00 AM – 4:00 PM\nPick-up Window: 4:00 PM – 4:15 PM\nFull-day camps only\nAges: \n6 - 10 years old\nFees:\nMember\n $ 180.00 Single Day\nNon-Member\n $ 200.00 Single Day\nWinter Camp Social Story\nFor Information regarding winter camp scholarship applications, please see our \nscholarship page\n.\nCancellations/Refunds:\nWe will provide a full refund within 24 hours of registration.\nCancellations more than 21 days prior to the start of your program will result in a 50% refund of your program fees.\nCancellations less than 21 days from the start of your program are not eligible for refunds.\nA full refund will be given if CuriOdyssey cancels your program.\nCuriOdyssey cannot provide partial refunds for missed classes and cannot offer a prorated price for partially attended sessions.\nMemberships are non-refundable.\nTransferring Sessions:\nIf you need to transfer sessions, contact the Education Team at education@curiodyssey.org.\nA $25 transfer fee will be collected per session transfer.\nJoin the CuriOdyssey Community\nEnter your email:\nEmail here\nCuriOdyssey on Facebook\nCuriOdyssey on Instagram\nCuriOdyssey on YouTube\nContact Us\nHistory\nJobs\nMission, Values & Equity Statement\nNews & Media\nPrivacy Policy\nSite Map\nLOCATION\n1651 Coyote Point Drive\nSan Mateo, CA 94401\nOhlone Land Acknowledgement\n650-342-7755\ninfo@curiodyssey.org\nCuriOdyssey is a 501(c)(3) non-profit, Tax ID 94-1262434\nScroll To Top",
+  "error": "",
+  "photos": []
+ },
+ "mp-photos-with-santa": {
+  "url": "https://www.menlopark.gov/Citywide-calendar/Community-events/20261212-Photos-with-Santa",
+  "final_url": "https://www.menlopark.gov/Citywide-calendar/Community-events/20261212-Photos-with-Santa",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "Photos with Santa",
+  "og_image": "https://www.menlopark.gov/files/sharedassets/public/v/1/calendar/images/young-girl-whispers-into-santa-ear2.jpg?w=1200",
+  "image_candidates": [
+   "https://www.menlopark.gov/files/sharedassets/public/v/1/calendar/images/young-girl-whispers-into-santa-ear2.jpg?dimension=pageimagefullwidth&w=1140",
+   "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2631!3i6351!4i256!2m3!1e0!2sm!3i805571634!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=66364",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6350!4i256!2m3!1e0!2sm!3i805571634!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=76326",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6351!4i256!2m3!1e0!2sm!3i805571598!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=74609"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$5"
+  ],
+  "dates": [
+   "Saturday, December 12, 2026"
+  ],
+  "text": "Home\n/\nCitywide calendar\n/\nPhotos with Santa\nPhotos with Santa\nNext date: Saturday, December 12, 2026 | 08:30 AM \n to 12:30 PM\nBring your camera and join us at the Arrillaga Family Recreation Center \nfor a morning full \nof holiday cheer!\nClick here to register.\nJoin us for\nLight refreshments\nHoliday crafts\nPhotos with Santa\nWhen\n Saturday, December 12, 2026 | 08:30 AM \n - 12:30 PM\nLocation\nArrillaga Family Recreation Center, 700 Alma Street, Menlo Park, CA, 94025, \nView map\nSkip to below map\n 37.4532314,-122.1782876\n 700 Alma Street ,\n Menlo Park, CA 94025\nArrillaga Family Recreation Center\n 700 Alma Street ,\n Menlo Park, CA 94025\n Photos with Santa\nGoogle Map instructions\nPress arrow keys to pan\nPress plus or minus keys to zoom\nShortcut keys\nPress M for roadmap view\nPress S for satellite view\nPress H for hybrid view\nPress T for terrain view\n←\nMove left\n→\nMove right\n↑\nMove up\n↓\nMove down\n+\nZoom in\n-\nZoom out\nHome\nJump left by 75%\nEnd\nJump right by 75%\nPage Up\nJump up by 75%\nPage Down\nJump down by 75%\nKeyboard shortcuts\nMap Data\nMap data ©2026 Google\nMap data ©2026 Google\n500 m \nClick to toggle between metric and imperial units\nTerms\nReport a map error\nSkip to above map\nAdd to calendar\nFields marked as 'Required' must be completed\nEmail\n*\n(Required)\nEnter your email address or your friend's email addresses all separated by commas.\nEnter emails\nMore details\n Cost\n$5 per person\n Contact us\nKhalid Awadalla\nRecreation Coordinator\nEmail\n650-330-2226\n Registration\nRegister here\nTagged as:\nCommunity events\nEvents for families\nEvents for children\nShare\nFacebook\nX\nEmail\nPrint\nLinkedIn\nBack to top",
+  "error": "",
+  "photos": []
+ },
+ "mp-puppet-company": {
+  "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Events-for-children/20261213-Puppet-Company",
+  "final_url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Events-for-children/20261213-Puppet-Company",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:blocked:403",
+   "browser:ok:200"
+  ],
+  "http": 200,
+  "title": "The Puppet Company: Rabbit & Coyote Are Friends(?)",
+  "og_image": "https://www.menlopark.gov/files/sharedassets/public/v/1/library-and-community-services/images/events/2026_12_13-puppet-company-rabbit-and-coyote-1600-x-900.jpg?w=1200",
+  "image_candidates": [
+   "https://www.menlopark.gov/files/sharedassets/public/v/1/library-and-community-services/images/events/2026_12_13-puppet-company-rabbit-and-coyote-1600-x-900.jpg?dimension=pageimagefullwidth&w=1140",
+   "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2632!3i6350!4i256!2m3!1e0!2sm!3i805571634!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=76326",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2631!3i6350!4i256!2m3!1e0!2sm!3i805571634!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=18884",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i2630!3i6350!4i256!2m3!1e0!2sm!3i805571634!3m13!2sen-US!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyADLMIJDbHBP8BF11Ml_vI7wNUzGDpW7lE&token=92513"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "free"
+  ],
+  "dates": [
+   "Sunday, December 13, 2026"
+  ],
+  "text": "Home\n/\nGovernment\n/\n Departments\n/\n Library and Community Services\n/\n Events\n/\nThe Puppet Company: Rabbit & Coyote Are Friends(?)\nThe Puppet Company: Rabbit & Coyote Are Friends(?)\nNext date: Sunday, December 13, 2026 | 11:00 AM \n to 11:45 AM\nWhy do Coyotes howl? Why can Rabbit be seen on the moon?\nAnd why is that cactus doing the Chicken Dance?\nThe Puppet Company returns to Belle Haven Library with their version of the classic Mexican folktale, in a colorful production full of fun, trickery, and an upbeat soundtrack featuring the music of Herb Alpert and the Tijuana Brass.\nAbout The Puppet Company\nThe Puppet Company\n performs at libraries and festivals around California. When not on the road, their productions can be found at Children's Fairyland in Oakland, where Puppet Company founder Randal J. Metz is the Director of the park’s Storybook Puppet Theater, the longest-running children's puppet theater in the United States. Metz is the author of several books, including \nEnchanted Strings: Bob Baker Marionette Theater\n, A Century of California Puppetry: How the West was Strung, and \nChildren's Fairyland (Images of America series)\n.\nThis free program series received funding support from the \nFriends of the Menlo Park Library\n.\nWhen\n Sunday, December 13, 2026 | 11:00 AM \n - 11:45 AM\nLocation\nBelle Haven Library, 100 Terminal Ave., Menlo Park, CA, 94025, \nView map\nSkip to below map\n 37.4789018,-122.168162\n 100 Terminal Ave. ,\n Menlo Park, CA 94025\nBelle Haven Library\n 100 Terminal Ave. ,\n Menlo Park, CA 94025\n The Puppet Company: Rabbit & Coyote Are Friends(?)\nGoogle Map instructions\nPress arrow keys to pan\nPress plus or minus keys to zoom\nShortcut keys\nPress M for roadmap view\nPress S for satellite view\nPress H for hybrid view\nPress T for terrain view\n←\nMove left\n→\nMove right\n↑\nMove up\n↓\nMove down\n+\nZoom in\n-\nZoom out\nHome\nJump left by 75%\nEnd\nJump right by 75%\nPage Up\nJump up by 75%\nPage Down\nJump down by 75%\nKeyboard shortcuts\nMap Data\nMap data ©2026 Google\nMap data ©2026 Google\n500 m \nClick to toggle between metric and imperial units\nTerms\nReport a map error\nSkip to above map\nAdd to calendar\nFields marked as 'Required' must be completed\nEmail\n*\n(Required)\nEnter your email address or your friend's email addresses all separated by commas.\nEnter emails\nMore details\n Cost\nFree\nContact\nBelle Haven Library\n650-330-2540\n Contact us\nJohn Weaver\nSenior Program Assistant\nEmail\n650-304-5624\nTagged as:\nEvents for families\nEvents for children\nShare\nFacebook\nX\nEmail\nPrint\nLinkedIn\nBack to top",
+  "error": "",
+  "photos": []
+ },
+ "ofjcc-maccabeats": {
+  "url": "https://paloaltojcc.org/event-detail/es_2316459/",
+  "final_url": "https://paloaltojcc.org/event-detail/es_2316459/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "The Maccabeats Evening Show | Oshman Family JCC",
+  "og_image": "https://uploads.tickettailorassets.com/v1/production/userfiles/wdi758fxoi1io9mowili.jpg?_a=BAAAEvDQ",
+  "image_candidates": [
+   "https://uploads.tickettailorassets.com/v1/production/userfiles/wdi758fxoi1io9mowili.jpg?_a=BAAAEvDQ",
+   "https://uploads.tickettailorassets.com/c_limit,w_630/v1/production/userfiles/event_description_image_199464_1784748567_9c477.jpg?_a=BAAHWXDQ"
+  ],
+  "signals": {
+   "sold_out": [
+    "n't want to miss. There are two performances on this day: Afternoon Show: 4:00–5:00 PM | SOLD OUT Evening Show: 6:30–7:30 PM | Purchase tickets on this page About The Maccabeats Since the",
+    "dition while embracing the music and culture that connect people across generations. From sold-out performances at JCCs, synagogues, theaters, festivals and universities across the globe t"
+   ],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$35.00"
+  ],
+  "dates": [
+   "Sunday, December 13, 2026"
+  ],
+  "text": "EVENT > The Maccabeats Evening Show \nCommunity\n The Maccabeats Evening Show \nThe Maccabeats return to the OFJCC!\nJoin waiting list\nFrom $35.00 \nThe Maccabeats Evening Show\n DATE\n Sunday, December 13, 2026 \n Time\n 6:30 PM - 7:30 PM \n LOCATION\n Albert & Janet Schultz Cultural Arts Hall at OFJCC \nWe're thrilled to welcome The Maccabeats back to the OFJCC for an unforgettable evening of music, laughter and Hanukkah spirit!\nKnown for their signature blend of rich vocal harmonies, polished performances and lighthearted Jewish humor, The Maccabeats create an experience that delights audiences of every age and background. Whether you're a longtime fan or seeing them for the first time, this is a Hanukkah celebration you won't want to miss.\nThere are two performances on this day:\nAfternoon Show: 4:00–5:00 PM | \nSOLD OUT\nEvening Show: 6:30–7:30 PM | Purchase tickets on this page\nAbout The Maccabeats\nSince their beginnings in 2007 as Yeshiva University's student a cappella group, The Maccabeats have become one of the most recognizable names in Jewish music. Their creative arrangements, exceptional musicianship and joyful performances have earned them millions of online views and fans around the world.\nPerforming with nothing more than the human voice, The Maccabeats seamlessly weave together Jewish, Israeli and contemporary music into performances that are both inspiring and entertaining. Their unique style reflects a deep appreciation for Jewish tradition while embracing the music and culture that connect people across generations.\nFrom sold-out performances at JCCs, synagogues, theaters, festivals and universities across the globe to appearances alongside renowned Jewish artists and at distinguished venues, The Maccabeats have built a reputation for bringing communities together through music. Their concerts are filled with warmth, humor and the kind of joyful energy that makes every audience feel like part of the celebration.\nJoin us as we welcome The Maccabeats back to the OFJCC and celebrate Hanukkah together with an evening of unforgettable music and community.\nCheck them out!",
+  "error": "",
+  "photos": []
+ },
+ "rwc-hometown-holidays": {
+  "url": "https://www.upbeatparades.com/parade-dates-and-entry-applications/redwood-city-hometown-holidays-parade",
+  "final_url": "https://www.upbeatparades.com/parade-dates-and-entry-applications/redwood-city-hometown-holidays-parade",
+  "status": "ok",
+  "method": "browser",
+  "attempts": [
+   "direct:thin:200",
+   "browser:thin:200"
+  ],
+  "http": 200,
+  "title": "Redwood City Hometown Holidays Parade — Upbeat Parade Productions",
+  "og_image": "http://static1.squarespace.com/static/61ce822d74a6a42af56946c6/63af78d2cbfa827ad0b34d06/68bca7b585733343e78fdf69/1794698719318/Redwood+City+Hometown+Holidays+Parade.jpg?format=1500w",
+  "image_candidates": [
+   "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3.png",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i659!3i1588!4i256!2m3!1e4!2st!3i805!2m3!1e0!2sr!3i805571598!3m17!2sen!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=73611",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i658!3i1586!4i256!2m3!1e4!2st!3i805!2m3!1e0!2sr!3i805571598!3m17!2sen!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=119318",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i657!3i1586!4i256!2m3!1e4!2st!3i805!2m3!1e0!2sr!3i805571598!3m17!2sen!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=89032",
+   "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i656!3i1587!4i256!2m3!1e4!2st!3i805!2m3!1e0!2sr!3i805571598!3m17!2sen!3sUS!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjMzfHMuZTpsfHAudjpvZmYscy5lOmx8cC52Om9mZixzLmU6bHxwLnY6b24!4e0!5m1!1e3!23i46991212!23i47054750!23i47083502&key=AIzaSyCBTROq6LuvF_IE1r46-T4AeTSV-0d7my8&token=86285"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [],
+  "dates": [
+   "Saturday, December 12, 2026",
+   "December 6",
+   "December 12"
+  ],
+  "text": "Back to All Events\nRedwood City Hometown Holidays Parade\nSaturday, December 12, 2026\n4:30 PM\n5:30 PM\nRedwood City, CA\n(map)\nGoogle Calendar\nICS\nKeystroke\nAction\n←\nMove left\n→\nMove right\n↑\nMove up\n↓\nMove down\n+\nZoom in\n-\nZoom out\nHome\nJump left by 75%\nEnd\nJump right by 75%\nPage Up\nJump up by 75%\nPage Down\nJump down by 75%\nKeyboard shortcuts\nMap Data\nMap data ©2026 Google\nMap data ©2026 Google\n2 km \nClick to toggle between metric and imperial units\nTerms\nReport a map error\n Event Website\n Parade Entry\nSource: \nhttps://redwoodcitydowntown.com/hometownholidays/\nPosted In: \nCalifornia\nTagged: \nRedwood City\nPrevious\nPrevious\nDecember 6\nSan Pedro Spirit of the Holidays Parade\nNext\nNext\nDecember 12\nPalos Verdes Peninsula Holiday Parade of Lights",
+  "error": "",
+  "photos": []
+ },
+ "badm-noon-years-eve": {
+  "url": "https://bayareadiscoverymuseum.org/events/noon-years-eve/",
+  "final_url": "https://bayareadiscoverymuseum.org/events/noon-years-eve/",
+  "status": "ok",
+  "method": "direct",
+  "attempts": [
+   "direct:ok:200"
+  ],
+  "http": 200,
+  "title": "Noon Year's Eve - Bay Area Discovery Museum",
+  "og_image": "https://bayareadiscoverymuseum.org/wp-content/uploads/2024/09/BADM_events_NoonYears_hero.jpg",
+  "image_candidates": [
+   "https://bayareadiscoverymuseum.org/wp-content/themes/badm/images/scroll-arrow.svg",
+   "https://bayareadiscoverymuseum.org/wp-content/uploads/2026/01/on-time-1-1.png",
+   "https://bayareadiscoverymuseum.org/wp-content/uploads/2026/01/parking-lot-1-1.png",
+   "https://bayareadiscoverymuseum.org/wp-content/uploads/2026/01/image-359-1.png",
+   "https://bayareadiscoverymuseum.org/wp-content/uploads/2026/01/party-1-1.png"
+  ],
+  "signals": {
+   "sold_out": [],
+   "waitlist": [],
+   "registration_closed": [],
+   "sales_ended": [],
+   "not_on_sale": [],
+   "cancelled": [],
+   "registration_required": [
+    "the stroke of noon! Get Tickets Tickets General Admission: $35 Members: $10 per ticket Tickets required for members. Capacity is limited. Advanced reservations recommended. Discovery Circle Mem"
+   ],
+   "deadline": [],
+   "age_limit": []
+  },
+  "prices": [
+   "$10",
+   "$35",
+   "free"
+  ],
+  "dates": [
+   "Thursday, December 31, 2026"
+  ],
+  "text": "Noon Year’s Eve \n Thursday, December 31, 2026 9AM – 2PM \nSkip the late-night chaos and celebrate the new year at Noon Year’s Eve! The entire museum transforms into a festive wonderland with festive music, hands-on crafts and a kid-friendly countdown to the ball drop.  It’s the perfect way for the whole family to ring in the new year together. Come spin, move, and celebrate the stroke of noon! \nGet Tickets\nTickets\nGeneral Admission:\n $35\nMembers:\n $10 per ticket\nTickets required for members. Capacity is limited. Advanced reservations recommended.\nDiscovery Circle Members:\n FREE\nEBT/WIC*:\n $10 per ticket\nBabies under 1 year:\n FREE\n*must be purchased at the event, limit 4\nSnag Your Spot!\nWhy Families Love our Festivals\nSwift and Simple Check-In\nNo printer necessary. We’ll scan your mobile tickets or retrieve your reservation by name.\nConvenient, Complimentary Parking\nFree parking offers easy, stress-free access to all the excitement.\nPicture-Perfect Moments\nCapture magical memories with the Golden Gate Bridge as your backdrop!\nNo Cleanup or Fuss\nForget about post-event cleanup. Simply enjoy the festivities!\nBUY TICKETS\nNo Member Hour during Noon Year’s Eve. Doors open at 9 am for all ticket holders.  \nCapacity is limited. The Museum is open rain or shine! All ticket sales are final. Tickets are non-refundable, non-transferable, and only valid if purchased directly from the Museum. Tickets can be applied toward membership.",
+  "error": "",
+  "photos": []
+ }
+}
