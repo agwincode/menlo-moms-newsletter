@@ -1,0 +1,28 @@
+{
+ "events": [
+  {"key": "mp-light-up-the-season", "url": "https://www.menlopark.gov/Citywide-calendar/Community-events/20261204-Light-Up-the-Season", "photos": true},
+  {"key": "hmb-night-of-lights", "url": "https://www.visithalfmoonbay.org/local/night-lights", "photos": true},
+  {"key": "springline-holiday", "url": "https://www.eventbrite.com/e/springlines-free-5th-annual-holiday-celebration-tickets-2004049044640", "photos": true},
+  {"key": "chabad-midpen-chanukah", "url": "https://www.chabadmidpen.com/templates/articlecco_cdo/aid/3798612/jewish/Chanukah-Festival.htm", "photos": true},
+  {"key": "gamble-garden-winter", "url": "http://gamblegarden.org/winter", "photos": true},
+  {"key": "pa-tree-lighting", "url": "https://www.paloalto.gov/Events-Directory/Community-Services/Holiday-Tree-Lighting", "photos": true},
+  {"key": "latkepalooza", "url": "https://www.eventbrite.com/e/latkepalooza-hanukkah-in-the-village-tickets-2002763001049", "photos": true},
+  {"key": "san-carlos-holiday-lights", "url": "https://www.cityofsancarlos.org/residents/community-events/night-of-holiday-lights"},
+  {"key": "burlingame-hanukkah-ice", "url": "http://chabadnp.com/chanukah"},
+  {"key": "jbn-hanukkah-party", "url": "https://jewishbabynetwork.org/peninsula/events/festival-of-lights-hanukkah-party-5/"},
+  {"key": "filoli-holidays", "url": "https://filoli.org/holidays/"},
+  {"key": "illuminodyssey", "url": "https://curiodyssey.org/illuminodyssey10/"},
+  {"key": "dickens-fair", "url": "https://dickensfair.com/tickets/"},
+  {"key": "christmas-in-the-park", "url": "https://christmasinthepark.com/"},
+  {"key": "caltrain-holiday-train", "url": "https://www.caltrain.com/holidaytrain"},
+  {"key": "pa-holiday-roundup", "url": "https://www.paloalto.gov/News-Articles/City-Manager/Holiday-Events-December-Festivities"},
+  {"key": "mp-winter-enrollment", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Activity-guide"},
+  {"key": "hiller-winter-camp", "url": "https://www.hiller.org/aviation-camp/"},
+  {"key": "curiodyssey-winter-camp", "url": "https://curiodyssey.org/learn-explore/school-breaks/winter-break-camps/"},
+  {"key": "mp-photos-with-santa", "url": "https://www.menlopark.gov/Citywide-calendar/Community-events/20261212-Photos-with-Santa"},
+  {"key": "mp-puppet-company", "url": "https://www.menlopark.gov/Government/Departments/Library-and-Community-Services/Events/Events-for-children/20261213-Puppet-Company"},
+  {"key": "ofjcc-maccabeats", "url": "https://paloaltojcc.org/event-detail/es_2316459/"},
+  {"key": "rwc-hometown-holidays", "url": "https://www.upbeatparades.com/parade-dates-and-entry-applications/redwood-city-hometown-holidays-parade"},
+  {"key": "badm-noon-years-eve", "url": "https://bayareadiscoverymuseum.org/events/noon-years-eve/"}
+ ]
+}
