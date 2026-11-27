@@ -5,18 +5,27 @@
   {
    "label": "Friday",
    "date": "2026-12-04",
-   "source": "unavailable"
+   "source": "open-meteo (early)",
+   "high": 61,
+   "low": 53,
+   "condition": "light drizzle"
   },
   {
    "label": "Saturday",
    "date": "2026-12-05",
-   "source": "unavailable"
+   "source": "open-meteo (early)",
+   "high": 59,
+   "low": 52,
+   "condition": "light drizzle"
   },
   {
    "label": "Sunday",
    "date": "2026-12-06",
-   "source": "unavailable"
+   "source": "open-meteo (early)",
+   "high": 54,
+   "low": 46,
+   "condition": "showers"
   }
  ],
- "line": "**[Weather unavailable. It refreshes every morning; check before sending.]**"
+ "line": "Forecast: Friday light drizzle (61\u00b0F), Saturday light drizzle (59\u00b0F), Sunday showers (54\u00b0F)."
 }
